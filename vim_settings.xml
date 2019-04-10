@@ -142,8 +142,8 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1554705435603">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1554866610817">
+        <mark key="'" line="158" column="0" />
         <mark key="[" line="136" column="108" />
         <mark key="]" line="136" column="113" />
         <mark key="^" line="136" column="113" />
@@ -201,8 +201,8 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/official_documents.blade.php" timestamp="1554705678663">
-        <mark key="[" line="55" column="87" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/official_documents.blade.php" timestamp="1554866961740">
+        <mark key="[" line="116" column="84" />
         <mark key="]" line="55" column="91" />
         <mark key="." line="55" column="91" />
         <mark key="^" line="55" column="91" />
@@ -290,6 +290,12 @@
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="24" />
         <mark key="^" line="49" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/jsvalidation.php" timestamp="1554867173092">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_04_09_045238_create_years_table.php" timestamp="1554789079452">
         <mark key="[" line="20" column="30" />
@@ -410,6 +416,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="66" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeOfficialDocumentRequest.php" timestamp="1554866909035">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_03_08_052252_create_employee_statuses_table.php" timestamp="1554787483469">
         <mark key="[" line="19" column="52" />
         <mark key="]" line="20" column="54" />
@@ -488,8 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionTypeController.php" />
-      <jump line="9" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/VisaEntryController.php" />
       <jump line="9" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/VisaTypeController.php" />
       <jump line="334" column="23" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="109" column="43" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" />
@@ -588,13 +599,15 @@
       <jump line="113" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Year.php" />
       <jump line="18" column="48" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/DatabaseSeeder.php" />
       <jump line="33" column="30" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/YearsTableSeeder.php" />
+      <jump line="158" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
+      <jump line="15" column="18" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeOfficialDocumentRequest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLi4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>POSITION</text>
@@ -603,22 +616,22 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCdqcy9wbHVnaW5zL2RhdGF0YWJsZXMvZGF0YXRhYmxlcy5taW4uanMnKSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2VuZ3NvZnQvbGFyYXZlbC1qc3ZhbGlkYXRpb24K</text>
+        <text encoding="base64">ICAgICAgLi4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCcK</text>
+        <text encoding="base64">ICAgIHByb2VuZ3NvZnQvbGFyYXZlbC1qc3ZhbGlkYXRpb24K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Int7IGFzc2V0KCcK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">JykgfX0iPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>s/plugins/datatables/datatables.min.js</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -627,10 +640,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0KCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tbWFuZCgndGVzdCcpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0KCkKICAgIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
