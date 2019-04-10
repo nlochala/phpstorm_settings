@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="esc">
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+      <shortuct text="ESCAPE" />
+    </macro>
+  </component>
+</application>
