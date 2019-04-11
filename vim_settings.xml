@@ -250,12 +250,12 @@
         <mark key="^" line="20" column="54" />
         <mark key="." line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1554965584158">
-        <mark key="'" line="173" column="14" />
-        <mark key="[" line="138" column="31" />
-        <mark key="]" line="138" column="41" />
-        <mark key="^" line="138" column="41" />
-        <mark key="." line="138" column="41" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1554968014004">
+        <mark key="'" line="176" column="14" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="140" column="44" />
+        <mark key="." line="140" column="44" />
+        <mark key="^" line="140" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/SchoolAreasTableSeeder.php" timestamp="1554795122147">
         <mark key="[" line="21" column="31" />
@@ -676,47 +676,47 @@
       <jump line="429" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzWydwcm9maWxlX2ltYWdlJ10pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>realPath</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJ2Rvd25sb2FkX2ZpbGUve2ZpbGV9JywgJ01lZGlhQ29udHJvbGxlckBkb3dubG9hZEZpbGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzWydwcm9maWxlX2ltYWdlJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">LT50b0FycmF5KCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaGVsbG8nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzWydwcm9maWxlX2ltYWdlJ10pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmFsbCgpKTsK</text>
+      <register name="4" type="8">
+        <text encoding="base64">LT50b0FycmF5KCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmFsbCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmFsbCgpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>/{file}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
