@@ -109,12 +109,12 @@
         <mark key="^" line="134" column="41" />
         <mark key="." line="134" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1554962804088">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1554963486661">
         <mark key="'" line="170" column="14" />
-        <mark key="[" line="125" column="36" />
-        <mark key="]" line="125" column="44" />
-        <mark key="^" line="125" column="44" />
-        <mark key="." line="125" column="44" />
+        <mark key="[" line="132" column="41" />
+        <mark key="]" line="132" column="48" />
+        <mark key="^" line="132" column="48" />
+        <mark key="." line="132" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_display_id_card_new.blade.php" timestamp="1554435722386">
         <mark key="'" line="69" column="0" />
@@ -390,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>input</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
