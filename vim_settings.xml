@@ -250,11 +250,10 @@
         <mark key="^" line="20" column="54" />
         <mark key="." line="20" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1555044104216">
-        <mark key="'" line="171" column="14" />
-        <mark key="[" line="136" column="41" />
-        <mark key="]" line="136" column="44" />
-        <mark key="." line="136" column="44" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" timestamp="1555046409209">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
         <mark key="^" line="136" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/SchoolAreasTableSeeder.php" timestamp="1554795122147">
@@ -510,12 +509,12 @@
       <file name="/Dummy.txt" timestamp="1554952441001">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555044637503">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555046796195">
         <mark key="'" line="37" column="10" />
-        <mark key="[" line="288" column="65" />
-        <mark key="]" line="288" column="68" />
-        <mark key="." line="288" column="68" />
-        <mark key="^" line="288" column="68" />
+        <mark key="[" line="394" column="63" />
+        <mark key="]" line="395" column="7" />
+        <mark key="." line="395" column="7" />
+        <mark key="^" line="395" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" timestamp="1554432545169">
         <mark key="'" line="144" column="85" />
@@ -686,11 +685,11 @@
       <jump line="37" column="10" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VXBsb2FkZWRGaWxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">VXBsb2FkZWRGaWxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -699,34 +698,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRtcF9maWxlID8gJHN0b3JlZF9maWxlc1tdID0gJHRtcF9maWxlLT51dWlkCiAgICAgICAgICAgICAgICA6ICRlcnJvcnNbXSA9ICdUaGVyZSB3YXMgYW4gaXNzdWUgdXBsb2FkaW5nIHRoZSBhdHRhY2hlZCBmaWxlLic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIUZpbGU6OnZhbGlkYXRlSW1hZ2UoJGZpbGUpKSB7CiAgICAgICAgICAgIEhlbHBlcnM6OmZsYXNoQWxlcnQoCiAgICAgICAgICAgICAgICAnZGFuZ2VyJywKICAgICAgICAgICAgICAgICdUaGUgZmlsZSB1cGxvYWRlZCB3YXMgbm90IGFuIGltYWdlLiBUaGUgZmlsZSBzaG91bGQgYmUgYW4gaW1hZ2UuIFBsZWFzZSB0cnkgYWdhaW4uJywKICAgICAgICAgICAgICAgICdmYSBmYS1pbmZvLWNpcmNsZSBtci0xJyk7CgogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzWyd1cGxvYWQnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRtcF9maWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIC8vICAgICAkLmZuLmZpbGVwb25kLnJlZ2lzdGVyUGx1Z2luKAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luRmlsZVZhbGlkYXRlVHlwZSwKICAgICAgICAgICAgLy8gICAgICAgICBGaWxlUG9uZFBsdWdpbkltYWdlRXhpZk9yaWVudGF0aW9uLAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VQcmV2aWV3LAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VDcm9wLAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VSZXNpemUsCiAgICAgICAgICAgIC8vICAgICAgICAgRmlsZVBvbmRQbHVnaW5JbWFnZVRyYW5zZm9ybSwKICAgICAgICAgICAgLy8gICAgICAgICBGaWxlUG9uZFBsdWdpbkltYWdlRWRpdCwKICAgICAgICAgICAgLy8gICAgICk7CiAgICAgICAgICAgIC8vIH0pOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAkKCcjZmlsZXBvbmQnKS5maWxlcG9uZCh7CiAgICAgICAgICAgIC8vICAgICBsYWJlbElkbGU6IGBEcmFnICYgRHJvcCB5b3VyIHBpY3R1cmUgb3IgPHNwYW4gY2xhc3M9ImZpbGVwb25kLS1sYWJlbC1hY3Rpb24iPkJyb3dzZTwvc3Bhbj5gLAogICAgICAgICAgICAvLyAgICAgaW1hZ2VQcmV2aWV3SGVpZ2h0OiAxNzAsCiAgICAgICAgICAgIC8vICAgICBpbWFnZUNyb3BBc3BlY3RSYXRpbzogJzE6MScsCiAgICAgICAgICAgIC8vICAgICBpbWFnZVJlc2l6ZVRhcmdldFdpZHRoOiAyMDAsCiAgICAgICAgICAgIC8vICAgICBpbWFnZVJlc2l6ZVRhcmdldEhlaWdodDogMjAwLAogICAgICAgICAgICAvLyAgICAgc3R5bGVQYW5lbExheW91dDogJ2NvbXBhY3QgY2lyY2xlJywKICAgICAgICAgICAgLy8gICAgIHN0eWxlTG9hZEluZGljYXRvclBvc2l0aW9uOiAnY2VudGVyIGJvdHRvbScsCiAgICAgICAgICAgIC8vICAgICBzdHlsZVByb2dyZXNzSW5kaWNhdG9yUG9zaXRpb246ICdyaWdodCBib3R0b20nLAogICAgICAgICAgICAvLyAgICAgc3R5bGVCdXR0b25SZW1vdmVJdGVtUG9zaXRpb246ICdsZWZ0IGJvdHRvbScsCiAgICAgICAgICAgIC8vICAgICBzdHlsZUJ1dHRvblByb2Nlc3NJdGVtUG9zaXRpb246ICdyaWdodCBib3R0b20nLAogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgaW1hZ2VFZGl0RWRpdG9yOiBEb2thLmNyZWF0ZSgpCiAgICAgICAgICAgIC8vIH0pOwoK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">LT51dWlk</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBqUXVlcnkoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgLy8gJChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIC8vICAgICAkLmZuLmZpbGVwb25kLnJlZ2lzdGVyUGx1Z2luKAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luRmlsZVZhbGlkYXRlVHlwZSwKICAgICAgICAgICAgLy8gICAgICAgICBGaWxlUG9uZFBsdWdpbkltYWdlRXhpZk9yaWVudGF0aW9uLAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VQcmV2aWV3LAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VDcm9wLAogICAgICAgICAgICAvLyAgICAgICAgIEZpbGVQb25kUGx1Z2luSW1hZ2VSZXNpemUsCiAgICAgICAgICAgIC8vICAgICAgICAgRmlsZVBvbmRQbHVnaW5JbWFnZVRyYW5zZm9ybSwKICAgICAgICAgICAgLy8gICAgICAgICBGaWxlUG9uZFBsdWdpbkltYWdlRWRpdCwKICAgICAgICAgICAgLy8gICAgICk7CiAgICAgICAgICAgIC8vIH0pOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAkKCcjZmlsZXBvbmQnKS5maWxlcG9uZCh7CiAgICAgICAgICAgIC8vICAgICBsYWJlbElkbGU6IGBEcmFnICYgRHJvcCB5b3VyIHBpY3R1cmUgb3IgPHNwYW4gY2xhc3M9ImZpbGVwb25kLS1sYWJlbC1hY3Rpb24iPkJyb3dzZTwvc3Bhbj5gLAogICAgICAgICAgICAvLyAgICAgaW1hZ2VQcmV2aWV3SGVpZ2h0OiAxNzAsCiAgICAgICAgICAgIC8vICAgICBpbWFnZUNyb3BBc3BlY3RSYXRpbzogJzE6MScsCiAgICAgICAgICAgIC8vICAgICBpbWFnZVJlc2l6ZVRhcmdldFdpZHRoOiAyMDAsCiAgICAgICAgICAgIC8vICAgICBpbWFnZVJlc2l6ZVRhcmdldEhlaWdodDogMjAwLAogICAgICAgICAgICAvLyAgICAgc3R5bGVQYW5lbExheW91dDogJ2NvbXBhY3QgY2lyY2xlJywKICAgICAgICAgICAgLy8gICAgIHN0eWxlTG9hZEluZGljYXRvclBvc2l0aW9uOiAnY2VudGVyIGJvdHRvbScsCiAgICAgICAgICAgIC8vICAgICBzdHlsZVByb2dyZXNzSW5kaWNhdG9yUG9zaXRpb246ICdyaWdodCBib3R0b20nLAogICAgICAgICAgICAvLyAgICAgc3R5bGVCdXR0b25SZW1vdmVJdGVtUG9zaXRpb246ICdsZWZ0IGJvdHRvbScsCiAgICAgICAgICAgIC8vICAgICBzdHlsZUJ1dHRvblByb2Nlc3NJdGVtUG9zaXRpb246ICdyaWdodCBib3R0b20nLAogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgaW1hZ2VFZGl0RWRpdG9yOiBEb2thLmNyZWF0ZSgpCiAgICAgICAgICAgIC8vIH0pOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzWyd1cGxvYWQnXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHRtcF9maWxlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRtcF9maWxlID0gRmlsZTo6c2F2ZUZpbGUoJHZhbHVlc1sndXBsb2FkJ10sICdwcml2YXRlJywgbnVsbCwgJy90bXAnKTsKICAgICAgICAgICAgJHRtcF9maWxlID8gJHN0b3JlZF9maWxlc1tdID0gJHRtcF9maWxlLT51dWlkCiAgICAgICAgICAgICAgICA6ICRlcnJvcnNbXSA9ICdUaGVyZSB3YXMgYW4gaXNzdWUgdXBsb2FkaW5nIHRoZSBhdHRhY2hlZCBmaWxlLic7Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">LT51dWlk</text>
       </register>
-      <register name="9" type="8">
-        <text>$stored_files[]</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
