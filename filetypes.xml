@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="_horizontal_menu_end" type="Blade" />
+      <mapping pattern="job_type" type="CSV" />
+      <mapping pattern="_horizontal_menu_item_start.blade.php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
