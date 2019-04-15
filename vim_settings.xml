@@ -25,11 +25,11 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1555304351346">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1555314235366">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeAddressRequest.php" timestamp="1554880835673">
         <mark key="[" line="59" column="0" />
@@ -518,18 +518,19 @@
       <file name="/Dummy.txt" timestamp="1555309868521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555314081427">
-        <mark key="'" line="418" column="28" />
-        <mark key="[" line="323" column="5" />
-        <mark key="]" line="421" column="0" />
-        <mark key="." line="421" column="0" />
-        <mark key="^" line="337" column="12" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555314683521">
+        <mark key="'" line="439" column="28" />
+        <mark key="[" line="332" column="40" />
+        <mark key="]" line="332" column="61" />
+        <mark key="." line="332" column="61" />
+        <mark key="^" line="332" column="61" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" timestamp="1555313929164">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="155" column="48" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" timestamp="1555314903068">
+        <mark key="'" line="186" column="4" />
+        <mark key="[" line="157" column="9" />
+        <mark key="]" line="159" column="76" />
+        <mark key="^" line="159" column="76" />
+        <mark key="." line="159" column="76" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_03_08_003155_create_employees_table.php" timestamp="1554789502823">
         <mark key="[" line="22" column="53" />
@@ -592,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
       <jump line="47" column="31" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/OfficialDocument.php" />
       <jump line="45" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" />
       <jump line="70" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" />
@@ -692,6 +692,7 @@
       <jump line="416" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="35" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/FileAudit.php" />
       <jump line="87" column="79" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_passport.blade.php" />
+      <jump line="169" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4227,67 +4228,66 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKTsK</text>
+      <register name="&quot;" type="4">
+        <text>image</text>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>image</text>
       </register>
       <register name="/" type="4">
-        <text>documents</text>
+        <text>image_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aElucHV0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVscGVyczo6Zmxhc2hBbGVydCgKICAgICAgICAgICAgICAgICdkYW5nZXInLAogICAgICAgICAgICAgICAgJ0NvdWxkIG5vdCBmaW5kIHRoZSB1cGxvYWRlZCBpbWFnZS4gUGxlYXNlIHRyeSBhZ2Fpbi4nLAogICAgICAgICAgICAgICAgJ2ZhIGZhLWluZm8tY2lyY2xlIG1yLTEnKTsKCiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCktPndpdGhJbnB1dCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbGVwb25kJyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRyZXNpemVkX2ltYWdlID0gRmlsZTo6c2F2ZUFuZFJlc2l6ZUltYWdlKCR2YWx1ZXNbJ2ltYWdlX2ZpbGUnXSwgJGZpbGVuYW1lKSkgewogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpLT53aXRoSW5wdXQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7ISEgSnNWYWxpZGF0b3I6OmZvcm1SZXF1ZXN0KCdcQXBwXEh0dHBcUmVxdWVzdHNcU3RvcmVFbXBsb3llZVBhc3Nwb3J0UmVxdWVzdCcsJyNwYXNzcG9ydC1mb3JtJykgISF9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fanNfdmFsaWRhdGVfc3RhcnQnKQogICAgICAgICAgICAvLyBJbml0IEZvcm0gVmFsaWRhdGlvbi4gZm9ybS5qcy52YWxpZGF0aW9uLnRlbXBsYXRlCiAgICAgICAgICAgIGpRdWVyeSgnI3Bhc3Nwb3J0LWZvcm0nKS52YWxpZGF0ZSh7CiAgICAgICAgICAgICAgICBpZ25vcmU6IFtdLAogICAgICAgICAgICAgICAgcnVsZXM6IHsKICAgICAgICAgICAgICAgICAgICAnaXNfY2FuY2VsbGVkJzogewogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgJ2NvdW50cnlfaWQnOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnZ2l2ZW5fbmFtZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdmYW1pbHlfbmFtZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdudW1iZXInOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnaXNzdWVfZGF0ZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdleHBpcmF0aW9uX2RhdGUnOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAndXBsb2FkJzogewogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBtZXNzYWdlczoge30KICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fanNfdmFsaWRhdGVfZW5kJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbGVwb25kJyA9PiAncmVxdWlyZWQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lzc3VlX2RhdGUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdleHBpcmF0aW9uX2RhdGUnID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ251bWJlcicgPT4gJ3JlcXVpcmVkfG51bWVyaWMnLAo=</text>
+        <text encoding="base64">ICAgICAgICB7ISEgSnNWYWxpZGF0b3I6OmZvcm1SZXF1ZXN0KCdcQXBwXEh0dHBcUmVxdWVzdHNcU3RvcmVFbXBsb3llZVBhc3Nwb3J0UmVxdWVzdCcsJyNwYXNzcG9ydC1mb3JtJykgISF9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dpdmVuX25hbWUnID0+ICdnJywKICAgICAgICAgICAgJ2ZhbWlseV9uYW1lJyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fanNfdmFsaWRhdGVfc3RhcnQnKQogICAgICAgICAgICAvLyBJbml0IEZvcm0gVmFsaWRhdGlvbi4gZm9ybS5qcy52YWxpZGF0aW9uLnRlbXBsYXRlCiAgICAgICAgICAgIGpRdWVyeSgnI3Bhc3Nwb3J0LWZvcm0nKS52YWxpZGF0ZSh7CiAgICAgICAgICAgICAgICBpZ25vcmU6IFtdLAogICAgICAgICAgICAgICAgcnVsZXM6IHsKICAgICAgICAgICAgICAgICAgICAnaXNfY2FuY2VsbGVkJzogewogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgJ2NvdW50cnlfaWQnOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnZ2l2ZW5fbmFtZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdmYW1pbHlfbmFtZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdudW1iZXInOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAnaXNzdWVfZGF0ZSc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICdleHBpcmF0aW9uX2RhdGUnOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkOiB0cnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAndXBsb2FkJzogewogICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBtZXNzYWdlczoge30KICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fanNfdmFsaWRhdGVfZW5kJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzc3VlX2RhdGUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdleHBpcmF0aW9uX2RhdGUnID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>documents</last-search>
+      <last-search>image_file</last-search>
       <last-offset />
-      <last-pattern>documents</last-pattern>
-      <last-replace />
-      <last-substitute>$\n</last-substitute>
+      <last-pattern>image_file</last-pattern>
+      <last-replace>upload</last-replace>
+      <last-substitute>image_file</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>downloadUrl</entry>
         <entry>Storage</entry>
         <entry>File</entry>
         <entry>fullname</entry>
@@ -4307,9 +4307,9 @@
         <entry>$\n</entry>
         <entry>file</entry>
         <entry>documents</entry>
+        <entry>image_file</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,Passport,ID Card,g</entry>
         <entry encoding="base64">JzwsJz5zLC0+aW1hZ2UsLT5mcm9udEltYWdlLGc=</entry>
         <entry encoding="base64">JzwsJz5zLC0+aW1hZ2UsLT5iYWNrSW1hZ2UsZw==</entry>
         <entry encoding="base64">JzwsJz5zLGZyb250LGJhY2ssZw==</entry>
@@ -4328,6 +4328,7 @@
         <entry>ww</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLGltYWdlX2ZpbGUsdXBsb2FkLGc=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
