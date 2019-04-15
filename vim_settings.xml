@@ -31,11 +31,11 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1555292967796">
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="97" column="11" />
-        <mark key="." line="97" column="11" />
-        <mark key="^" line="97" column="11" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1555293574234">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="101" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeAddressRequest.php" timestamp="1554880835673">
         <mark key="[" line="59" column="0" />
@@ -688,8 +688,8 @@
       <jump line="236" column="35" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -704,31 +704,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgIC8qCiAgIHwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICB8IEhFTFBFUlMKICAgfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBAbm9pbnNwZWN0aW9uIFBocFVuZGVmaW5lZE1ldGhvZEluc3BlY3Rpb24gKi8KICAgICAgICAkcmVzaXplZF9maWxlLT51cGRhdGUoWydvcmlnaW5hbF9maWxlX2lkJyA9PiAkZmlsZS0+aWRdKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZSA9IHN0YXRpYzo6bW92ZUZpbGUoJGZpbGUsICRwYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>env('FILE_PERMANENT_DIRECTORY')</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>env(&quot;FILE_PERMANENT_DIRECTORY&quot;)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvKiBAbm9pbnNwZWN0aW9uIFBocFVuZGVmaW5lZE1ldGhvZEluc3BlY3Rpb24gKi8KICAgICAgICAkcmVzaXplZF9maWxlLT51cGRhdGUoWydvcmlnaW5hbF9maWxlX2lkJyA9PiAkZmlsZS0+aWRdKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>env('FILE_PERMANENT_DIRECTORY')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>$filename = null,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlsZSA9IHN0YXRpYzo6bW92ZUZpbGUoJGZpbGUsICRwYXRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
