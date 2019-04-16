@@ -380,11 +380,11 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" timestamp="1555395635107">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="26" />
-        <mark key="." line="74" column="26" />
-        <mark key="^" line="74" column="26" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" timestamp="1555397499136">
+        <mark key="[" line="74" column="29" />
+        <mark key="]" line="74" column="29" />
+        <mark key="^" line="74" column="13" />
+        <mark key="." line="74" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_03_01_020943_create_person_table.php" timestamp="1554690615981">
         <mark key="[" line="29" column="48" />
@@ -407,12 +407,11 @@
       <file name="/Dummy.txt" timestamp="1555394151398">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555396002741">
-        <mark key="'" line="415" column="63" />
-        <mark key="[" line="418" column="15" />
-        <mark key="]" line="418" column="19" />
-        <mark key="." line="418" column="19" />
-        <mark key="^" line="418" column="19" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555398037741">
+        <mark key="[" line="412" column="18" />
+        <mark key="]" line="412" column="34" />
+        <mark key="." line="412" column="34" />
+        <mark key="^" line="412" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" timestamp="1555386530819">
         <mark key="'" line="193" column="4" />
@@ -439,11 +438,11 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/MediaController.php" timestamp="1555388409139">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="48" column="15" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/MediaController.php" timestamp="1555397867146">
+        <mark key="[" line="62" column="73" />
+        <mark key="]" line="62" column="73" />
+        <mark key="." line="62" column="73" />
+        <mark key="^" line="62" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeOfficialDocumentRequest.php" timestamp="1555394249353">
         <mark key="[" line="41" column="44" />
@@ -4106,50 +4105,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$file;</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">JHBhdGggJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>$file;</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
         <text>image_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aElucHV0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZShqc29uX2VuY29kZSgkZXJyb3JzKSwgNDQ0KTsK</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">JGZpbGUsIA==</text>
+        <text encoding="base64">JHBhdGggJiYg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text encoding="base64">JGZpbGUsIA==</text>
+        <text>There was an issue uploading the attached file.</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">RmlsZSAkZmlsZSwg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">RmlsZSAkZmlsZSwg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlsZW5hbWUgPSBTdHI6OnNsdWcoKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCR0aGlzLT5wYXRoID09IGVudignRklMRV9QRVJNQU5FTlRfRElSRUNUT1JZJykpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
+      <register name="5" type="8">
+        <text encoding="base64">J29mZmljaWFsIGRvY3VtZW50ICcuJGVtcGxveWVlLT5wZXJzb24tPmZ1bGxOYW1lKHRydWUp</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnZXJlJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>empty(</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaXNUbXAoRmlsZSAkZmlsZSkKICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
