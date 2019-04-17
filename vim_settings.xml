@@ -68,12 +68,12 @@
         <mark key="." line="187" column="0" />
         <mark key="^" line="200" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_position.blade.php" timestamp="1555471477329">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_position.blade.php" timestamp="1555473201393">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="81" column="18" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="58" column="84" />
+        <mark key="]" line="59" column="19" />
+        <mark key="^" line="59" column="19" />
+        <mark key="." line="59" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/PersonType.php" timestamp="1554690772545">
         <mark key="'" line="138" column="0" />
