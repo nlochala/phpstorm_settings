@@ -66,10 +66,11 @@
         <mark key="." line="194" column="7" />
         <mark key="^" line="194" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/PositionFactory.php" timestamp="1555480459955">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/PositionFactory.php" timestamp="1555484531812">
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_position.blade.php" timestamp="1555475673593">
         <mark key="'" line="1" column="0" />
@@ -215,6 +216,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/PositionsTableSeeder.php" timestamp="1555484511938">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" timestamp="1555397499136">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="29" />
@@ -227,7 +234,7 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555476744183">
+      <file name="/Dummy.txt" timestamp="1555483669659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555398037741">
@@ -3904,11 +3911,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRzY2hvb2wgPSBcQXBwXFNjaG9vbDo6Zmlyc3QoKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>school_id</text>
       </register>
       <register name="-" type="4">
-        <text>ASTEXT</text>
+        <text>school_id</text>
       </register>
       <register name="/" type="4">
         <text>image_file</text>
@@ -3917,37 +3924,37 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogcmV0dXJuIHN0YXJ0X2RhdGUgYXMgY2FyYm9uIG9iamVjdC4KICAgICAqCiAgICAgKiBAcGFyYW0gJHZhbHVlCiAgICAgKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U3RhcnREYXRlQXR0cmlidXRlKCR2YWx1ZSkKICAgIHsKICAgICAgICBpZiAoJHZhbHVlKSB7CiAgICAgICAgICAgIENhcmJvbjo6cGFyc2UoJHZhbHVlKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRzY2hvb2wgPSBcQXBwXFNjaG9vbDo6Zmlyc3QoKTsKCg==</text>
+        <text encoding="base64">dXNlIEFwcFxTY2hvb2w7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnc2Nob29sX2lkJyA9PiAkc2Nob29sLT5pZCwK</text>
+        <text encoding="base64">ICAgICAgICAkc2Nob29scyA9IFNjaG9vbDo6YWxsKCk7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>, $school_id</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICB8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICB8IFRBQkxFOiBTQ0hPT0xTCiAgICAgICAgfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgKi8KICAgICAgICBTY2hlbWE6OnRhYmxlKCdzY2hvb2xzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdzY2hvb2xfYXJlYV9pZCcpCiAgICAgICAgICAgICAgICAtPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdzY2hvb2xfYXJlYXMnKTsKICAgICAgICB9KTsKCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICRzY2hvb2wgPSBcQXBwXFNjaG9vbDo6Zmlyc3QoKTsKCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnc2Nob29sX2FyZWFfaWQnLAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnc2Nob29sX2lkJyA9PiAkc2Nob29sLT5pZCwK</text>
+      </register>
+      <register name="6" type="8">
+        <text>, $school_id</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3NjaG9vbF9hcmVhX2lkJyktPm51bGxhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT5zY2hvb2xfYXJlYV9pZCA9ICRzY2hvb2xbM107Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICB8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICB8IFRBQkxFOiBTQ0hPT0xTCiAgICAgICAgfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgKi8KICAgICAgICBTY2hlbWE6OnRhYmxlKCdzY2hvb2xzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdzY2hvb2xfYXJlYV9pZCcpCiAgICAgICAgICAgICAgICAtPnJlZmVyZW5jZXMoJ2lkJyktPm9uKCdzY2hvb2xfYXJlYXMnKTsKICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RWFybHkgQ2hpbGRob29kClNjaG9vbC1XaWRlCkVsZW1lbnRhcnkKRWFybHkgQ2hpbGRob29kClNjaG9vbC1XaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAnc2Nob29sX2FyZWFfaWQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
