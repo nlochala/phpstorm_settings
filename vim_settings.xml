@@ -303,12 +303,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" timestamp="1555853706327">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="68" column="28" />
-        <mark key="]" line="68" column="31" />
-        <mark key="^" line="68" column="31" />
-        <mark key="." line="68" column="31" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" timestamp="1555857769182">
+        <mark key="'" line="76" column="97" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="40" column="10" />
+        <mark key="." line="40" column="10" />
+        <mark key="^" line="40" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1555485003711">
         <mark key="[" line="0" column="0" />
@@ -419,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="9" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeAddressRequest.php" />
       <jump line="261" column="65" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/contact.blade.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/app.php" />
@@ -519,6 +518,7 @@
       <jump line="40" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Position.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" />
       <jump line="10" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Position.php" />
+      <jump line="75" column="97" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4054,47 +4054,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>positionType</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">e3sgJF9fSVRFTV9fLT5pZCB9fQ==</text>
       </register>
       <register name="-" type="4">
-        <text>positionType</text>
+        <text>__URL__</text>
       </register>
       <register name="/" type="4">
         <text>image_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRpc2FibGVGb3JlaWduS2V5Q29uc3RyYWludHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVwb3NpdGlvbi5idXR0b25zKDEsIG51bGwpLmNvbnRhaW5lcigpLmFwcGVuZFRvKAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">e3sgJF9fSVRFTV9fLT5pZCB9fQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICA8IS0tIFRBQkxFIE9GIFBPU0lUSU9OUyAtLT4KICAgIHt7LS0gICAgPHRhYmxlIGlkPSJwb3NpdGlvbl90YWJsZSIgY2xhc3M9InRhYmxlIHRhYmxlLWhvdmVyIHRhYmxlLXZjZW50ZXIiPi0tfX0KICAgIHt7LS0gICAgICAgIDx0aGVhZD4tLX19CiAgICB7ey0tICAgICAgICA8dHI+LS19fQogICAge3stLSAgICAgICAgICAgIDx0aD5pZDwvdGg+LS19fQogICAge3stLSAgICAgICAgICAgIDx0aD5uYW1lPC90aD4tLX19CiAgICB7ey0tICAgICAgICAgICAgPHRoPnBvc2l0aW9uX3R5cGVfaWQ8L3RoPi0tfX0KICAgIHt7LS0gICAgICAgICAgICA8dGg+c2Nob29sX2lkPC90aD4tLX19CiAgICB7ey0tICAgICAgICAgICAgPHRoPnN1cGVydmlzb3JfcG9zaXRpb25faWQ8L3RoPi0tfX0KICAgIHt7LS0gICAgICAgICAgICA8dGg+c3RpcGVuZDwvdGg+LS19fQogICAge3stLSAgICAgICAgPC90cj4tLX19CiAgICB7ey0tICAgICAgICA8L3RoZWFkPi0tfX0KICAgIHt7LS0gICAgICAgIDx0Ym9keT4tLX19CiAgICB7ey0tICAgICAgICA8L3Rib2R5Pi0tfX0KICAgIHt7LS0gICAgPC90YWJsZT4tLX19Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">PGRpdiBzdHlsZT0nZm9udC1mYW1pbHk6IG1vbm9zcGFjZSwgbW9ub3NwYWNlJz4iICsgZGF0YSArICI8L2Rpdj4=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="8">
+        <text>1, null</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJmcnRpcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVwb3NpdGlvbi5idXR0b25zKCkuY29udGFpbmVyKCkKICAgICAgICAgICAgICAgIC5wcmVwZW5kVG8oJyNwb3NpdGlvbl90YWJsZV93cmFwcGVyJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IC5jb2wtbWQtNjplcSgwKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgICAgKiAgVGhpcyBwb3NpdGlvbiB3YXMgY3JlYXRlZCBieSBhIHVzZXIuCiAgICAgCg==</text>
+      <register name="7" type="8">
+        <text>1, null</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmJlbG9uZ3N0bwo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">LmFwcGVuZFRvKCA=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
