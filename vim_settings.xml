@@ -303,12 +303,12 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" timestamp="1555857769182">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_assignment.blade.php" timestamp="1555902392104">
         <mark key="'" line="76" column="97" />
-        <mark key="[" line="39" column="22" />
-        <mark key="]" line="40" column="10" />
-        <mark key="." line="40" column="10" />
-        <mark key="^" line="40" column="10" />
+        <mark key="[" line="76" column="113" />
+        <mark key="]" line="76" column="137" />
+        <mark key="." line="76" column="137" />
+        <mark key="^" line="76" column="137" />
       </file>
       <file name="/Dummy.txt" timestamp="1555485003711">
         <mark key="[" line="0" column="0" />
@@ -4054,11 +4054,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">e3sgJF9fSVRFTV9fLT5pZCB9fQ==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>__URL__</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>image_file</text>
@@ -4067,37 +4067,37 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFibGVwb3NpdGlvbi5idXR0b25zKDEsIG51bGwpLmNvbnRhaW5lcigpLmFwcGVuZFRvKAo=</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">e3sgJF9fSVRFTV9fLT5pZCB9fQ==</text>
+        <text encoding="base64">IEFkZA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text encoding="base64">PGRpdiBzdHlsZT0nZm9udC1mYW1pbHk6IG1vbm9zcGFjZSwgbW9ub3NwYWNlJz4iICsgZGF0YSArICI8L2Rpdj4=</text>
+        <text encoding="base64">e3sgJF9fSVRFTV9fLT5pZCB9fQ==</text>
       </register>
       <register name="3" type="8">
-        <text>1, null</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0nZm9udC1mYW1pbHk6IG1vbm9zcGFjZSwgbW9ub3NwYWNlJz4iICsgZGF0YSArICI8L2Rpdj4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJmcnRpcAo=</text>
+      <register name="4" type="8">
+        <text>1, null</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJmcnRpcAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGFibGVwb3NpdGlvbi5idXR0b25zKCkuY29udGFpbmVyKCkKICAgICAgICAgICAgICAgIC5wcmVwZW5kVG8oJyNwb3NpdGlvbl90YWJsZV93cmFwcGVyJwo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IC5jb2wtbWQtNjplcSgwKQ==</text>
-      </register>
       <register name="7" type="8">
-        <text>1, null</text>
+        <text encoding="base64">IC5jb2wtbWQtNjplcSgwKQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="8">
-        <text encoding="base64">LmFwcGVuZFRvKCA=</text>
+        <text>1, null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">LmFwcGVuZFRvKCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
