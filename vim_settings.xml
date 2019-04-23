@@ -49,6 +49,12 @@
         <mark key="." line="216" column="51" />
         <mark key="^" line="216" column="51" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" timestamp="1556004509406">
+        <mark key="[" line="43" column="23" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="43" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/PositionFactory.php" timestamp="1555999308131">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="12" column="48" />
@@ -123,6 +129,12 @@
         <mark key="." line="22" column="21" />
         <mark key="^" line="22" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_css.blade.php" timestamp="1556004959016">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_04_22_040709_create_employees_positions_pivot_table.php" timestamp="1555906118521">
         <mark key="[" line="16" column="40" />
         <mark key="]" line="18" column="65" />
@@ -147,11 +159,11 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556003429380">
-        <mark key="[" line="126" column="36" />
-        <mark key="]" line="126" column="36" />
-        <mark key="." line="126" column="36" />
-        <mark key="^" line="126" column="26" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556005687560">
+        <mark key="[" line="136" column="28" />
+        <mark key="]" line="136" column="28" />
+        <mark key="^" line="136" column="40" />
+        <mark key="." line="136" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1555980169321">
         <mark key="'" line="59" column="0" />
@@ -234,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
       <jump line="48" column="54" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
       <jump line="37" column="10" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="92" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" />
@@ -334,6 +345,7 @@
       <jump line="92" column="16" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" />
       <jump line="111" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" />
       <jump line="43" column="31" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" />
+      <jump line="116" column="83" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3870,49 +3882,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>htmlentities</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>htmlentities</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiI3Bvc2l0aW9uX3R5cGVfaWQiKS5zZWxlY3QyKHsgcGxhY2Vob2xkZXI6ICJDaG9vc2UgT25lLi4uIiB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvcl9pbnB1dCA9IGVsLnN1bW1lcm5vdGUoJ2NvZGUnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm0uZHJvcGRvd24uc2luZ2xlCg==</text>
+      <register name="1" type="8">
+        <text>$(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvcl9pbnB1dCA9IGVsLnN1bW1lcm5vdGUoJ2NvZGUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJhc3NldHMvIj4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>js/plugins/summernote/summernote-bs4.css</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1OZXcgUGFuZWwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19zdGFydF9wYW5lbCcsIFsndGl0bGUnID0+ICRwb3NpdGlvbi0+bmFtZSwgJ3dpdGhfYmxvY2snID0+IHRydWVdKQogICAgPGRpdiBjbGFzcz0iYmxvY2stb3B0aW9ucyI+CiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWhlcm8tc20gYnRuLWhlcm8tbGlnaHQiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiB0aXRsZT0iRWRpdCIKICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbi5ocmVmPScvcG9zaXRpb24ve3sgJHBvc2l0aW9uLT51dWlkIH19L2VkaXQnIj4KICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXBlbiI+PC9pPiBFZGl0CiAgICAgICAgPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWhlcm8tc20gIGJ0bi1oZXJvLWRhbmdlciIgZGF0YS10b2dnbGU9InRvb2x0aXAiIHRpdGxlPSJBcmNoaXZlIgogICAgICAgICAgICAgICAgb25jbGljaz0id2luZG93LmxvY2F0aW9uLmhyZWY9Jy9wb3NpdGlvbi97eyAkcG9zaXRpb24tPnV1aWQgfX0vYXJjaGl2ZSciPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGltZXMiPjwvaT4gQXJjaGl2ZQogICAgICAgIDwvYnV0dG9uPgogICAgPC9kaXY+CiAgICA8L2Rpdj4KICAgIHt7LS0gRU5EIEJMT0NLIE9QVElPTlMgLS19fQogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19zdGFydF9jb250ZW50JykKCiAgICBAaW5jbHVkZSgnX3RhYmxlcy5uZXctdGFibGUnLFsnY2xhc3MnID0+ICd0YWJsZS1ib3JkZXJsZXNzJywgJ2lkJyA9PiAkcG9zaXRpb24tPmlkLidfdGFibGUnLCAndGFibGVfaGVhZCcgPT4gWycnLCcnXV0pCiAgICA8dHI+CiAgICAgICAgPHRkPjxzdHJvbmc+UG9zaXRpb24gVGl0bGU6PC9zdHJvbmc+PC90ZD4KICAgICAgICA8dGQ+e3sgJHBvc2l0aW9uLT5uYW1lfX08L3RkPgogICAgPC90cj4KICAgIDx0cj4KICAgICAgICA8dGQ+PHN0cm9uZz5UeXBlOjwvc3Ryb25nPjwvdGQ+CiAgICAgICAgPHRkPnt7ICRwb3NpdGlvbi0+dHlwZS0+bmFtZX19PC90ZD4KICAgIDwvdHI+CiAgICA8dHI+CiAgICAgICAgPHRkPjxzdHJvbmc+QXJlYSBvZiBSZXNwb25zaWJpbGl0eTo8L3N0cm9uZz48L3RkPgogICAgICAgIDx0ZD57eyAkcG9zaXRpb24tPnNjaG9vbC0+bmFtZX19PC90ZD4KICAgIDwvdHI+CiAgICA8dHI+CiAgICAgICAgPHRkPjxzdHJvbmc+U3VwZXJ2aXNpbmcgUG9zaXRpb246PC9zdHJvbmc+PC90ZD4KICAgICAgICA8dGQ+e3sgJHBvc2l0aW9uLT5zdXBlcnZpc29yLT5uYW1lfX08L3RkPgogICAgPC90cj4KICAgIDx0cj4KICAgICAgICA8dGQ+PHN0cm9uZz5TdGlwZW5kOjwvc3Ryb25nPjwvdGQ+CiAgICAgICAgPHRkPnt7ICRwb3NpdGlvbi0+c3RpcGVuZCB9fTwvdGQ+CiAgICA8L3RyPgogICAgQGluY2x1ZGUoJ190YWJsZXMuZW5kLW5ldy10YWJsZScpCiAgICA8c3Ryb25nPlBvc2l0aW9uIERlc2NyaXB0aW9uPC9zdHJvbmc+CiAgICA8cD57ISEgJHBvc2l0aW9uLT5kZXNjcmlwdGlvbiAhIX08L3A+CgogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19lbmRfY29udGVudCcpCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9wYW5lbCcpCiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4K</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1oZXJvLXN1Y2Nlc3MiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiB0aXRsZT0iTmV3IFBvc2l0aW9uIgogICAgICAgICAgICBvbmNsaWNrPSJ3aW5kb3cubG9jYXRpb24uaHJlZj0nL3Bvc2l0aW9uL2NyZWF0ZSciPgogICAgICAgIDxpIGNsYXNzPSJmYSBmYS1wbHVzIj48L2k+IE5ldyBQb3NpdGlvbgogICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8aHIgLz4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyOiAnSGVsbG8gYm9vdHN0cmFwIDQnLAogICAgICAgICAgICAgICAgdGFic2l6ZTogMiwKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1oZXJvLXByaW1hcnkiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiB0aXRsZT0iRWRpdCIKICAgICAgICAgICAgb25jbGljaz0id2luZG93LmxvY2F0aW9uLmhyZWY9Jy9wb3NpdGlvbi97eyAkcG9zaXRpb24tPnV1aWQgfX0vZWRpdCciPgogICAgICAgIDxpIGNsYXNzPSJmYSBmYS1wZW4iPjwvaT4gRWRpdAogICAgPC9idXR0b24+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4taGVyby1kYW5nZXIiIGRhdGEtdG9nZ2xlPSJ0b29sdGlwIiB0aXRsZT0iQXJjaGl2ZSIKICAgICAgICAgICAgb25jbGljaz0id2luZG93LmxvY2F0aW9uLmhyZWY9Jy9wb3NpdGlvbi97eyAkcG9zaXRpb24tPnV1aWQgfX0vYXJjaGl2ZSciPgogICAgICAgIDxpIGNsYXNzPSJmYSBmYS1wZW4iPjwvaT4gQXJjaGl2ZQogICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIHt7LS0gSElEREVOIElOUFVUIE5BTUU9ZGVzY3JpcHRpb24gVkFMVUU9bnVsbCBJRD1kZXNjcmlwdGlvbiAgLS19fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
