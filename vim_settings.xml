@@ -28,6 +28,12 @@
         <mark key="." line="88" column="27" />
         <mark key="^" line="88" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/DuskTestCase.php" timestamp="1556089241162">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_radio.blade.php" timestamp="1555985004487">
         <mark key="'" line="32" column="91" />
         <mark key="[" line="17" column="0" />
@@ -3909,8 +3915,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly91c2UgTGFyYXZlbFxEdXNrXFRlc3RDYXNlIGFzIEJhc2VUZXN0Q2FzZTsK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -3922,37 +3928,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkYXRhID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJyc7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly91c2UgTGFyYXZlbFxEdXNrXFRlc3RDYXNlIGFzIEJhc2VUZXN0Q2FzZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7IGRkKCRwb3NpdGlvbi0+ZGVzY3JpcHRpb24pIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHt7IGRkKCRwb3NpdGlvbi0+ZGVzY3JpcHRpb24pIH19Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>N/A</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKGlzT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoJzEnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIElGIEVYUEVDVElORyBBTiBBUlJBWSBPUiBDT0xMRUNUSU9OIE9GIElURU1TCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIUFycmF5LmlzQXJyYXkoZGF0YSkgfHwgIWRhdGEubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICdOL0EnOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgndGVzdCcpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgndGVzdCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGF0YS5uYW1lOwogICAgICAgICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAnJzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KEpTT04uc3RyaW5naWZ5KGRhdGEpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzT2JqZWN0KGRhdGEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGF0YS5uYW1lOwogICAgICAgICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAnJzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
