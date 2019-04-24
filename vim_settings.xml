@@ -65,12 +65,12 @@
         <mark key="^" line="74" column="13" />
         <mark key="." line="74" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" timestamp="1556080269785">
-        <mark key="'" line="163" column="20" />
-        <mark key="[" line="165" column="45" />
-        <mark key="]" line="165" column="45" />
-        <mark key="^" line="165" column="58" />
-        <mark key="." line="165" column="45" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" timestamp="1556081383671">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="96" />
+        <mark key="." line="150" column="53" />
+        <mark key="^" line="150" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_panels_start_column.blade.php" timestamp="1555986228421">
         <mark key="[" line="3" column="47" />
@@ -97,11 +97,10 @@
         <mark key="." line="57" column="96" />
         <mark key="^" line="57" column="96" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StorePositionRequest.php" timestamp="1556075780230">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="27" column="24" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StorePositionRequest.php" timestamp="1556080967175">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeOverviewRequest.php" timestamp="1555476923260">
         <mark key="[" line="42" column="37" />
@@ -109,10 +108,10 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556075160257">
-        <mark key="[" line="161" column="55" />
-        <mark key="]" line="161" column="56" />
-        <mark key="." line="161" column="56" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556081459366">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_overview.blade.php" timestamp="1555987869127">
         <mark key="'" line="89" column="0" />
@@ -253,8 +252,12 @@
         <mark key="." line="72" column="32" />
         <mark key="^" line="72" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" timestamp="1556075335580">
-        <mark key="'" line="90" column="15" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" timestamp="1556082025663">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="62" column="45" />
+        <mark key="^" line="62" column="87" />
+        <mark key="." line="62" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" timestamp="1555907210156">
         <mark key="[" line="163" column="0" />
@@ -264,15 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="53" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="315" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="306" column="41" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="28" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="326" column="57" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="346" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
-      <jump line="236" column="35" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="127" column="25" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" />
       <jump line="413" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
@@ -364,6 +358,15 @@
       <jump line="90" column="15" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
       <jump line="49" column="54" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
       <jump line="163" column="20" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
+      <jump line="177" column="43" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
+      <jump line="176" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
+      <jump line="51" column="85" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" />
+      <jump line="180" column="43" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
+      <jump line="55" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
+      <jump line="119" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3899,50 +3902,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">WydkZXNjcmlwdGlvbi1lZGl0JyA9PiAkdmFsdWVzWydkZXNjcmlwdGlvbiddXQ==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>updated</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlZGl0X2VsZW1lbnQuc3VtbWVybm90ZSgnY29kZScsZXJyb3JfdGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQG5vaW5zcGVjdGlvbiBQaHBVbmRlZmluZWRNZXRob2RJbnNwZWN0aW9uICovCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YXIgZXJyb3JfdGV4dCA9ICc8aDI+VGhpcyBmaWVsZCBpcyByZXF1aXJlZCEhPC9oMj4nOwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">WydkZXNjcmlwdGlvbi1lZGl0JyA9PiAkdmFsdWVzWydkZXNjcmlwdGlvbiddXQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0X2VsZW1lbnQucHJlcGVuZFRvKGVycm9yX3Rlc3QpOwo=</text>
-      </register>
-      <register name="3" type="8">
-        <text>; font-family: &quot;Nunito Sans&quot;, -apple-system, system-ui, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjYW5jZWwgc3VibWl0Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoMjU1LCAwLCAwKTsgYmFja2dyb3VuZC1jb2xvcjogcmdiKDI1NSwgMjU1LCAyNTUpOyI+</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="8">
+        <text>$position = Position::create($values)</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gSUYgVEhFUkUgSVMgRVhJU1RJTkcgVEVYVCBUTyBQQVNTIFRIUk9VR0gKICAgICAgICAgICAgdGV4dF9kYXRhID0gJyc7CiAgICAgICAgICAgIGVkaXRfZWxlbWVudC5zdW1tZXJub3RlKCdjb2RlJywgdGV4dF9kYXRhKTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWwgPSAkKCcjZGVzY3JpcHRpb24tZWRpdCcpOwoKICAgICAgICAgICAgZWwuc3VtbWVybm90ZSh7CiAgICAgICAgICAgICAgICB0b29sYmFyOiBbCiAgICAgICAgICAgICAgICAgICAgWydzdHlsZSddLAogICAgICAgICAgICAgICAgICAgIFsnc3R5bGUnLCBbJ2JvbGQnLCAnaXRhbGljJywgJ3VuZGVybGluZScsICdjbGVhciddXSwKICAgICAgICAgICAgICAgICAgICBbJ2ZvbnQnLCBbJ3N0cmlrZXRocm91Z2gnLCAnc3VwZXJzY3JpcHQnLCAnc3Vic2NyaXB0J11dLAogICAgICAgICAgICAgICAgICAgIFsncGFyYScsIFsndWwnLCAnb2wnLCAncGFyYWdyYXBoJ11dLAogICAgICAgICAgICAgICAgICAgIFsnaW5zZXJ0JywgWydwaWN0dXJlJywgJ2xpbmsnLCAndmlkZW8nLCAndGFibGUnLCAnaHInXV0sCiAgICAgICAgICAgICAgICAgICAgWydtaXNjJywgWyd1bmRvJywgJ3JlZG8nLCdmdWxsc2NyZWVuJywgJ2hlbHAnXV0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICB0YWJzaXplOiAyLAogICAgICAgICAgICAgICAgaGVpZ2h0OiA0MDAsCiAgICAgICAgICAgICAgICBkaWFsb2dzSW5Cb2R5OiB0cnVlLAogICAgICAgICAgICAgICAgZGlhbG9nc0ZhZGU6IHRydWUsCiAgICAgICAgICAgICAgICBjYWxsYmFja3M6IHsKICAgICAgICAgICAgICAgICAgICBvbkJsdXI6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgY29udGVudCA9IGVsLnN1bW1lcm5vdGUoJ2NvZGUnKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI2Rlc2NyaXB0aW9uJykudmFsKGNvbnRlbnQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29udGVudHMgaXMgZW1wdHksIGZpbGwgaXQhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIC8vIGRvIGFjdGlvbgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gSUYgVEhFUkUgSVMgRVhJU1RJTkcgVEVYVCBUTyBQQVNTIFRIUk9VR0gKICAgICAgICAgICAgdGV4dF9kYXRhID0gJyc7CiAgICAgICAgICAgIGVkaXRfZWxlbWVudC5zdW1tZXJub3RlKCdjb2RlJywgdGV4dF9kYXRhKTsK</text>
       </register>
-      <register name="9" type="8">
-        <text>$('#TextText')</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBlZGl0X2VsZW1lbnQgPSAkKCcjZGVzY3JpcHRpb24tZWRpdCcpOwogICAgICAgICAgICB2YXIgaW5wdXRfZWxlbWVudCA9ICQoJyNkZXNjcmlwdGlvbicpOwogICAgICAgICAgICB2YXIgZXJyb3JfdGV4dCA9ICc8cD48c3BhbiBzdHlsZT0iY29sb3I6IHJnYigyMjQsIDc5LCAyNik7IGZvbnQtc2l6ZTogMTRweDsiPlRoZSBzdXBlcnZpc2luZyBwb3NpdGlvbiBmaWVsZCBpcyByZXF1aXJlZC48L3NwYW4+PC9wPic7CgogICAgICAgICAgICBlZGl0X2VsZW1lbnQuc3VtbWVybm90ZSh7CiAgICAgICAgICAgICAgICB0b29sYmFyOiBbCiAgICAgICAgICAgICAgICAgICAgWydzdHlsZSddLAogICAgICAgICAgICAgICAgICAgIFsnc3R5bGUnLCBbJ2JvbGQnLCAnaXRhbGljJywgJ3VuZGVybGluZScsICdjbGVhciddXSwKICAgICAgICAgICAgICAgICAgICBbJ2ZvbnQnLCBbJ3N0cmlrZXRocm91Z2gnLCAnc3VwZXJzY3JpcHQnLCAnc3Vic2NyaXB0J11dLAogICAgICAgICAgICAgICAgICAgIFsncGFyYScsIFsndWwnLCAnb2wnLCAncGFyYWdyYXBoJ11dLAogICAgICAgICAgICAgICAgICAgIFsnaW5zZXJ0JywgWydwaWN0dXJlJywgJ2xpbmsnLCAndmlkZW8nLCAndGFibGUnLCAnaHInXV0sCiAgICAgICAgICAgICAgICAgICAgWydtaXNjJywgWyd1bmRvJywgJ3JlZG8nLCAnZnVsbHNjcmVlbicsICdoZWxwJ11dCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgdGFic2l6ZTogMiwKICAgICAgICAgICAgICAgIGhlaWdodDogNDAwLAogICAgICAgICAgICAgICAgZGlhbG9nc0luQm9keTogdHJ1ZSwKICAgICAgICAgICAgICAgIGRpYWxvZ3NGYWRlOiB0cnVlLAogICAgICAgICAgICAgICAgY2FsbGJhY2tzOiB7CiAgICAgICAgICAgICAgICAgICAgb25CbHVyOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gZWRpdF9lbGVtZW50LnN1bW1lcm5vdGUoJ2NvZGUnKTsKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRfZWxlbWVudC52YWwoY29udGVudCk7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBjb250ZW50ID0gZWRpdF9lbGVtZW50LnN1bW1lcm5vdGUoJ2NvZGUnKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoY29udGVudCA9PSBlcnJvcl90ZXh0KXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVkaXRfZWxlbWVudC5zdW1tZXJub3RlKCdjb2RlJywgJycpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICQoJyNwb3NpdGlvbi1mb3JtJykub24oJ3N1Ym1pdCcsIGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgICAgICBpZiAoZWRpdF9lbGVtZW50LnN1bW1lcm5vdGUoJ2lzRW1wdHknKSkgewogICAgICAgICAgICAgICAgICAgIGVkaXRfZWxlbWVudC5zdW1tZXJub3RlKCdjb2RlJyxlcnJvcl90ZXh0KTsKICAgICAgICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
