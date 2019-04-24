@@ -153,7 +153,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556075196097">
+      <file name="/Dummy.txt" timestamp="1556088147285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/PositionFactory.php" timestamp="1556069919831">
@@ -187,6 +187,12 @@
         <mark key="]" line="178" column="31" />
         <mark key="." line="178" column="31" />
         <mark key="^" line="180" column="37" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/ExampleTest.php" timestamp="1556088370871">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/SchoolsTableSeeder.php" timestamp="1555853125683">
         <mark key="[" line="13" column="8" />
@@ -3904,10 +3910,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>delete</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
