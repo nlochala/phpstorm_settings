@@ -159,11 +159,11 @@
         <mark key="." line="42" column="51" />
         <mark key="^" line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556005687560">
-        <mark key="[" line="136" column="28" />
-        <mark key="]" line="136" column="28" />
-        <mark key="^" line="136" column="40" />
-        <mark key="." line="136" column="28" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/edit.blade.php" timestamp="1556067896783">
+        <mark key="[" line="106" column="84" />
+        <mark key="]" line="116" column="83" />
+        <mark key="." line="116" column="83" />
+        <mark key="^" line="116" column="83" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1555980169321">
         <mark key="'" line="59" column="0" />
@@ -196,6 +196,7 @@
         <mark key="." line="55" column="34" />
         <mark key="^" line="55" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_text.blade.php" timestamp="1556067263748" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_idcard.blade.php" timestamp="1555391970484">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="74" column="79" />
@@ -3881,11 +3882,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>htmlentities</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLU5ldyBkZXNjcmlwdGlvbiB0ZXh0IGZpZWxkLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtc20tNCBjb2wtZm9ybS1sYWJlbCIgZm9yPSJkZXNjcmlwdGlvbi1lZGl0Ij5EZXNjcmlwdGlvbgogICAgICAgICAgICBAaWYodHJ1ZSkKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZXh0LWRhbmdlciI+Kjwvc3Bhbj4KICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8ZGl2IGlkPSJkZXNjcmlwdGlvbi1lZGl0Ij4gPC9kaXY+CiAgICA8L2Rpdj4KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>htmlentities</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXZcPg==</text>
@@ -3893,38 +3894,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvcl9pbnB1dCA9IGVsLnN1bW1lcm5vdGUoJ2NvZGUnKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>$(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLU5ldyBkZXNjcmlwdGlvbiB0ZXh0IGZpZWxkLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtc20tNCBjb2wtZm9ybS1sYWJlbCIgZm9yPSJkZXNjcmlwdGlvbi1lZGl0Ij5EZXNjcmlwdGlvbgogICAgICAgICAgICBAaWYodHJ1ZSkKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ0ZXh0LWRhbmdlciI+Kjwvc3Bhbj4KICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8ZGl2IGlkPSJkZXNjcmlwdGlvbi1lZGl0Ij4gPC9kaXY+CiAgICA8L2Rpdj4KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvcl9pbnB1dCA9IGVsLnN1bW1lcm5vdGUoJ2NvZGUnKTsK</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPiA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJhc3NldHMvIj4K</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPiA8L2Rpdj4K</text>
       </register>
-      <register name="4" type="8">
-        <text>js/plugins/summernote/summernote-bs4.css</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPiA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPiA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJkZXNjcmlwdGlvbi1lZGl0Ij4gPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyOiAnSGVsbG8gYm9vdHN0cmFwIDQnLAogICAgICAgICAgICAgICAgdGFic2l6ZTogMiwKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">IGNsYXNzPSJjb2wtc20tOCIg</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImRlc2NyaXB0aW9uLWVkaXQiPjwvZGl2Pgo=</text>
+      <register name="8" type="8">
+        <text>{{ $label }}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7LS0gSElEREVOIElOUFVUIE5BTUU9ZGVzY3JpcHRpb24gVkFMVUU9bnVsbCBJRD1kZXNjcmlwdGlvbiAgLS19fQo=</text>
+      <register name="9" type="8">
+        <text>{{ $name }}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
