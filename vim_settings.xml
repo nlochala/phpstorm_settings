@@ -65,12 +65,12 @@
         <mark key="^" line="74" column="13" />
         <mark key="." line="74" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" timestamp="1556076203583">
-        <mark key="'" line="49" column="54" />
-        <mark key="[" line="163" column="155" />
-        <mark key="]" line="163" column="154" />
-        <mark key="." line="163" column="154" />
-        <mark key="^" line="163" column="154" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" timestamp="1556080269785">
+        <mark key="'" line="163" column="20" />
+        <mark key="[" line="165" column="45" />
+        <mark key="]" line="165" column="45" />
+        <mark key="^" line="165" column="58" />
+        <mark key="." line="165" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_panels_start_column.blade.php" timestamp="1555986228421">
         <mark key="[" line="3" column="47" />
@@ -264,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" />
       <jump line="314" column="53" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="315" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" />
@@ -364,6 +363,7 @@
       <jump line="8" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StorePositionRequest.php" />
       <jump line="90" column="15" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionController.php" />
       <jump line="49" column="54" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
+      <jump line="163" column="20" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3899,68 +3899,66 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29udGVudHMgaXMgZW1wdHksIGZpbGwgaXQhJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>myForm</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXZcPg==</text>
+        <text encoding="base64">JnF1b3Q7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdkZXNjcmlwdGlvbicgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ3NjaG9vbF9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ3Bvc2l0aW9uX3R5cGVfaWQnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdzdXBlcnZpc29yX3Bvc2l0aW9uX2lkJyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlZGl0X2VsZW1lbnQuc3VtbWVybm90ZSgnY29kZScsZXJyb3JfdGV4dCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29udGVudHMgaXMgZW1wdHksIGZpbGwgaXQhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB2YXIgZXJyb3JfdGV4dCA9ICc8aDI+VGhpcyBmaWVsZCBpcyByZXF1aXJlZCEhPC9oMj4nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIC8vIGRvIGFjdGlvbgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0X2VsZW1lbnQucHJlcGVuZFRvKGVycm9yX3Rlc3QpOwo=</text>
       </register>
       <register name="3" type="8">
-        <text>$('#TextText')</text>
+        <text>; font-family: &quot;Nunito Sans&quot;, -apple-system, system-ui, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjYW5jZWwgc3VibWl0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGlmKAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">PHNwYW4gc3R5bGU9ImNvbG9yOiByZ2IoMjU1LCAwLCAwKTsgYmFja2dyb3VuZC1jb2xvcjogcmdiKDI1NSwgMjU1LCAyNTUpOyI+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAnZG9iJyA9PiAnZGF0ZSBvZiBiaXJ0aCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAnZG9iLnJlcXVpcmVkJyA9PiAnWW91ciBkYXRlIG9mIGJpcnRoIGlzIHJlcXVpcmVkLicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnY29udGVudHMgaXMgZW1wdHksIGZpbGwgaXQhJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdkZXNjcmlwdGlvbicgPT4gJ3JlcXVpcmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIC8vIGRvIGFjdGlvbgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="8">
+        <text>$('#TextText')</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXZcPg==</last-search>
+      <last-search encoding="base64">JnF1b3Q7</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXZcPg==</last-pattern>
-      <last-replace>upload</last-replace>
-      <last-substitute>image_file</last-substitute>
+      <last-pattern encoding="base64">JnF1b3Q7</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute encoding="base64">JnF1b3Q7</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>File</entry>
-        <entry>fullname</entry>
         <entry>filename</entry>
         <entry encoding="base64">LT5pbWFnZQ==</entry>
         <entry>front</entry>
@@ -3979,10 +3977,10 @@
         <entry>documents</entry>
         <entry>image_file</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
+        <entry encoding="base64">XCZxdW90</entry>
+        <entry encoding="base64">JnF1b3Q7</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,Passport,IdCard,g</entry>
-        <entry>%s,passport,id_card</entry>
         <entry>%s,passport,id_card,g</entry>
         <entry encoding="base64">JzwsJz5zLHZpc2EsaWRfY2FyZCxn</entry>
         <entry encoding="base64">JzwsJz5zLFZpc2EsSWRDYXJkLGc=</entry>
@@ -4000,6 +3998,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry encoding="base64">cyxcJnF1b3QsIixn</entry>
+        <entry encoding="base64">JzwsJz5zLCZxdW90OywiLGc=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
