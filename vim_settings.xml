@@ -211,8 +211,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="32" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556088147285">
+      <file name="/Dummy.txt" timestamp="1556168099373">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555398037741">
         <mark key="[" line="412" column="18" />
