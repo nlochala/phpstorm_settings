@@ -36,11 +36,6 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StorePositionRequest.php" timestamp="1556080967175">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" timestamp="1556092188113">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="46" />
@@ -90,6 +85,12 @@
         <mark key="]" line="0" column="52" />
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env.dusk.dev" timestamp="1556160124841">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_03_08_052309_create_positions_table.php" timestamp="1555987812928">
         <mark key="[" line="24" column="50" />
@@ -170,6 +171,13 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1556160112423">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="19" />
+        <mark key="." line="34" column="19" />
+        <mark key="^" line="34" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/view.blade.php" timestamp="1556071002519">
         <mark key="[" line="42" column="56" />
         <mark key="]" line="42" column="57" />
@@ -190,6 +198,12 @@
         <mark key="]" line="412" column="34" />
         <mark key="." line="412" column="34" />
         <mark key="^" line="412" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.gitignore" timestamp="1556159997099">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/id_card_form.blade.php" timestamp="1555393931746">
         <mark key="[" line="55" column="34" />
@@ -3890,11 +3904,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Ms0wpdk4</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Ms0wpdk4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
