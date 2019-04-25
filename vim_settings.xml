@@ -204,11 +204,11 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/ExampleTest.php" timestamp="1556156257658">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/ExampleTest.php" timestamp="1556158326616">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_idcard.blade.php" timestamp="1555391970484">
         <mark key="[" line="55" column="0" />
