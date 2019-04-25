@@ -9,6 +9,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Components/Dropdown.php" timestamp="1556178504567">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1556175103666">
         <mark key="'" line="33" column="0" />
       </file>
@@ -189,11 +195,11 @@
         <mark key="." line="181" column="23" />
         <mark key="^" line="181" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556175897529">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
-        <mark key="^" line="23" column="73" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556178796451">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/debugbar.php" timestamp="1556157482591">
         <mark key="[" line="15" column="41" />
@@ -3951,11 +3957,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCcnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -3963,38 +3969,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkcGVyc29uOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCcnKQo=</text>
+      <register name="1" type="8">
+        <text>'title'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnc2VsZWN0b3InKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnc2VsZWN0b3InKTsK</text>
       </register>
-      <register name="4" type="8">
-        <text>migrate:fresh --seed</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRpc2FibGVGb3JlaWduS2V5Q29uc3RyYWludHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>App\</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmVuYWJsZUZvcmVpZ25LZXlDb25zdHJhaW50cygpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
