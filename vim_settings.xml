@@ -189,11 +189,11 @@
         <mark key="." line="181" column="23" />
         <mark key="^" line="181" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556175237988">
-        <mark key="[" line="22" column="66" />
-        <mark key="]" line="22" column="66" />
-        <mark key="^" line="22" column="66" />
-        <mark key="." line="22" column="66" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556175897529">
+        <mark key="[" line="23" column="73" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="73" />
+        <mark key="^" line="23" column="73" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/debugbar.php" timestamp="1556157482591">
         <mark key="[" line="15" column="41" />
@@ -3951,11 +3951,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>displayName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCcnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>displayName</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -3964,7 +3964,7 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkcGVyc29uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCcnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3972,29 +3972,29 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>migrate:fresh --seed</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>migrate:fresh --seed</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRpc2FibGVGb3JlaWduS2V5Q29uc3RyYWludHMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>App\</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRpc2FibGVGb3JlaWduS2V5Q29uc3RyYWludHMoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmVuYWJsZUZvcmVpZ25LZXlDb25zdHJhaW50cygpOwogICAgfQoK</text>
+      <register name="8" type="8">
+        <text>App\</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBSdW4gdGhlIGRhdGFiYXNlIHNlZWRzLgogICAgICAgICAqCiAgICAgICAgICogQHJldHVybiB2b2lkCiAgICAgICAgICovCiAgICAgICAgcHVibGljIGZ1bmN0aW9uIHJ1bigpCiAgICB7CiAgICAgICAgU2NoZW1hOjpkaXNhYmxlRm9yZWlnbktleUNvbnN0cmFpbnRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmVuYWJsZUZvcmVpZ25LZXlDb25zdHJhaW50cygpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4051,8 +4051,8 @@
         <entry encoding="base64">cyxcJnF1b3QsIixn</entry>
         <entry encoding="base64">JzwsJz5zLCZxdW90OywiLGc=</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
