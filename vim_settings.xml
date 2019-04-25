@@ -65,6 +65,12 @@
         <mark key="^" line="18" column="65" />
         <mark key="." line="18" column="65" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfile.php" timestamp="1556155819974">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" timestamp="1555397499136">
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="29" />
@@ -3922,10 +3928,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>testExample</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>testExample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JnF1b3Q7</text>
