@@ -109,12 +109,12 @@
         <mark key="." line="103" column="63" />
         <mark key="^" line="106" column="83" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556605163222">
-        <mark key="'" line="225" column="47" />
-        <mark key="[" line="231" column="20" />
-        <mark key="]" line="231" column="72" />
-        <mark key="." line="231" column="20" />
-        <mark key="^" line="227" column="71" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556605437397">
+        <mark key="'" line="223" column="47" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="225" column="71" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php" timestamp="1556163936931">
         <mark key="[" line="15" column="37" />
@@ -3973,8 +3973,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGJyb3dzZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -3986,7 +3986,7 @@
         <text encoding="base64">ZGl2W2lkPW1vZGFsLWJsb2NrLWFkZHJlc3MtJy4kYWRkcmVzc19tb2RlbC0+aWQuJ10gIw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dmlzaXQobmV3IEVtcGxveWVlUHJvZmlsZSgkdGhpcy0+cGVyc29uLT5lbXBsb3llZSkpOwogICAgICAgICAgICAgICAgLT5zdWJtaXRQcm9maWxlRm9ybSgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGJyb3dzZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3995,28 +3995,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYnJvd3Nlci0+aW5wdXRWYWx1ZSgnYWRkcmVzc19saW5lXzEnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dmlzaXQobmV3IEVtcGxveWVlUHJvZmlsZSgkdGhpcy0+cGVyc29uLT5lbXBsb3llZSkpOwogICAgICAgICAgICAgICAgLT5zdWJtaXRQcm9maWxlRm9ybSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc19tb2RlbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYnJvd3Nlci0+aW5wdXRWYWx1ZSgnYWRkcmVzc19saW5lXzEnKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRkcmVzc19tb2RlbCA9IEFkZHJlc3M6OndoZXJlKCdhZGRyZXNzX2xpbmVfMScsICRhZGRyZXNzX2xpbmVfMSktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc19tb2RlbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc19tb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">LCc9Jywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkYWRkcmVzc19tb2RlbCA9IEFkZHJlc3M6OndoZXJlKCdhZGRyZXNzX2xpbmVfMScsICRhZGRyZXNzX2xpbmVfMSktPmZpcnN0KCk7Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">LT5nZXQoKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc19tb2RlbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
