@@ -134,6 +134,7 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/facebook/webdriver/lib/Chrome/ChromeDriverService.php" timestamp="1556584116399" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env.dusk.dev" timestamp="1556160945775">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="33" column="20" />
@@ -213,6 +214,11 @@
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="92" />
         <mark key="." line="1" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.json" timestamp="1556585402818">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeOverviewRequest.php" timestamp="1555476923260">
         <mark key="[" line="42" column="37" />
@@ -4001,11 +4007,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>assertSee</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
