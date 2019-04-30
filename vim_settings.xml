@@ -80,6 +80,12 @@
         <mark key="." line="110" column="114" />
         <mark key="^" line="110" column="114" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/contact.blade.php" timestamp="1556586985202">
+        <mark key="[" line="190" column="60" />
+        <mark key="]" line="190" column="70" />
+        <mark key="^" line="190" column="70" />
+        <mark key="." line="190" column="70" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/CreatesApplication.php" timestamp="1556161674886">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -116,12 +122,12 @@
         <mark key="." line="103" column="63" />
         <mark key="^" line="106" column="83" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556546274686">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556588140963">
         <mark key="'" line="52" column="48" />
-        <mark key="[" line="94" column="66" />
-        <mark key="]" line="95" column="56" />
-        <mark key="." line="95" column="56" />
-        <mark key="^" line="95" column="56" />
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="28" />
+        <mark key="." line="100" column="28" />
+        <mark key="^" line="100" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php" timestamp="1556163936931">
         <mark key="[" line="15" column="37" />
@@ -232,7 +238,7 @@
         <mark key="." line="181" column="23" />
         <mark key="^" line="181" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556543759198">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556587656047">
         <mark key="[" line="41" column="84" />
         <mark key="]" line="42" column="40" />
         <mark key="." line="42" column="40" />
@@ -4008,49 +4014,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YXNzZXJ0U2VlKCR0aGlzLT5lbXBsb3llZS0+cGVyc29uLT5lbWFpbF9zY2hvb2wp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT50eXBlKCdlbWFpbF9wcmltYXJ5JywgJHRlc3RfZW1haWxfcHJpbWFyeSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">JHRoaXMtPmZha2VyLT5lbWFpbCk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVuQXZhaWxhYmxlKCdAZW1haWxfbW9kYWwnLCBmdW5jdGlvbiAoQnJvd3NlciAkbW9kYWwpIHsKLy8gICAgICAgICAgICAgICAgJG1vZGFsLT5hc3NlcnRTZWVJbignQGVtYWlsX21vZGFsJywgJHRoaXMtPmVtcGxveWVlLT5wZXJzb24tPmVtYWlsX3NjaG9vbCk7Ci8vICAgICAgICAgICAgICAgICRtb2RhbC0+YXNzZXJ0U2VlSW4oJyNtb2RhbC1ibG9jay1lbWFpbCcsICd0ZXN0Jyk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnROb3QoJHRoaXMtPmVtcGxveWVlLT5wZXJzb24tPmVtYWlsX3ByaW1hcnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtb2RhbC0+dHlwZSgnZW1haWxfcHJpbWFyeScsICR0aGlzLT5mYWtlci0+ZW1haWwpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>@email_modal</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWxfcHJpbWFyeSA9ICR0aGlzLT5lbXBsb3llZS0+cGVyc29uLT5lbWFpbF9wcmltYXJ5OwogICAgICAgICRlbWFpbF9zZWNvbmRhcnkgPSAkdGhpcy0+ZW1wbG95ZWUtPnBlcnNvbi0+ZW1haWxfc2Vjb25kYXJ5OwogICAgICAgICRlbWFpbF9zY2hvb2wgPSAkdGhpcy0+ZW1wbG95ZWUtPnBlcnNvbi0+ZW1haWxfc2Nob29sOwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">JHRoaXMtPmVtcGxveWVlLT5wZXJzb24tPmVtYWlsX3NjaG9vbA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gQ2hlY2sgYW5kIGFzc2VydCB0aGF0IHlvdSBjYW4gc2VlIGFueSBlbWFpbHMgdGhhdCBtaWdodCBiZSBzZXQuCiAgICAgICAgISRlbWFpbF9wcmltYXJ5ID86ICRicm93c2VyLT5hc3NlcnRTZWUoJGVtYWlsX3ByaW1hcnkpOwogICAgICAgICEkZW1haWxfc2Vjb25kYXJ5ID86ICRicm93c2VyLT5hc3NlcnRTZWUoJGVtYWlsX3NlY29uZGFyeSk7CiAgICAgICAgISRlbWFpbF9zY2hvb2wgPzogJGJyb3dzZXItPmFzc2VydFNlZSgkZW1haWxfc2Nob29sKTsK</text>
+      <register name="6" type="8">
+        <text encoding="base64">JHRoaXMtPmVtcGxveWVlLT5wZXJzb24tPmVtYWlsX3NjaG9vbA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtb2RhbCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIF9fYwo=</text>
+      <register name="8" type="8">
+        <text>button[data-target=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
