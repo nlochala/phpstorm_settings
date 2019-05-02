@@ -4,6 +4,7 @@
       <mapping pattern="_horizontal_menu_end" type="Blade" />
       <mapping pattern="job_type" type="CSV" />
       <mapping pattern="_horizontal_menu_item_start.blade.php" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
