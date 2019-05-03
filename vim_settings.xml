@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/dusk/src/DuskServiceProvider.php" timestamp="1556783411616">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/dusk/src/DuskServiceProvider.php" timestamp="1556848469884">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="114" column="90" />
         <mark key="]" line="114" column="90" />
@@ -191,11 +191,11 @@
         <mark key="." line="103" column="63" />
         <mark key="^" line="106" column="83" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556773286874">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeContactInformation.php" timestamp="1556848727016">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="43" />
-        <mark key="." line="194" column="0" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_display_passport.blade.php" timestamp="1556781651627">
         <mark key="[" line="7" column="15" />
@@ -4096,7 +4096,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU0VFIFNVQ0NFU1MKICAgICAgICAgICAgLT5zZWVTdWNjZXNzRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYnJvd3Nlci0+YXNzZXJ0QXV0aGVudGljYXRlZCgpOwoK</text>
       </register>
       <register name="-" type="4">
         <text>$</text>
@@ -4108,37 +4108,37 @@
         <text encoding="base64">JHBhc3Nwb3J0LT5zYXZlKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU0VFIFNVQ0NFU1MKICAgICAgICAgICAgLT5zZWVTdWNjZXNzRGlhbG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYnJvd3Nlci0+YXNzZXJ0QXV0aGVudGljYXRlZCgpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU0VFIFNVQ0NFU1MKICAgICAgICAgICAgLT5zZWVTdWNjZXNzRGlhbG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text encoding="base64">IGJyb3dzZXIt</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5wYXVzZSg1MDAwKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW1wbG95ZWUtPnBlcnNvbi0+cGFzc3BvcnRzWzBdLT5pcygkdGhpcy0+cGFzc3BvcnQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5wYXVzZSg1MDAwKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">LT5jb3VudCgp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW1wbG95ZWUtPnBlcnNvbi0+cGFzc3BvcnRzWzBdLT5pcygkdGhpcy0+cGFzc3BvcnQpKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW1wbG95ZWUtPnBlcnNvbi0+cGFzc3BvcnRzLT5jb3VudCgpKTsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">LT5jb3VudCgp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
