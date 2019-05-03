@@ -308,8 +308,8 @@
         <mark key="." line="181" column="23" />
         <mark key="^" line="181" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556781939316">
-        <mark key="'" line="16" column="37" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1556842623439">
+        <mark key="'" line="89" column="1" />
         <mark key="[" line="120" column="34" />
         <mark key="]" line="121" column="33" />
         <mark key="." line="121" column="33" />
@@ -460,7 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="54" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
       <jump line="163" column="20" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
       <jump line="177" column="43" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
       <jump line="176" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/create.blade.php" />
@@ -560,6 +559,7 @@
       <jump line="89" column="36" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeePassportVisa.php" />
       <jump line="120" column="51" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" />
       <jump line="47" column="10" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/dusk/src/DuskServiceProvider.php" />
+      <jump line="89" column="1" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
