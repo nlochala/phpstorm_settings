@@ -245,12 +245,12 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_edit_form_id_card.blade.php" timestamp="1556955072690">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_edit_form_id_card.blade.php" timestamp="1557025224261">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-        <mark key="^" line="71" column="32" />
+        <mark key="[" line="70" column="17" />
+        <mark key="]" line="70" column="22" />
+        <mark key="." line="70" column="22" />
+        <mark key="^" line="70" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/passport_form.blade.php" timestamp="1556851664780">
         <mark key="[" line="41" column="21" />
@@ -4174,11 +4174,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dXBkYXRlSWRDYXJkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>Passport</text>
