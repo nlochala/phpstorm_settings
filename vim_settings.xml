@@ -125,6 +125,12 @@
         <mark key="." line="109" column="78" />
         <mark key="^" line="109" column="78" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/files.csv" timestamp="1557114670199">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/Page.php" timestamp="1556543317301">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="13" column="47" />
@@ -414,11 +420,11 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1555398037741">
-        <mark key="[" line="412" column="18" />
-        <mark key="]" line="412" column="34" />
-        <mark key="." line="412" column="34" />
-        <mark key="^" line="412" column="34" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/File.php" timestamp="1557115550910">
+        <mark key="[" line="163" column="7" />
+        <mark key="]" line="163" column="39" />
+        <mark key="." line="163" column="39" />
+        <mark key="^" line="163" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.gitignore" timestamp="1556159997099">
         <mark key="[" line="4" column="4" />
@@ -518,11 +524,12 @@
         <mark key="^" line="125" column="43" />
         <mark key="." line="125" column="43" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557113957567">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557115725871">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PassportController.php" timestamp="1556847540558">
         <mark key="[" line="33" column="0" />
@@ -571,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreatePassport.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreatePassport.php" />
       <jump line="65" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreatePassport.php" />
@@ -671,6 +677,7 @@
       <jump line="262" column="10" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="261" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="49" column="3" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeOfficialDocuments.php" />
+      <jump line="30" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4207,66 +4214,65 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmcm9udF9pbWFnZV9maWxlX2lkJyA9PiBUZXN0SGVscGVyczo6Z2V0U2FtcGxlSW1hZ2UoKS0+aWQsCiAgICAgICAgICAgICAgICAnYmFja19pbWFnZV9maWxlX2lkJyA9PiBUZXN0SGVscGVyczo6Z2V0U2FtcGxlSW1hZ2UoKS0+aWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAkbmV3X2ZpbGUtPm9yaWdpbmFsX2ZpbGVfaWQgPSAkbGFzdF9maWxlLT5pZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>IdCard</text>
+        <text>last_file</text>
       </register>
       <register name="/" type="4">
-        <text>Passport</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAkYnJvd3Nlci0+bG9naW5BcygkdGhpcy0+dXNlci0+aWQpCi8vICAgICAgICAgICAgICAgIC0+dmlzaXQobmV3IEVtcGxveWVlSWRDYXJkKCR0aGlzLT5wZXJzb24tPmVtcGxveWVlKSkKLy8gICAgICAgICAgICAgICAgLT5jYW5jZWxJZENhcmQoKQovLyAgICAgICAgICAgICAgICAtPmRlbGV0ZUlkQ2FyZCgpCi8vICAgICAgICAgICAgICAgIC0+bG9nb3V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmcm9udF9pbWFnZV9maWxlX2lkJyA9PiBUZXN0SGVscGVyczo6Z2V0U2FtcGxlSW1hZ2UoKS0+aWQsCiAgICAgICAgICAgICAgICAnYmFja19pbWFnZV9maWxlX2lkJyA9PiBUZXN0SGVscGVyczo6Z2V0U2FtcGxlSW1hZ2UoKS0+aWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAkbmV3X2ZpbGUtPm9yaWdpbmFsX2ZpbGVfaWQgPSAkbGFzdF9maWxlLT5pZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBJZENhcmQgICAkaWRfY2FyZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxJZENhcmQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y2FuY2VsSWRDYXJkKCkKICAgICAgICAgICAgICAgIC0+ZGVsZXRlSWRDYXJkKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGV4dGVuc2lvbl90eXBlOwo=</text>
+      </register>
+      <register name="4" type="8">
+        <text>, $extension_type</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">IHVzZSAkZXh0ZW5zaW9uX3R5cGU=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcGFyYW1ldGVyMQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHRoaXMtPmlkQ2FyZC0+bnVtYmVyKQogICAgICAgICAgICAtPmFzc2VydFNlZSgkdGhpcy0+aWRDYXJkLT5pc3N1ZV9kYXRlLT5mb3JtYXQoJ1ktbS1kJykpCiAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCR0aGlzLT5pZENhcmQtPmV4cGlyYXRpb25fZGF0ZS0+Zm9ybWF0KCdZLW0tZCcpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>oA1OW7VnOiktwf89hyEORyDWJJdbqzH9h8U72khX,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT52aXNpdChuZXcgRW1wbG95ZWVJZENhcmQoKSkK</text>
+      <register name="9" type="8">
+        <text>5d7fc55f-7743-4106-a7b4-4222d1474942,2,&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Passport</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>Passport</last-pattern>
-      <last-replace>IdCard</last-replace>
-      <last-substitute>Passport</last-substitute>
+      <last-pattern>image</last-pattern>
+      <last-replace>file</last-replace>
+      <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>':.*</entry>
         <entry>'$</entry>
         <entry>post</entry>
         <entry>$\n</entry>
@@ -4286,9 +4292,9 @@
         <entry encoding="base64">cGFzc3BvcnQtPmlk</entry>
         <entry>passport</entry>
         <entry>Passport</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry encoding="base64">JzwsJz5zLGltYWdlX2ZpbGUsdXBsb2FkLGc=</entry>
         <entry>w:w</entry>
         <entry>e</entry>
@@ -4307,6 +4313,7 @@
         <entry encoding="base64">JzwsJz5zLFBhc3Nwb3J0LElkQ2FyZCxn</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLGltYWdlLGZpbGUsZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
