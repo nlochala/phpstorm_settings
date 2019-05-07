@@ -122,11 +122,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/deploy.php" timestamp="1557208523255">
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-        <mark key="^" line="58" column="34" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/deploy.php" timestamp="1557209235164">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="31" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="108" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_form_close.blade.php" timestamp="1556072919130">
         <mark key="[" line="1" column="59" />
@@ -4234,8 +4234,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IC0tc2VlZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
@@ -4244,7 +4244,7 @@
         <text>image</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YWdlJyA9PiAncHJvZHVjdGlvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IC0tc2VlZA==</text>
