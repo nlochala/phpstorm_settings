@@ -122,11 +122,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/deploy.php" timestamp="1557209235164">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="31" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="108" column="30" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/deploy.php" timestamp="1557209791198">
+        <mark key="[" line="106" column="23" />
+        <mark key="]" line="106" column="26" />
+        <mark key="." line="106" column="26" />
+        <mark key="^" line="106" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_form_close.blade.php" timestamp="1556072919130">
         <mark key="[" line="1" column="59" />
@@ -4234,11 +4234,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>portal</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>portal</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -4246,38 +4246,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IC0tc2VlZA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25wbTppbnN0YWxsJywKICAgICAgICAgICAgJ25wbTpwcm9kdWN0aW9uJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="3" type="8">
-        <text>7.2</text>
+        <text encoding="base64">IC0tc2VlZA==</text>
       </register>
-      <register name="4" type="8">
-        <text>portal.dev</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25wbTppbnN0YWxsJywKICAgICAgICAgICAgJ25wbTpwcm9kdWN0aW9uJywK</text>
       </register>
       <register name="5" type="8">
+        <text>7.2</text>
+      </register>
+      <register name="6" type="8">
+        <text>portal.dev</text>
+      </register>
+      <register name="7" type="8">
         <text>School-Wide Administrator</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlT2ZmaWNpYWxEb2N1bWVudCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlT2ZmaWNpYWxEb2N1bWVudCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmRvd25sb2FkT2ZmaWNpYWxEb2N1bWVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
