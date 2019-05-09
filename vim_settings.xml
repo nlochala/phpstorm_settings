@@ -166,6 +166,12 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env.stage" timestamp="1557388436011">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1557385006009">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="296" column="16" />
@@ -4265,10 +4271,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>0450f41a-10b8-4c62-b399-2d0bc29e4030</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>0450f41a-10b8-4c62-b399-2d0bc29e4030</text>
       </register>
       <register name="/" type="4">
         <text>datatables</text>
