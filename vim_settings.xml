@@ -35,6 +35,9 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" timestamp="1557361425200">
+        <mark key="'" line="80" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreEmployeeIdCardRequest.php" timestamp="1555393655841">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="23" />
@@ -604,9 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="26" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="65" column="12" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="45" column="39" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="86" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
@@ -704,6 +704,9 @@
       <jump line="254" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="268" column="3" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="252" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
+      <jump line="36" column="3" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
+      <jump line="80" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4239,8 +4242,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>portal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>portal</text>
@@ -4252,40 +4255,40 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IC0tc2VlZA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25wbTppbnN0YWxsJywKICAgICAgICAgICAgJ25wbTpwcm9kdWN0aW9uJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>7.2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>portal.dev</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlY29tZScgPT4gJ3Jvb3QnLAo=</text>
       </register>
       <register name="7" type="8">
-        <text>School-Wide Administrator</text>
+        <text encoding="base64">IC0tc2VlZA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlT2ZmaWNpYWxEb2N1bWVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25wbTppbnN0YWxsJywKICAgICAgICAgICAgJ25wbTpwcm9kdWN0aW9uJywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>7.2</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -4337,10 +4340,10 @@
         <entry encoding="base64">JzwsJz5zLHBhc3Nwb3J0LT5pZCx2aXNhLT5pZCxn</entry>
         <entry encoding="base64">JzwsJz5zLHBhc3Nwb3J0LGlkX2NhcmQsZw==</entry>
         <entry encoding="base64">JzwsJz5zLFBhc3Nwb3J0LElkQ2FyZCxn</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLGltYWdlLGZpbGUsZw==</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
