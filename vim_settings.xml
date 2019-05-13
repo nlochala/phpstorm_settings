@@ -168,11 +168,6 @@
         <mark key="]" line="67" column="5" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.json" timestamp="1557213078522">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env.stage" timestamp="1557388436011">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="18" />
@@ -333,6 +328,12 @@
         <mark key="^" line="119" column="32" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/AppServiceProvider.php" timestamp="1557717443532">
+        <mark key="[" line="25" column="61" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
+        <mark key="^" line="25" column="61" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/_tables/new-table.blade.php" timestamp="1555989250323">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="59" />
@@ -432,6 +433,13 @@
         <mark key="." line="33" column="102" />
         <mark key="^" line="33" column="102" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/app.php" timestamp="1557717347060">
+        <mark key="'" line="105" column="16" />
+        <mark key="[" line="224" column="32" />
+        <mark key="]" line="224" column="39" />
+        <mark key="^" line="224" column="39" />
+        <mark key="." line="224" column="39" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/official_documents.blade.php" timestamp="1557118472280">
         <mark key="[" line="103" column="22" />
         <mark key="]" line="103" column="22" />
@@ -491,6 +499,12 @@
         <mark key="]" line="49" column="81" />
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/TelescopeServiceProvider.php" timestamp="1557717600935">
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="64" column="54" />
+        <mark key="." line="64" column="54" />
+        <mark key="^" line="64" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeOfficialDocumentsController.php" timestamp="1555397499136">
         <mark key="[" line="74" column="29" />
@@ -648,9 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="85" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreateVisa.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreateVisa.php" />
       <jump line="86" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreateVisa.php" />
       <jump line="87" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreateVisa.php" />
       <jump line="102" column="12" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreateVisa.php" />
@@ -748,6 +759,9 @@
       <jump line="311" column="15" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="11" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="242" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
+      <jump line="139" column="48" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/app.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/app.php" />
+      <jump line="105" column="16" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4283,59 +4297,59 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>datatables</text>
+        <text>Tele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCRwb3NpdGlvbi0+bmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2l0aGluKCdAcGFuZWwtdGFibGUtb2YtY29udGVudHMnLCBmdW5jdGlvbiAoJGJyb3dzZXIpIHVzZSAoJHBvc2l0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgJGJyb3dzZXItPmFzc2VydFNlZUxpbmsoJHBvc2l0aW9uLT5uYW1lKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>$browser</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmFwcC0+aXNMb2NhbCgpKSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YXNzZXJ0U2VlTGluaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCRwb3NpdGlvbi0+bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2l0aGluKCdAcGFuZWwtdGFibGUtb2YtY29udGVudHMnLCBmdW5jdGlvbiAoJGJyb3dzZXIpIHVzZSAoJHBvc2l0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgJGJyb3dzZXItPmFzc2VydFNlZUxpbmsoJHBvc2l0aW9uLT5uYW1lKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnREb250U2VlKCdUaGlzIGVtcGxveWVlIGRvZXMgbm90IGhhdmUgYW55IHBvc2l0aW9ucyBhc3NpZ25lZCB0byB0aGVtLCB5ZXQuJyk7Cg==</text>
+      <register name="5" type="8">
+        <text>$browser</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW1wbG95ZWUtPnBvc2l0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YXNzZXJ0U2VlTGluaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zaXRpb25faWRzID0gJHBvc2l0aW9ucy0+cGx1Y2soJ2lkJyktPnRvQXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YXNzZXJ0U2VlKCRwb3NpdGlvbi0+bmFtZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">JHBvc2l0aW9ucy0+Zmlyc3QoKS0+aWQp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnREb250U2VlKCdUaGlzIGVtcGxveWVlIGRvZXMgbm90IGhhdmUgYW55IHBvc2l0aW9ucyBhc3NpZ25lZCB0byB0aGVtLCB5ZXQuJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IFsxLCAyLCAzLCA0XTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZW1wbG95ZWUtPnBvc2l0aW9ucyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>datatables</last-search>
+      <last-search>Tele</last-search>
       <last-offset />
-      <last-pattern>datatables</last-pattern>
+      <last-pattern>Tele</last-pattern>
       <last-replace>file</last-replace>
       <last-substitute>image</last-substitute>
       <last-dir>1</last-dir>
@@ -4343,8 +4357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$\n</entry>
-        <entry>file</entry>
         <entry>documents</entry>
         <entry>image_file</entry>
         <entry encoding="base64">XDxkaXZcPg==</entry>
@@ -4363,6 +4375,8 @@
         <entry>image</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry>datatables</entry>
+        <entry>tele</entry>
+        <entry>Tele</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLGltYWdlX2ZpbGUsdXBsb2FkLGc=</entry>
