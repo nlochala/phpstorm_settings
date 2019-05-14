@@ -192,6 +192,12 @@
         <mark key="." line="98" column="39" />
         <mark key="^" line="98" column="39" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/schools.csv" timestamp="1557808105786">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env.stage" timestamp="1557388436011">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="21" column="18" />
@@ -4338,16 +4344,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pascal</text>
+        <text>Lower</text>
       </register>
       <register name="-" type="4">
-        <text>pascal</text>
+        <text>Lower</text>
       </register>
       <register name="/" type="4">
         <text>radio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jbGljaygnQGVkaXQtJy4kdGhpcy0+cG9zaXRpb24tPnV1aWQpCg==</text>
+        <text encoding="base64">RWxlbWVudGFyeSAtIExvd2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2hvd0luZGV4KCkK</text>
