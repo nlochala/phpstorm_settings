@@ -102,6 +102,12 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/tinx.php" timestamp="1557803708333">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeePassport.php" timestamp="1556953584376">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="29" column="68" />
@@ -191,12 +197,6 @@
         <mark key="]" line="21" column="18" />
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1557723197991">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="63" />
-        <mark key="." line="323" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/VisaEntry.php" timestamp="1556857118337">
         <mark key="[" line="51" column="49" />
@@ -4337,11 +4337,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2hvd0luZGV4KCkK</text>
+      <register name="&quot;" type="4">
+        <text>pascal</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>pascal</text>
       </register>
       <register name="/" type="4">
         <text>radio</text>
@@ -4435,9 +4435,9 @@
         <entry encoding="base64">JzwsJz5zLHBhc3Nwb3J0LGlkX2NhcmQsZw==</entry>
         <entry encoding="base64">JzwsJz5zLFBhc3Nwb3J0LElkQ2FyZCxn</entry>
         <entry encoding="base64">JzwsJz5zLGltYWdlLGZpbGUsZw==</entry>
+        <entry>w'</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
