@@ -28,7 +28,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="55" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1557881992280">
+      <file name="/a.dummy" timestamp="1557892152194">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1556760249280">
@@ -82,18 +82,29 @@
         <mark key="." line="40" column="68" />
         <mark key="^" line="40" column="68" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073758_create_grade_scale_standards_table.php" timestamp="1557820125250">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="69" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/GradeScalePercentagesTableSeeder.php" timestamp="1557891996724">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/DatabaseSeeder.php" timestamp="1557884062618">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073758_create_grade_scale_standards_table.php" timestamp="1557892226807">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScalePercentage.php" timestamp="1557891940987">
+        <mark key="]" line="111" column="4" />
+        <mark key="." line="111" column="4" />
+        <mark key="^" line="111" column="4" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/DatabaseSeeder.php" timestamp="1557893487633">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="41" />
-        <mark key="^" line="35" column="41" />
-        <mark key="." line="35" column="41" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeePassportVisa.php" timestamp="1556851921986">
         <mark key="[" line="109" column="62" />
@@ -101,12 +112,12 @@
         <mark key="." line="109" column="78" />
         <mark key="^" line="109" column="78" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1557882290352">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1557892937315">
         <mark key="'" line="267" column="29" />
-        <mark key="[" line="267" column="29" />
-        <mark key="]" line="267" column="29" />
-        <mark key="^" line="334" column="43" />
-        <mark key="." line="267" column="29" />
+        <mark key="[" line="326" column="55" />
+        <mark key="]" line="328" column="63" />
+        <mark key="." line="328" column="63" />
+        <mark key="^" line="328" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/files.csv" timestamp="1557117796526">
         <mark key="[" line="5" column="0" />
@@ -150,11 +161,23 @@
         <mark key="." line="34" column="32" />
         <mark key="^" line="34" column="32" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/GradeScalesTableSeeder.php" timestamp="1557890936535">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+        <mark key="^" line="25" column="31" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeePassport.php" timestamp="1556953584376">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="29" column="68" />
         <mark key="." line="29" column="68" />
         <mark key="^" line="29" column="68" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseTranscriptType.php" timestamp="1557893446034">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/IdCardController.php" timestamp="1557112267471">
         <mark key="[" line="48" column="65" />
@@ -294,6 +317,13 @@
         <mark key="." line="70" column="58" />
         <mark key="^" line="70" column="58" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScaleStandard.php" timestamp="1557892406340">
+        <mark key="'" line="52" column="22" />
+        <mark key="[" line="99" column="6" />
+        <mark key="]" line="110" column="4" />
+        <mark key="." line="110" column="4" />
+        <mark key="^" line="110" column="4" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/id_card_form.blade.php" timestamp="1556869107402">
         <mark key="[" line="78" column="57" />
         <mark key="]" line="78" column="57" />
@@ -319,8 +349,11 @@
         <mark key="." line="112" column="47" />
         <mark key="^" line="112" column="47" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073154_create_grade_scales_table.php" timestamp="1557888489466">
-        <mark key="^" line="20" column="73" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073154_create_grade_scales_table.php" timestamp="1557890951134">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeVisa.php" timestamp="1557112035840">
         <mark key="'" line="0" column="0" />
@@ -373,11 +406,11 @@
         <mark key="^" line="62" column="59" />
         <mark key="." line="62" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073751_create_grade_scale_percentages_table.php" timestamp="1557889884533">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="48" />
-        <mark key="^" line="22" column="48" />
-        <mark key="." line="22" column="48" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073751_create_grade_scale_percentages_table.php" timestamp="1557891978364">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="58" />
+        <mark key="^" line="22" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" timestamp="1555907210156">
         <mark key="[" line="163" column="0" />
@@ -544,6 +577,12 @@
         <mark key="]" line="18" column="73" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/GradeScaleStandardsTableSeeder.php" timestamp="1557892756391">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_address.blade.php" timestamp="1556601447826">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="54" />
@@ -599,6 +638,11 @@
         <mark key="]" line="17" column="45" />
         <mark key="^" line="26" column="33" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/grade_scale_standards.csv" timestamp="1557892238378">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_051146_create_rooms_table.php" timestamp="1557811062121">
         <mark key="[" line="27" column="0" />
@@ -708,6 +752,13 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" timestamp="1557892725808">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="118" column="110" />
+        <mark key="]" line="119" column="7" />
+        <mark key="." line="119" column="7" />
+        <mark key="^" line="119" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/TelescopeServiceProvider.php" timestamp="1557717600935">
         <mark key="[" line="64" column="48" />
         <mark key="]" line="64" column="54" />
@@ -770,7 +821,7 @@
         <mark key="." line="47" column="29" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557729340165">
+      <file name="/Dummy.txt" timestamp="1557892104543">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -808,6 +859,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/CourseTranscriptTypesTableSeeder.php" timestamp="1557893477020">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeContactController.php" timestamp="1556760202863">
         <mark key="[" line="16" column="1" />
@@ -879,16 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="3" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="252" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="36" column="3" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
-      <jump line="69" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
-      <jump line="80" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/EmployeeStatus.php" />
-      <jump line="14" column="23" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/AdGroup.php" />
-      <jump line="37" column="26" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="131" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
-      <jump line="15" column="34" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeIdCard.php" />
-      <jump line="6" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeIdCard.php" />
       <jump line="89" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeIdCard.php" />
       <jump line="282" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" />
       <jump line="75" column="18" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeEmploymentDetails.php" />
@@ -979,6 +1026,16 @@
       <jump line="113" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Department.php" />
       <jump line="49" column="21" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Department.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Department.php" />
+      <jump line="113" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
+      <jump line="94" column="5" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScalePercentage.php" />
+      <jump line="55" column="25" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScalePercentage.php" />
+      <jump line="113" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScaleStandard.php" />
+      <jump line="51" column="22" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScaleStandard.php" />
+      <jump line="120" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
+      <jump line="117" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
+      <jump line="141" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4515,76 +4572,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>grade_scale_mastery_id</text>
+        <text>GradeScaleStandardsTableSeeder</text>
       </register>
       <register name="-" type="4">
-        <text>grade_scale_mastery_id</text>
+        <text>GradeScaleStandardsTableSeeder</text>
       </register>
       <register name="/" type="4">
         <text>school_year_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5ib29sZWFuKCdzdGFuZGFyZHNfYmFzZWQnKS0+bnVsbGFibGUoKS0+ZGVmYXVsdChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChHcmFkZVNjYWxlU3RhbmRhcmRzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
       </register>
-      <register name="1" type="8">
-        <text>,
-,
-,
-,
-,
-,
-,
-,
-,</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>,
-,
-,</text>
-      </register>
-      <register name="3" type="8">
-        <text>19,
-20,
-21,
-4,,
-5,,
-6,,
-7,,
-8,,
-9,,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-17,
-18,</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUnVuIHRoZSBkYXRhYmFzZSBzZWVkcy4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJ1bigpCiAgICB7CiAgICAgICAgLy8KICAgIH0K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7ZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmhhc01hbnkoJ0FwcFxHcmFkZVNjYWxlUGVyY2VudGFnZScsICdncmFkZV9zY2FsZV9pZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4623,7 +4653,6 @@
         <entry>school_year_id</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLGltYWdlX2ZpbGUsdXBsb2FkLGc=</entry>
         <entry>w:w</entry>
         <entry>e</entry>
         <entry encoding="base64">cyxcJnF1b3QsIixn</entry>
@@ -4642,6 +4671,7 @@
         <entry>w'</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>2w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
