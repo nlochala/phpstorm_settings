@@ -373,11 +373,11 @@
         <mark key="^" line="62" column="59" />
         <mark key="." line="62" column="59" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073751_create_grade_scale_percentages_table.php" timestamp="1557888033978">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="22" column="47" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_14_073751_create_grade_scale_percentages_table.php" timestamp="1557889884533">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="48" />
+        <mark key="^" line="22" column="48" />
+        <mark key="." line="22" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" timestamp="1555907210156">
         <mark key="[" line="163" column="0" />
@@ -4515,10 +4515,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>grade_scale_mastery_id</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>grade_scale_mastery_id</text>
       </register>
       <register name="/" type="4">
         <text>school_year_id</text>
