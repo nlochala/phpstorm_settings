@@ -609,7 +609,7 @@
         <mark key="^" line="179" column="87" />
         <mark key="." line="179" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/PortalMenuServiceProvider.php" timestamp="1557905423512">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/PortalMenuServiceProvider.php" timestamp="1557906499286">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="48" />
@@ -926,12 +926,6 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
         <mark key="^" line="107" column="4" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_sidebar.blade.php" timestamp="1557904832144">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="50" />
-        <mark key="." line="32" column="50" />
-        <mark key="^" line="32" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/PassportFactory.php" timestamp="1557117293230">
         <mark key="[" line="22" column="75" />
