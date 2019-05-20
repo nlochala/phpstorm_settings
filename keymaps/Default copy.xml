@@ -2,4 +2,10 @@
   <action id="Macro.esc">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
 </keymap>

@@ -176,12 +176,11 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" timestamp="1558079509285">
-        <mark key="'" line="149" column="27" />
-        <mark key="[" line="95" column="58" />
-        <mark key="]" line="95" column="80" />
-        <mark key="^" line="95" column="80" />
-        <mark key="." line="95" column="80" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" timestamp="1558313392711">
+        <mark key="'" line="76" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Year.php" timestamp="1558053996578">
         <mark key="[" line="107" column="15" />
@@ -1064,7 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScaleStandard.php" />
       <jump line="51" column="22" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScaleStandard.php" />
       <jump line="120" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
       <jump line="117" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
@@ -1164,6 +1162,7 @@
       <jump line="63" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_level/index.blade.php" />
       <jump line="98" column="21" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_level/index.blade.php" />
       <jump line="149" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" />
+      <jump line="76" column="15" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4700,7 +4699,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXR1cm5fYXJyYXlbJ2RhdGEnXVtdID0gJHllYXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LT5mcmVzaCgpOw==</text>
@@ -4712,37 +4711,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmV0dXJuX2FycmF5WydkYXRhJ11bXSA9ICR5ZWFyLT5sb2FkKCR0aGlzLT5lYWdlckxvYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXR1cm5fYXJyYXlbJ2RhdGEnXVtdID0gJHllYXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENsYXNzTmFtZTogJ2JnLWhlYWRlci1kYXJrJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lOiAnYnRuLXNtIGJ0bi1oZXJvLXByaW1hcnknLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXR1cm5fYXJyYXlbJ2RhdGEnXVtdID0gJHllYXI7Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>'year', 'school'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENsYXNzTmFtZTogJ2JnLWhlYWRlci1kYXJrJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZWFnZXJMb2FkID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lOiAnYnRuLXNtIGJ0bi1oZXJvLXByaW1hcnknLAo=</text>
       </register>
       <register name="6" type="8">
         <text>'year', 'school'</text>
       </register>
-      <register name="7" type="8">
-        <text>'school', 'year'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZWFnZXJMb2FkID0gW107Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="8" type="8">
+        <text>'year', 'school'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICBsYWJlbDogIkVuZCBEYXRlOiIsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogImVuZF9kYXRlIiwKICAgICAgICAgICAgICAgICAgICB0eXBlOiAiZGF0ZXRpbWUiLAogICAgICAgICAgICAgICAgICAgIG9wdHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgc2hvd09uOiAnZm9jdXMnLAogICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXQ6ICdZWVlZLU1NLUREJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="9" type="8">
+        <text>'school', 'year'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
