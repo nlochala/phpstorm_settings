@@ -106,6 +106,9 @@
         <mark key="." line="107" column="26" />
         <mark key="^" line="107" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1558406366892">
+        <mark key="[" line="31" column="59" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1557892937315">
         <mark key="'" line="267" column="29" />
         <mark key="[" line="326" column="55" />
