@@ -138,6 +138,13 @@
         <mark key="." line="38" column="27" />
         <mark key="^" line="38" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleStandardAjaxController.php" timestamp="1558402260480">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="71" column="33" />
+        <mark key="." line="71" column="33" />
+        <mark key="^" line="71" column="33" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeOfficialDocuments.php" timestamp="1557123366367">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="120" column="0" />
@@ -180,6 +187,13 @@
         <mark key="]" line="70" column="23" />
         <mark key="." line="70" column="23" />
         <mark key="^" line="70" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show_standards.blade.php" timestamp="1558402173462">
+        <mark key="'" line="49" column="151" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreRoomRequest.php" timestamp="1558330175981">
         <mark key="[" line="30" column="29" />
@@ -466,8 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
-      <jump line="104" column="69" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
       <jump line="121" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/YearAjaxController.php" />
       <jump line="71" column="83" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/YearAjaxController.php" />
       <jump line="180" column="62" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/YearAjaxController.php" />
@@ -566,6 +578,8 @@
       <jump line="114" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GradeScale.php" />
       <jump line="49" column="114" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show.blade.php" />
       <jump line="97" column="29" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show_percentage.blade.php" />
+      <jump line="49" column="151" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show_standards.blade.php" />
+      <jump line="29" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleStandardAjaxController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4102,49 +4116,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR3JhZGVTY2FsZVN0YW5kYXJkOjp3aXRoKCR0aGlzLT5lYWdlckxvYWQpLT5nZXQoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGF0YTogInJlc3VsdCJ9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGF0YTogIm5hbWUifSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gdmlldwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR3JhZGVTY2FsZVN0YW5kYXJkOjp3aXRoKCR0aGlzLT5lYWdlckxvYWQpLT5nZXQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGdyYWRlX3NjYWxlLT5nZXRTY2FsZVR5cGUoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnZ3JhZGVfc2NhbGUvaW5kZXgnLCAnR3JhZGVTY2FsZUNvbnRyb2xsZXJAaW5kZXgnKTsKUm91dGU6OnBvc3QoJ2dyYWRlX3NjYWxlL2luZGV4JywgJ0dyYWRlU2NhbGVDb250cm9sbGVyQGNyZWF0ZScpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRncmFkZV9zY2FsZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGF0YTogIml0ZW1fc3RhcnQifSwKICAgICAgICAgICAgICAgICAgICB7ZGF0YTogIml0ZW1fZW5kIn0sCiAgICAgICAgICAgICAgICAgICAge2RhdGE6ICJzdGFydF9kYXRlIn0sCiAgICAgICAgICAgICAgICAgICAge2RhdGE6ICJlbmRfZGF0ZSJ9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGF0YTogImZyb20ifSwKICAgICAgICAgICAgICAgICAgICB7ZGF0YTogInRvIn0sCiAgICAgICAgICAgICAgICAgICAge2RhdGE6ICJyZXN1bHQifSwKICAgICAgICAgICAgICAgICAgICB7ZGF0YTogInN0YW5kYXJkLm5hbWUifSwK</text>
+      </register>
+      <register name="7" type="8">
+        <text>% To</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7IGR1bXAodXJsKCIkZ3JhZGVfc2NhbGUtPnNjYWxlVHlwZSgpIikpIH19Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gdmlldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnZ3JhZGVfc2NhbGUvaW5kZXgnLCAnR3JhZGVTY2FsZUNvbnRyb2xsZXJAaW5kZXgnKTsKUm91dGU6OnBvc3QoJ2dyYWRlX3NjYWxlL2luZGV4JywgJ0dyYWRlU2NhbGVDb250cm9sbGVyQGNyZWF0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGdyYWRlX3NjYWxlLT5nZXRTY2FsZVR5cGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
