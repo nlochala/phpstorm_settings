@@ -725,12 +725,12 @@
         <mark key="." line="107" column="40" />
         <mark key="^" line="107" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558491702580">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558492997925">
         <mark key="'" line="110" column="40" />
-        <mark key="[" line="145" column="16" />
-        <mark key="]" line="145" column="28" />
-        <mark key="." line="145" column="28" />
-        <mark key="^" line="145" column="28" />
+        <mark key="[" line="141" column="84" />
+        <mark key="]" line="153" column="83" />
+        <mark key="." line="153" column="83" />
+        <mark key="^" line="153" column="83" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557377143974">
         <mark key="'" line="34" column="8" />
@@ -4409,16 +4409,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>year_id</text>
+        <text>course_type_id</text>
       </register>
       <register name="-" type="4">
-        <text>year_id</text>
+        <text>course_type_id</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiI3llYXJfaWQiKS5zZWxlY3QyKHsgcGxhY2Vob2xkZXI6ICJDaG9vc2UgT25lLi4uIiB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgiI2NvdXJzZV90eXBlX2lkIikuc2VsZWN0Mih7IHBsYWNlaG9sZGVyOiAiQ2hvb3NlIE9uZS4uLiIgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJuIGEgZm9ybWF0dGVkIGRyb3Bkb3duLgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXREcm9wZG93bigpCiAgICB7CiAgICAgICAgcmV0dXJuIHN0YXRpYzo6YWxsKCktPnBsdWNrKCduYW1lJywgJ2lkJyktPnRvQXJyYXkoKTsKICAgIH0K</text>
