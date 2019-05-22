@@ -8,12 +8,6 @@
         <mark key="]" line="23" column="40" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionAjaxController.php" timestamp="1558412492123">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeController.php" timestamp="1558324522449">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="17" column="3" />
@@ -182,7 +176,7 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/scale_index.blade.php" timestamp="1558487883118">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/scale_index.blade.php" timestamp="1558494148771">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="108" column="0" />
         <mark key="]" line="109" column="100" />
@@ -330,12 +324,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="40" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/test.php" timestamp="1558407421214">
-        <mark key="'" line="42" column="34" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/BuildingController.php" timestamp="1558323306474">
         <mark key="[" line="26" column="42" />
@@ -524,18 +512,12 @@
         <mark key="." line="162" column="90" />
         <mark key="^" line="164" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/course_types.csv" timestamp="1558421823573">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="67" />
-        <mark key="." line="2" column="67" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/GradeScaleStandardsTableSeeder.php" timestamp="1558409034512">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" timestamp="1558414057469">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" timestamp="1558494390713">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="87" column="28" />
         <mark key="]" line="87" column="43" />
@@ -725,12 +707,12 @@
         <mark key="." line="107" column="40" />
         <mark key="^" line="107" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558492997925">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558494395820">
         <mark key="'" line="110" column="40" />
-        <mark key="[" line="141" column="84" />
-        <mark key="]" line="153" column="83" />
-        <mark key="." line="153" column="83" />
-        <mark key="^" line="153" column="83" />
+        <mark key="[" line="205" column="59" />
+        <mark key="]" line="209" column="58" />
+        <mark key="." line="209" column="58" />
+        <mark key="^" line="209" column="58" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557377143974">
         <mark key="'" line="34" column="8" />
@@ -4409,49 +4391,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>course_type_id</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>course_type_id</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiI2NvdXJzZV90eXBlX2lkIikuc2VsZWN0Mih7IHBsYWNlaG9sZGVyOiAiQ2hvb3NlIE9uZS4uLiIgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>course_transcript_type_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJuIGEgZm9ybWF0dGVkIGRyb3Bkb3duLgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXREcm9wZG93bigpCiAgICB7CiAgICAgICAgcmV0dXJuIHN0YXRpYzo6YWxsKCktPnBsdWNrKCduYW1lJywgJ2lkJyktPnRvQXJyYXkoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgICAgICAgICAgPGJ1dHRvbiBkdXNrPVwiYnRuLWFyY2hpdmUtIiArIGRhdGEgKyAiXCIgdHlwZT1cImJ1dHRvblwiIGNsYXNzPVwiYnRuIGJ0bi1zbSBidG4tb3V0bGluZS1kYW5nZXJcIiBkYXRhLXRvZ2dsZT1cInRvb2x0aXBcIiB0aXRsZT1cIkRlbGV0ZVwiXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgICAgICAgICAgICAgICAgICBvbmNsaWNrPVwid2luZG93LmxvY2F0aW9uLmhyZWY9Jy9ncmFkZV9zY2FsZS8iICsgZGF0YSArICIvZGVsZXRlJ1wiPlxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICAgICAgICAgICA8aSBjbGFzcz1cImZhIGZhLXRpbWVzXCI+PC9pPlxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICAgICAgIDwvYnV0dG9uPlxuIiArCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmV0dXJuIGEgZm9ybWF0dGVkIGRyb3Bkb3duLgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXREcm9wZG93bigpCiAgICB7CiAgICAgICAgcmV0dXJuIHN0YXRpYzo6YWxsKCktPnBsdWNrKCduYW1lJywgJ2lkJyktPnRvQXJyYXkoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxQb3NpdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxQb3NpdGlvbjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">WyAncG9zaXRpb25fdHlwZV9pZCcgPT4gJHR5cGUtPmlkLCBd</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">WyAncG9zaXRpb25fdHlwZV9pZCcgPT4gJHR5cGUtPmlkLCBd</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdHlwZXMgYXMgJHR5cGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZXMgPSBQb3NpdGlvblR5cGU6OmFsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdHlwZXMgYXMgJHR5cGUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
