@@ -33,6 +33,7 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="43" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_radio.blade.php" timestamp="1558503691802" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/passport_visa.blade.php" timestamp="1556860773406">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="40" column="68" />
@@ -195,6 +196,7 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_dropdown.blade.php" timestamp="1558503587783" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/Pages/EmployeeCreatePassport.php" timestamp="1556852889666">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="13" column="0" />
@@ -517,6 +519,9 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1558503384490">
+        <mark key="'" line="227" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" timestamp="1558494390713">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="87" column="28" />
@@ -707,12 +712,12 @@
         <mark key="." line="107" column="40" />
         <mark key="^" line="107" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558494395820">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1558503908997">
         <mark key="'" line="110" column="40" />
-        <mark key="[" line="205" column="59" />
-        <mark key="]" line="209" column="58" />
-        <mark key="." line="209" column="58" />
-        <mark key="^" line="209" column="58" />
+        <mark key="[" line="155" column="43" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="155" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557377143974">
         <mark key="'" line="34" column="8" />
@@ -755,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="57" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
       <jump line="164" column="90" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/DepartmentAjaxController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/DepartmentAjaxController.php" />
       <jump line="160" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/YearAjaxController.php" />
@@ -855,6 +859,7 @@
       <jump line="27" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/CourseFactory.php" />
       <jump line="10" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Year.php" />
       <jump line="98" column="40" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" />
+      <jump line="227" column="5" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4391,13 +4396,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>radio</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>radio</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>checkbox</text>
       </register>
       <register name="0" type="4">
         <text>course_transcript_type_id</text>
@@ -4440,9 +4445,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>checkbox</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>checkbox</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
@@ -4450,7 +4455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>year_data</entry>
         <entry>submit</entry>
         <entry>SCHOOL YEAR</entry>
         <entry>year</entry>
@@ -4470,6 +4474,7 @@
         <entry>'true'</entry>
         <entry>true</entry>
         <entry>get</entry>
+        <entry>checkbox</entry>
       </history-search>
       <history-cmd>
         <entry>%s,Year,__MODEL__,g</entry>
