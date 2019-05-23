@@ -76,6 +76,11 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/UserFactory.php" timestamp="1558579990330">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1558422240755">
         <mark key="'" line="6" column="6" />
         <mark key="[" line="265" column="0" />
@@ -4275,11 +4280,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRhdXRoX3VzZXIgPSBIZWxwZXJzOjpkYkFkZEF1ZGl0KCRhdXRoX3VzZXIpOwoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -4287,38 +4292,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGQ+PHN0cm9uZz5EZXNjcmlwdGlvbjo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+ZGVzY3JpcHRpb24gfX08L3RkPgogICAgICAgIDx0ZD48c3Ryb25nPlNjaG9vbCBZZWFyOjwvc3Ryb25nPiB7eyAkY291cnNlLT55ZWFyLT5uYW1lfX08L3RkPgogICAgPC90cj4K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">JHRoaXMtPmZhbWlseV9uYW1l</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRhdXRoX3VzZXIgPSBIZWxwZXJzOjpkYkFkZEF1ZGl0KCRhdXRoX3VzZXIpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>$= false</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRuZXdfdXNlciA9IEhlbHBlcnM6OmRiQWRkQXVkaXQoJG5ld191c2VyKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGluY2x1ZGVfZmFtaWx5X25hbWUgPyAiJG5hbWUgJHRoaXMtPmZhbWlseV9uYW1lIiA6ICRuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uID0gbmV3IFBlcnNvbigpOwogICAgICAgICRwZXJzb24tPmdpdmVuX25hbWUgPQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbmFtZSA9ICR0aGlzLT5wcmVmZXJyZWRfbmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2VpZiAoISAkdGhpcy0+cHJlZmVycmVkX25hbWUpIHsKICAgICAgICAgICAgJG5hbWUgPSAkdGhpcy0+Z2l2ZW5fbmFtZTsK</text>
+      <register name="6" type="8">
+        <text encoding="base64">JHRoaXMtPmZhbWlseV9uYW1l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5hbWUgPSAkdGhpcy0+cHJlZmVycmVkX25hbWU7CiAgICAgICAgfQo=</text>
+      <register name="7" type="8">
+        <text>$= false</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGluY2x1ZGVfZmFtaWx5X25hbWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGluY2x1ZGVfZmFtaWx5X25hbWUgPyAiJG5hbWUgJHRoaXMtPmZhbWlseV9uYW1lIiA6ICRuYW1lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
