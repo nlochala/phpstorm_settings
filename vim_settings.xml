@@ -14,11 +14,11 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1558583468834">
-        <mark key="[" line="144" column="6" />
-        <mark key="]" line="86" column="44" />
-        <mark key="." line="86" column="44" />
-        <mark key="^" line="86" column="44" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1558584404692">
+        <mark key="[" line="146" column="108" />
+        <mark key="]" line="146" column="108" />
+        <mark key="^" line="145" column="3" />
+        <mark key="." line="146" column="108" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/FileExtensionsTableSeeder.php" timestamp="1558408994583">
         <mark key="[" line="27" column="0" />
@@ -4282,10 +4282,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>email</text>
+        <text>☄</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>☄</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -4294,37 +4294,37 @@
         <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGQ+PHN0cm9uZz5DcmVhdGVkIEJ5Ojwvc3Ryb25nPiB7eyAkY291cnNlLT5jcmVhdGVkQnktPnBlcnNvbi0+ZnVsbE5hbWUoKSB9fSBvbiB7eyAkY291cnNlLT5jcmVhdGVkX2F0IH19PC90ZD4KICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLS0tICAgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI21vZGFsLWJsb2NrLWNsYXNzZXMiLiAtLS0tLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>fa-fw fa-pen mr-1</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>Update Email Addresses</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfcm93JyxbJ2hhc191bmlmb3JtX2xlbmd0aCcgPT4gdHJ1ZV0pCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X2NvbHVtbicsIFsnc2l6ZScgPT4gMTJdKQogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLU5ldyBQYW5lbCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X3BhbmVsJywgWyd0aXRsZScgPT4gJ0NMQVNTRVMnLCAnd2l0aF9ibG9jaycgPT4gZmFsc2VdKQogICAge3stLSBTVEFSVCBCTE9DSyBPUFRJT05TIHBhbmVsLmJsb2NrIC0tfX0KICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfY29udGVudCcpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBvcHRpb25zCgo=</text>
+        <text encoding="base64">CgogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19lbmRfY29udGVudCcpCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9wYW5lbCcpCiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfZW5kX2NvbHVtbicpCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9yb3cnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PHN0cm9uZz5TY2hvb2wgWWVhcjo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+eWVhci0+bmFtZX19PC90ZD4K</text>
+        <text encoding="base64">CgogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19lbmRfY29udGVudCcpCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9wYW5lbCcpCiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfZW5kX2NvbHVtbicpCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9yb3cnKQoKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PHN0cm9uZz5DcmVhdGVkIEJ5Ojwvc3Ryb25nPiB7eyAkY291cnNlLT5jcmVhdGVkQnktPnBlcnNvbi0+ZnVsbE5hbWUoKSB9fSBvbiB7eyAkY291cnNlLT5jcmVhdGVkX2F0IH19PC90ZD4KICAgICAgICA8dGQ+PHN0cm9uZz5TY2hvb2wgWWVhcjo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+eWVhci0+bmFtZX19PC90ZD4K</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfcm93JyxbJ2hhc191bmlmb3JtX2xlbmd0aCcgPT4gdHJ1ZV0pCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X2NvbHVtbicsIFsnc2l6ZScgPT4gMTJdKQogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLU5ldyBQYW5lbCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X3BhbmVsJywgWyd0aXRsZScgPT4gJ0NMQVNTRVMnLCAnd2l0aF9ibG9jaycgPT4gZmFsc2VdKQogICAge3stLSBTVEFSVCBCTE9DSyBPUFRJT05TIHBhbmVsLmJsb2NrIC0tfX0KICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfY29udGVudCcpCgo=</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">LT5mb3JtYXQoJ1ktbS1kJyk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwhLS0tLS0tICAgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI21vZGFsLWJsb2NrLWNsYXNzZXMiLiAtLS0tLT4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRhdXRoX3VzZXIgPSBIZWxwZXJzOjpkYkFkZEF1ZGl0KCRhdXRoX3VzZXIpOwoK</text>
+      <register name="8" type="8">
+        <text>fa-fw fa-pen mr-1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>Update Email Addresses</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4363,7 +4363,6 @@
         <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,Year,__MODEL__,g</entry>
         <entry>%s,year,__ITEM__,g</entry>
         <entry encoding="base64">JzwsJz5zLHllYXIsX19JVEVNX18sZw==</entry>
         <entry encoding="base64">JzwsJz5zLFNDSE9PTCBZRUFSLEdSQURFIExFVkVMUw==</entry>
@@ -4382,6 +4381,7 @@
         <entry encoding="base64">JzwsJz5zLCd0cnVlJyx0cnVlLGc=</entry>
         <entry encoding="base64">JzwsJz5zLHRydWUsMSxn</entry>
         <entry>e</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
