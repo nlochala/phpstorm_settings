@@ -210,6 +210,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/AuthController.php" timestamp="1558579337233" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/tests/Browser/EmployeeProfileTest.php" timestamp="1558068266360">
         <mark key="'" line="284" column="4" />
         <mark key="[" line="294" column="49" />
@@ -430,9 +431,6 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1558503384490">
-        <mark key="'" line="227" column="5" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" timestamp="1558494390713">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="87" column="28" />
@@ -440,6 +438,7 @@
         <mark key="." line="87" column="43" />
         <mark key="^" line="87" column="43" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/Middleware/Authenticate.php" timestamp="1558579277358" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/PortalMenuServiceProvider.php" timestamp="1557906499286">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="35" column="0" />
