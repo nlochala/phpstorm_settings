@@ -124,7 +124,7 @@
         <mark key="." line="77" column="42" />
         <mark key="^" line="77" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/Helpers.php" timestamp="1558658997842">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/Helpers.php" timestamp="1558659085916">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -159,11 +159,8 @@
         <mark key="." line="111" column="41" />
         <mark key="^" line="111" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1558658921539">
-        <mark key="[" line="75" column="55" />
-        <mark key="]" line="75" column="55" />
-        <mark key="." line="75" column="55" />
-        <mark key="^" line="75" column="55" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1558659805697">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/User.php" timestamp="1558574987982">
         <mark key="[" line="8" column="0" />
@@ -210,6 +207,9 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1558503384490">
+        <mark key="'" line="227" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/position/index.blade.php" timestamp="1558494390713">
         <mark key="'" line="97" column="20" />
@@ -302,8 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Room.php" />
-      <jump line="29" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeAjaxController.php" />
       <jump line="15" column="1" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/building_index.blade.php" />
       <jump line="134" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/building_index.blade.php" />
       <jump line="71" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/building_index.blade.php" />
@@ -402,6 +400,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
       <jump line="99" column="42" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
+      <jump line="81" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3946,8 +3946,8 @@
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJldHVybl9hcnJheVskZmllbGRdID0gJHZhbHVlOwo=</text>
+      <register name="0" type="8">
+        <text>Arr::has($values, $item)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3956,31 +3956,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHZhbHVlID0gJHZhbHVlID09ICdvbicgPyB0cnVlIDogZmFsc2U7CiAgICAgICAgICAgICRyZXR1cm5fYXJyYXlbJGZpZWxkXSA9ICR2YWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWVzID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWVzID0gSGVscGVyczo6ZGJBZGRBdWRpdChyZXF1ZXN0KCktPmFsbCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR2YWx1ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKEFycjo6aGFzKCR2YWx1ZXMsICRpdGVtKSkgewogICAgICAgICAgICAgICAgJHZhbHVlc1skaXRlbV0gPSB0cnVlOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJHZhbHVlc1skaXRlbV0gPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXF1ZXN0KCktPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChIZWxwZXJzOjpjb252ZXJ0U3dpdGNoRm9ybU9wZXJhdG9yKCR2YWx1ZXMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZXhwZWN0ZWRfaXRlbXMgPSBDb3Vyc2U6OiRyZXBvcnRDYXJkQ2hlY2tib3g7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJ2NvdXJzZS9zdG9yZScsICdDb3Vyc2VDb250cm9sbGVyQHN0b3JlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChIZWxwZXJzOjpjb252ZXJ0U3dpdGNoRm9ybU9wZXJhdG9yKCR2YWx1ZXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4019,7 +4019,6 @@
         <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,year,__ITEM__,g</entry>
         <entry encoding="base64">JzwsJz5zLHllYXIsX19JVEVNX18sZw==</entry>
         <entry encoding="base64">JzwsJz5zLFNDSE9PTCBZRUFSLEdSQURFIExFVkVMUw==</entry>
         <entry encoding="base64">JzwsJz5zLHllYXIsZ3JhZGVfbGV2ZWwsZw==</entry>
@@ -4038,6 +4037,7 @@
         <entry encoding="base64">JzwsJz5zLHRydWUsMSxn</entry>
         <entry>e</entry>
         <entry>redo</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
