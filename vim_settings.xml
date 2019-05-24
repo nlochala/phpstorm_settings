@@ -8,11 +8,11 @@
         <mark key="]" line="23" column="40" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1558658264844">
-        <mark key="[" line="130" column="100" />
-        <mark key="]" line="130" column="121" />
-        <mark key="." line="130" column="121" />
-        <mark key="^" line="130" column="121" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1558665602622">
+        <mark key="[" line="196" column="6" />
+        <mark key="]" line="197" column="27" />
+        <mark key="." line="197" column="27" />
+        <mark key="^" line="197" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
@@ -4446,11 +4446,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzZSBBdQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
