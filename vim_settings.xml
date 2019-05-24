@@ -90,12 +90,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" timestamp="1558673826742">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" timestamp="1558674626371">
         <mark key="'" line="81" column="14" />
         <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-        <mark key="^" line="57" column="32" />
+        <mark key="]" line="57" column="35" />
+        <mark key="." line="57" column="35" />
+        <mark key="^" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_21_064622_create_course_types_table.php" timestamp="1558421417512">
         <mark key="[" line="17" column="45" />
