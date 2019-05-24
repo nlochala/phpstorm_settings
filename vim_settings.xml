@@ -90,12 +90,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" timestamp="1558674626371">
-        <mark key="'" line="81" column="14" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="57" column="35" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="57" column="35" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" timestamp="1558677055528">
+        <mark key="'" line="35" column="21" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="46" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_21_064622_create_course_types_table.php" timestamp="1558421417512">
         <mark key="[" line="17" column="45" />
@@ -434,11 +434,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1558670454449">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1558675569056">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="5" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="77" column="55" />
+        <mark key="." line="77" column="55" />
+        <mark key="^" line="77" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleStandardAjaxController.php" timestamp="1558402260480">
         <mark key="'" line="30" column="27" />
@@ -817,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/BuildingAjaxController.php" />
       <jump line="32" column="144" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/roomtype_index.blade.php" />
       <jump line="15" column="1" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/roomtype_index.blade.php" />
       <jump line="134" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/room/roomtype_index.blade.php" />
@@ -917,6 +917,7 @@
       <jump line="86" column="68" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="122" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" />
+      <jump line="35" column="21" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4452,59 +4453,61 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;},</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7ICRtZXRhWydhdWRpdF9jcmVhdGVkX2F0J10gfX08L3RkPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;},</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>Metadata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnY291cnNlL3tjb3Vyc2V9JywgJ0NvdXJzZUNvbnRyb2xsZXJAc2hvdycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7ICRtZXRhWydhdWRpdF9jcmVhdGVkX2F0J10gfX08L3RkPgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>, 'Record'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7ICRtZXRhWydhdWRpdF9jcmVhdGVkX2F0J10gfX08L3RkPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICcnLAogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU6ICdidG4tc20gYnRuLWxpZ2h0JywKICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiBmdW5jdGlvbiAoIGUsIGR0LCBub2RlLCBjb25maWcgKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmRpc2FibGUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAge2V4dGVuZDogImNyZWF0ZSIsIGVkaXRvcjogZWRpdG9yYXVkaXQsIGNsYXNzTmFtZTogJ2J0bi1zbSBidG4taGVyby1wcmltYXJ5J30sCiAgICAgICAgICAgICAgICAgICAge2V4dGVuZDogImVkaXQiLCBlZGl0b3I6IGVkaXRvcmF1ZGl0LCBjbGFzc05hbWU6ICdidG4tc20gYnRuLWhlcm8tcHJpbWFyeSd9LAogICAgICAgICAgICAgICAgICAgIHtleHRlbmQ6ICJyZW1vdmUiLCBlZGl0b3I6IGVkaXRvcmF1ZGl0LCBjbGFzc05hbWU6ICdidG4tc20gYnRuLWhlcm8tZGFuZ2VyJ30sCgo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">PHRkPg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVkaXRvcmF1ZGl0ID0gbmV3ICQuZm4uZGF0YVRhYmxlLkVkaXRvcih7CiAgICAgICAgICAgICAgICBhamF4OiAie3sgdXJsKCdhcGkvYXVkaXQvYWpheHN0b3JlYXVkaXQnKSB9fSIsCiAgICAgICAgICAgICAgICB0YWJsZTogIiNhdWRpdF90YWJsZSIsCiAgICAgICAgICAgICAgICBpZFNyYzogJ2lkJywKICAgICAgICAgICAgICAgIGZpZWxkczogW3sKICAgICAgICAgICAgICAgICAgICBsYWJlbDogIlllYXIgU3RhcnQ6IiwKICAgICAgICAgICAgICAgICAgICBuYW1lOiAiYXVkaXRfc3RhcnQiCiAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICJZZWFyIEVuZDoiLAogICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhdWRpdF9lbmQiCiAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgbGFiZWw6ICJTdGFydCBEYXRlOiIsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogInN0YXJ0X2RhdGUiLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICJkYXRldGltZSIsCiAgICAgICAgICAgICAgICAgICAgb3B0czogewogICAgICAgICAgICAgICAgICAgICAgICBzaG93T246ICdmb2N1cycsCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdDogJ1lZWVktTU0tREQnCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgICAgIGxhYmVsOiAiRW5kIERhdGU6IiwKICAgICAgICAgICAgICAgICAgICBuYW1lOiAiZW5kX2RhdGUiLAogICAgICAgICAgICAgICAgICAgIHR5cGU6ICJkYXRldGltZSIsCiAgICAgICAgICAgICAgICAgICAgb3B0czogewogICAgICAgICAgICAgICAgICAgICAgICBzaG93T246ICdmb2N1cycsCiAgICAgICAgICAgICAgICAgICAgICAgIGZvcm1hdDogJ1lZWVktTU0tREQnCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSk7Cgo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">PC9zdHJvbmc+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhYmxlYXVkaXRzID0gJCgnI2F1ZGl0c190YWJsZScpLkRhdGFUYWJsZSggewogICAgICAgICAgICAgICAgZG9tOiAiQmZydCIsCiAgICAgICAgICAgICAgICBzZWxlY3Q6IHRydWUsCiAgICAgICAgICAgICAgICBwYWdpbmc6IGZhbHNlLAogICAgICAgICAgICAgICAgYnV0dG9uczogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgZXh0ZW5kOiAnY29sbGVjdGlvbicsCiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICc8aSBjbGFzcz0iZmEgZmEtZncgZmEtZG93bmxvYWQgbXItMSI+PC9pPicsCiAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbnM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb3B5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdleGNlbCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY3N2JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHRlbmQ6ICdwZGYnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yaWVudGF0aW9uOiAnbGFuZHNjYXBlJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWdlU2l6ZTogJ0xFVFRFUicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAncHJpbnQnLAogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICBmYWRlOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU6ICdidG4tc20gYnRuLWhlcm8tcHJpbWFyeScKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+e3sgJG1ldGFbJ2F1ZGl0X2NyZWF0ZWRfYXQnXSB9fTwvdGQ+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfcm93JyxbJ2hhc191bmlmb3JtX2xlbmd0aCcgPT4gdHJ1ZV0pCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X2NvbHVtbicsIFsnc2l6ZScgPT4gMTJdKQogICAgCiAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX2VuZF9jb2x1bW4nKQogICAgQGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19lbmRfcm93JykK</text>
+      <register name="6" type="8">
+        <text>'Old Value', 'New Value'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gQWRkIEZpbGVwb25kIGluaXRpYWxpemVyIGZvcm0uanMuZmlsZQoK</text>
+      <register name="7" type="8">
+        <text>)
+)</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICA8IS0tIEFkZCBGb3JtIFZhbGlkYXRpb24gdi5ibGFkZSAtLT4KCg==</text>
+      <register name="8" type="8">
+        <text>dump(
+dump(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY291cnNlKTsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">YXVkaXQtPmdldE1ldGFkYXRhKCk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>Metadata</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>Metadata</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
@@ -4512,8 +4515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>year</entry>
-        <entry>Year</entry>
         <entry>GradeLevel</entry>
         <entry>grade_level</entry>
         <entry>department</entry>
@@ -4532,6 +4533,8 @@
         <entry>checkbox</entry>
         <entry>badge</entry>
         <entry>name</entry>
+        <entry>getMeta</entry>
+        <entry>Metadata</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLFNDSE9PTCBZRUFSLEdSQURFIExFVkVMUw==</entry>
