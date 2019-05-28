@@ -91,12 +91,12 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559006116422">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559007456139">
         <mark key="'" line="18" column="6" />
-        <mark key="[" line="96" column="44" />
-        <mark key="]" line="96" column="50" />
-        <mark key="." line="96" column="50" />
-        <mark key="^" line="96" column="50" />
+        <mark key="[" line="149" column="84" />
+        <mark key="]" line="149" column="84" />
+        <mark key="^" line="148" column="61" />
+        <mark key="." line="149" column="84" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/UserFactory.php" timestamp="1558579990330">
         <mark key="[" line="44" column="0" />
@@ -4474,50 +4474,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>CoursePrerequisite::find($id)</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Prerequisite</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Corequisite</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJ2FwaS9jb3Vyc2Uve2NvdXJzZX0vYWpheHN0b3JlY29yZXF1aXNpdGUnLCAnQ291cnNlQ29yZXF1aXNpdGVBamF4Q29udHJvbGxlckBhamF4U3RvcmUnKTsKUm91dGU6OmdldCgnYXBpL2NvdXJzZS97Y291cnNlfS9hamF4c2hvd2NvcmVxdWlzaXRlJywgJ0NvdXJzZUNvcmVxdWlzaXRlQWpheENvbnRyb2xsZXJAYWpheFNob3cnKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">JGNvdXJzZS0+cHJlcmVxdWlzaXRlcygpLT5zeW5jV2l0aG91dERldGFjaGluZygkdmFsdWVzKTs=</text>
       </register>
-      <register name="1" type="8">
-        <text>CoursePrerequisite::find($id)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAkY291cnNlID0gSGVscGVyczo6ZGJBZGRBdWRpdCgkY291cnNlKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">JGNvdXJzZS0+dXBkYXRlKCR2YWx1ZXMp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Um91dGU6OnBvc3QoJ2FwaS9jb3Vyc2Uve2NvdXJzZX0vYWpheHN0b3JlY29yZXF1aXNpdGUnLCAnQ291cnNlQ29yZXF1aXNpdGVBamF4Q29udHJvbGxlckBhamF4U3RvcmUnKTsK</text>
+      <register name="4" type="8">
+        <text encoding="base64">LT5pZA==</text>
       </register>
       <register name="5" type="8">
-        <text>Pre</text>
+        <text>CoursePrerequisite::find($id)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgIHtleHRlbmQ6ICJlZGl0IiwgZWRpdG9yOiBlZGl0b3J7eyAkdHlwZSB9fSwgY2xhc3NOYW1lOiAnYnRuLXNtIGJ0bi1oZXJvLXByaW1hcnknfSwtLX19Cg==</text>
+      <register name="6" type="8">
+        <text>CoursePrerequisite::find($id)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9qYXZhc2NyaXB0Ij4K</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJ2FwaS9jb3Vyc2Uve2NvdXJzZX0vYWpheHN0b3JlY29yZXF1aXNpdGUnLCAnQ291cnNlQ29yZXF1aXNpdGVBamF4Q29udHJvbGxlckBhamF4U3RvcmUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
