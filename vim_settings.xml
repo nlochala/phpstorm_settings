@@ -91,12 +91,12 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559017348149">
-        <mark key="'" line="74" column="80" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="92" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559019366223">
+        <mark key="'" line="73" column="80" />
+        <mark key="[" line="138" column="63" />
+        <mark key="]" line="138" column="71" />
+        <mark key="." line="138" column="71" />
+        <mark key="^" line="138" column="71" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/UserFactory.php" timestamp="1558579990330">
         <mark key="[" line="44" column="0" />
@@ -602,6 +602,11 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="51" column="47" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreCourseEquivalentRequest.php" timestamp="1559018031985">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1559005804034">
         <mark key="'" line="269" column="0" />
         <mark key="[" line="266" column="98" />
@@ -777,6 +782,12 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreCoursePrerequisiteRequest.php" timestamp="1559018015084">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="37" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/CourseTranscriptTypesTableSeeder.php" timestamp="1558408948598">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="40" />
@@ -800,6 +811,11 @@
         <mark key="]" line="206" column="91" />
         <mark key="." line="206" column="91" />
         <mark key="^" line="206" column="91" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreCourseCorequisiteRequest.php" timestamp="1559018024962">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/TestHelpers.php" timestamp="1557377143974">
         <mark key="'" line="34" column="8" />
@@ -4477,50 +4493,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Corequisite</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlLT5wcmVyZXF1aXNpdGVzKCktPnN5bmNXaXRob3V0RGV0YWNoaW5nKCR2YWx1ZXMpOwogICAgICAgICRzZXRfcHJlcmVxdWlzaXRlcyA9ICRjb3Vyc2UtPnByZXJlcXVpc2l0ZXMoKS0+c3luY1dpdGhvdXREZXRhY2hpbmcoJHZhbHVlcyk7CiAgICAgICAgJHRoaXMtPmF0dGVtcHRBY3Rpb24oaXNfYXJyYXkoJHNldF9wcmVyZXF1aXNpdGVzKSwgJ2NvdXJzZSBwcmVyZXF1aXNpdGVzJywgJ3VwZGF0ZScpOwoKICAgICAgICByZXR1cm4gJGNvdXJzZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmVycm9ycykgewogICAgICAgICAgICAkcmV0dXJuX2FycmF5WydlcnJvciddID0gJHRoaXMtPmVycm9yczsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkcmV0dXJuX2FycmF5Owo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">LT5sb2FkKCR0aGlzLT5lYWdlckxvYWQ=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRURJVCBUSEUgR0lWRU4gQ291cnNlUHJlcmVxdWlzaXRlCiAgICAgICAgICAgIGlmICgkYWN0aW9uID09ICdlZGl0JykgewogICAgICAgICAgICAgICAgaWYgKCRjb3Vyc2UgPSAkdGhpcy0+dXBkYXRlKCRjb3Vyc2UsICRmb3JtX2RhdGEpKSB7CiAgICAgICAgICAgICAgICAgICAgJHJldHVybl9hcnJheVsnZGF0YSddW10gPSAkY291cnNlLT5sb2FkKCR0aGlzLT5lYWdlckxvYWQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGFjdGlvbiA9PSAncmVtb3ZlJykgewogICAgICAgICAgICBmb3JlYWNoICgkZGF0YSBhcyAkaWQgPT4gJGZvcm1fZGF0YSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmRlc3Ryb3koJGNvdXJzZSwgJGZvcm1fZGF0YSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmICgkdGhpcy0+ZXJyb3JzKSB7CiAgICAgICAgICAgICAgICAkcmV0dXJuX2FycmF5WydlcnJvciddID0gJHRoaXMtPmVycm9yczsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuICRyZXR1cm5fYXJyYXk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXBkYXRlIHRoZSBnaXZlbiBtb2RlbC4KICAgICAqCiAgICAgKiBAcGFyYW0gQ291cnNlICRjb3Vyc2UKICAgICAqIEBwYXJhbSAkdmFsdWVzCiAgICAgKiBAcmV0dXJuIENvdXJzZXxtaXhlZHx2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoQ291cnNlICRjb3Vyc2UsICR2YWx1ZXMpCiAgICB7CiAgICAgICAgJHNldF9wcmVyZXF1aXNpdGVzID0gJGNvdXJzZS0+cHJlcmVxdWlzaXRlcygpLT5zeW5jV2l0aG91dERldGFjaGluZygkdmFsdWVzKTsKICAgICAgICAkdGhpcy0+YXR0ZW1wdEFjdGlvbihpc19hcnJheSgkc2V0X3ByZXJlcXVpc2l0ZXMpLCAnY291cnNlIHByZXJlcXVpc2l0ZScsICd1cGRhdGUnKTsKCiAgICAgICAgcmV0dXJuICRjb3Vyc2U7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGFjdGlvbiA9PSAncmVtb3ZlJykgewogICAgICAgICAgICBmb3JlYWNoICgkZGF0YSBhcyAkaWQgPT4gJGZvcm1fZGF0YSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmRlc3Ryb3koJGNvdXJzZSwgJGZvcm1fZGF0YSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">JGNvdXJzZS0+ZGVsZXRlKCk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRhY3Rpb24gPT0gJ3JlbW92ZScpIHsKICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGEgYXMgJGlkID0+ICRmb3JtX2RhdGEpIHsKICAgICAgICAgICAgICAgICR0aGlzLT5kZXN0cm95KCRjb3Vyc2UsICRmb3JtX2RhdGEpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>$data[$id]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlID0gSGVscGVyczo6ZGJBZGRBdWRpdCgkY291cnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
