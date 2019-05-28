@@ -91,12 +91,12 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559007456139">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559011402805">
         <mark key="'" line="18" column="6" />
-        <mark key="[" line="149" column="84" />
-        <mark key="]" line="149" column="84" />
-        <mark key="^" line="148" column="61" />
-        <mark key="." line="149" column="84" />
+        <mark key="[" line="149" column="93" />
+        <mark key="]" line="149" column="106" />
+        <mark key="^" line="149" column="106" />
+        <mark key="." line="149" column="106" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/UserFactory.php" timestamp="1558579990330">
         <mark key="[" line="44" column="0" />
