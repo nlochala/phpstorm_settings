@@ -26,20 +26,21 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559095352575">
-        <mark key="'" line="221" column="4" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559099358489">
+        <mark key="'" line="238" column="4" />
+        <mark key="[" line="169" column="122" />
+        <mark key="]" line="179" column="83" />
+        <mark key="." line="179" column="83" />
+        <mark key="^" line="179" column="83" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559091726995">
-        <mark key="[" line="78" column="39" />
-        <mark key="]" line="78" column="39" />
-        <mark key="^" line="78" column="39" />
-        <mark key="." line="78" column="39" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559098787528">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="116" column="38" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeController.php" timestamp="1558324522449">
         <mark key="[" line="7" column="1" />
@@ -440,6 +441,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="27" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_text_sm.blade.php" timestamp="1559099236955">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1559005088597">
         <mark key="'" line="110" column="40" />
@@ -4113,10 +4119,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvcm0uZGQK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>row</text>
       </register>
       <register name="/" type="4">
         <text>corequisite</text>
@@ -4125,37 +4131,37 @@
         <text encoding="base64">Um91dGU6OnBvc3QoJ2NvdXJzZS97Y291cnNlfS9yZXBvcnRfY2FyZF9vcHRpb25zJywgJ0NvdXJzZUNvbnRyb2xsZXJAc3RvcmVSZXBvcnRDYXJkT3B0aW9ucycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm0uZGQK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>ReportCard</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1zbS04Ij4K</text>
       </register>
       <register name="3" type="8">
-        <text>report_card</text>
+        <text encoding="base64">Y2xhc3M9ImNvbC1zbS00IGNvbC1mb3JtLWxhYmVsIiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYW5zY3JpcHQK</text>
+        <text encoding="base64">ICAgIGZvcm0udGV4dC5wbGFpbgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxIZWxwZXJzXEhlbHBlcnM7Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">cmVxdWVzdCgpLT5nZXRSZXF1ZXN0VXJpKCk=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IGggISF9IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ISF9IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZvcm0uZGQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdmFsdWUKICAgICAqCg==</text>
+      <register name="8" type="8">
+        <text>ReportCard</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text>report_card</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
