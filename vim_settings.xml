@@ -26,21 +26,21 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559108569661">
-        <mark key="'" line="190" column="74" />
-        <mark key="[" line="130" column="66" />
-        <mark key="]" line="130" column="70" />
-        <mark key="." line="130" column="70" />
-        <mark key="^" line="130" column="70" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559110165766">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="212" column="46" />
+        <mark key="]" line="212" column="54" />
+        <mark key="." line="212" column="54" />
+        <mark key="^" line="212" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559101828734">
-        <mark key="[" line="124" column="33" />
-        <mark key="]" line="125" column="7" />
-        <mark key="." line="125" column="7" />
-        <mark key="^" line="125" column="7" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559109793074">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="56" column="29" />
+        <mark key="." line="56" column="29" />
+        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeController.php" timestamp="1558324522449">
         <mark key="[" line="7" column="1" />
@@ -495,8 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="114" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show.blade.php" />
-      <jump line="97" column="29" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show_percentage.blade.php" />
       <jump line="49" column="151" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/show_standards.blade.php" />
       <jump line="29" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleStandardAjaxController.php" />
       <jump line="1643" column="13" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
@@ -595,6 +593,8 @@
       <jump line="87" column="25" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseEquivalentAjaxController.php" />
       <jump line="260" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
       <jump line="190" column="74" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
+      <jump line="207" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
+      <jump line="224" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4131,66 +4131,65 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">c3dpdGNoIA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">c3dpdGNoIA==</text>
       </register>
       <register name="/" type="4">
-        <text>corequisite</text>
+        <text>report_card</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">e3stLSAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X2NvbnRlbnQnKS0tfX0KICAgIDxkaXYgY2xhc3M9ImJsb2NrLWNvbnRlbnQiIHN0eWxlPSJkaXNwbGF5OiBmbGV4OyBmbGV4LWRpcmVjdGlvbjogY29sdW1uIj4K</text>
+        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tTmV3IHJlcG9ydF9jYXJkIGNoZWNrYm94LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgIDxsYWJlbD5SZXBvcnQgQ2FyZCBPcHRpb25zPC9sYWJlbD4KICAgICAgICBAZm9yZWFjaCgkcmVwb3J0X2NhcmRfY2hlY2tib3ggYXMgJG5hbWUgPT4gJGRlc2NyaXB0aW9uKQogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjdXN0b20tY29udHJvbCBjdXN0b20tc3dpdGNoIG1iLTIiPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBjbGFzcz0iY3VzdG9tLWNvbnRyb2wtaW5wdXQiIGlkPSJ7eyAkbmFtZSB9fSIKICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJ7eyAkbmFtZSB9fSIge3sgXEFwcFxIZWxwZXJzXEhlbHBlcnM6OmlzQ2hlY2tlZCgkY291cnNlLT4kbmFtZSkgfX0+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImN1c3RvbS1jb250cm9sLWxhYmVsIiBmb3I9Int7ICRuYW1lIH19Ij57eyAkZGVzY3JpcHRpb24gfX08L2xhYmVsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICBAZW5kZm9yZWFjaAogICAgPC9kaXY+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgPCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4KICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fZm9ybV9jbG9zZV9zbScpCiAgICA8IS0tIEVORCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">IHN0eWxlPSJtYXJnaW4tdG9wOiBhdXRvIg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfY29udGVudCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1zbS04Ij4K</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">IGNsYXNzPSJjb2wtc20tNCBjb2wtZm9ybS1sYWJlbCI=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0icmVzZXQiIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1oZXJvLWxpZ2h0IiBkYXRhLWRpc21pc3M9Im1vZGFsIiBkYXRhLXRvZ2dsZT0iY2xpY2stcmlwcGxlIj4KICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcmVwZWF0Ij48L2k+IFJlc2V0CiAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU1RBUlQgRk9STS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgoK</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0icmVzZXQiIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1oZXJvLWxpZ2h0IiBkYXRhLWRpc21pc3M9Im1vZGFsIiBkYXRhLXRvZ2dsZT0iY2xpY2stcmlwcGxlIj4KICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcmVwZWF0Ij48L2k+IFJlc2V0CiAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgIDwhLS0gU1RBUlQgRk9STS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>corequisite</last-search>
+      <last-search>report_card</last-search>
       <last-offset />
-      <last-pattern>corequisite</last-pattern>
-      <last-replace>equivalent</last-replace>
-      <last-substitute>corequisite</last-substitute>
+      <last-pattern>report_card</last-pattern>
+      <last-replace>scheduling</last-replace>
+      <last-substitute>report_card</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ean</entry>
         <entry>0</entry>
         <entry>'true'</entry>
         <entry>true</entry>
@@ -4210,9 +4209,9 @@
         <entry>prerequisite</entry>
         <entry>Corequisites</entry>
         <entry>corequisite</entry>
+        <entry>report_card</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>redo</entry>
         <entry>2</entry>
         <entry>W</entry>
@@ -4231,6 +4230,7 @@
         <entry encoding="base64">JzwsJz5zLGNvcmVxdWlzaXRlLGVxdWl2YWxlbnQsZw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLHJlcG9ydF9jYXJkLHNjaGVkdWxpbmcsZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
