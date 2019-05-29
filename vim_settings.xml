@@ -54,12 +54,12 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseEquivalentAjaxController.php" timestamp="1559023729274">
-        <mark key="'" line="87" column="25" />
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="46" />
-        <mark key="^" line="30" column="46" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseEquivalentAjaxController.php" timestamp="1559091267337">
+        <mark key="'" line="86" column="25" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/User.php" timestamp="1558664374331">
         <mark key="[" line="16" column="0" />
@@ -4114,8 +4114,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxIZWxwZXJzXEhlbHBlcnM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -4126,38 +4126,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx0cj4KICAgICAgICA8dGQ+PHN0cm9uZz5EZXNjcmlwdGlvbjo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+ZGVzY3JpcHRpb24gfX08L3RkPgogICAgICAgIDx0ZD48c3Ryb25nPkNvcmVxdWlzaXRlczo8L3N0cm9uZz4ge3sgJGNvX3JlcXMgfX08L3RkPgogICAgPC90cj4K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IGggISF9IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxIZWxwZXJzXEhlbHBlcnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
+        <text encoding="base64">IGggISF9IA==</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">ISF9IA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSAkdmFsdWUKICAgICAqCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">PHN0cm9uZz5EZXNjcmlwdGlvbjo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+ZGVzY3JpcHRpb24gfX0=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">Pz8gJ04vQScg</text>
-      </register>
       <register name="7" type="8">
-        <text encoding="base64">IHt7ICRwcmVfcmVxcyB9</text>
+        <text encoding="base64">Pz8gJ04vQScg</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="8">
-        <text encoding="base64">Pz8gJ04vQScg</text>
+        <text encoding="base64">IHt7ICRwcmVfcmVxcyB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PHN0cm9uZz5QcmVyZXF1aXNpdGVzOjwvc3Ryb25nPiB7eyAkcHJlX3JlcXMgPz8gJ04vQScgfX08L3RkPgo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">Pz8gJ04vQScg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
