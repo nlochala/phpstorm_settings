@@ -26,12 +26,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559107337875">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559108569661">
         <mark key="'" line="190" column="74" />
-        <mark key="[" line="183" column="41" />
-        <mark key="]" line="183" column="43" />
-        <mark key="." line="183" column="43" />
-        <mark key="^" line="183" column="43" />
+        <mark key="[" line="130" column="66" />
+        <mark key="]" line="130" column="70" />
+        <mark key="." line="130" column="70" />
+        <mark key="^" line="130" column="70" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
@@ -308,10 +308,11 @@
         <mark key="^" line="74" column="39" />
         <mark key="." line="74" column="39" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_form_close_sm.blade.php" timestamp="1559102567033">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_form_close_sm.blade.php" timestamp="1559108241268">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreRoomTypeRequest.php" timestamp="1558324926633">
         <mark key="[" line="27" column="13" />
@@ -4130,49 +4131,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>corequisite</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWVzID0gSGVscGVyczo6ZGJBZGRBdWRpdChyZXF1ZXN0KCktPmFsbCgpKTsK</text>
+        <text encoding="base64">e3stLSAgICBAaW5jbHVkZSgnbGF5b3V0cy5fcGFuZWxzX3N0YXJ0X2NvbnRlbnQnKS0tfX0KICAgIDxkaXYgY2xhc3M9ImJsb2NrLWNvbnRlbnQiIHN0eWxlPSJkaXNwbGF5OiBmbGV4OyBmbGV4LWRpcmVjdGlvbjogY29sdW1uIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1zbS04Ij4K</text>
+      <register name="2" type="8">
+        <text encoding="base64">IHN0eWxlPSJtYXJnaW4tdG9wOiBhdXRvIg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IGNsYXNzPSJjb2wtc20tNCBjb2wtZm9ybS1sYWJlbCI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9wYW5lbHNfc3RhcnRfY29udGVudCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0icmVzZXQiIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1oZXJvLWxpZ2h0IiBkYXRhLWRpc21pc3M9Im1vZGFsIiBkYXRhLXRvZ2dsZT0iY2xpY2stcmlwcGxlIj4KICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcmVwZWF0Ij48L2k+IFJlc2V0CiAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU1RBUlQgRk9STS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgoK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1zbS04Ij4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IGNsYXNzPSJjb2wtc20tNCBjb2wtZm9ybS1sYWJlbCI=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHshISBGb3JtOjpvcGVuKFsnZmlsZXMnID0+IGZhbHNlLCAnaWQnID0+ICd0cmFuc2NyaXB0LWZvcm0nLCd1cmwnID0+IHJlcXVlc3QoKS0+Z2V0UmVxdWVzdFVyaSgpLicvdHJhbnNjcmlwdF9vcHRpb25zJ10pICEhfQo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0icmVzZXQiIGNsYXNzPSJidG4gYnRuLXNtIGJ0bi1oZXJvLWxpZ2h0IiBkYXRhLWRpc21pc3M9Im1vZGFsIiBkYXRhLXRvZ2dsZT0iY2xpY2stcmlwcGxlIj4KICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcmVwZWF0Ij48L2k+IFJlc2V0CiAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoKICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fZm9ybV9jbG9zZScpCiAgICA8IS0tIEVORCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gU1RBUlQgRk9STS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4215,7 +4216,6 @@
         <entry>redo</entry>
         <entry>2</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>%s,prerequisites,{{ $type }},g</entry>
         <entry>%s,prerequisites,\{\{ \$type \}\},g</entry>
         <entry>%s,prerequisite,\{\{ \$type \}\},g</entry>
@@ -4229,6 +4229,7 @@
         <entry encoding="base64">JzwsJz5zLHByZXJlcXVpc2l0ZSxjb3JlcXVpc2l0ZSxn</entry>
         <entry encoding="base64">JzwsJz5zLENvcmVxdWlzaXRlcyxFcXVpdmFsZW50cyxn</entry>
         <entry encoding="base64">JzwsJz5zLGNvcmVxdWlzaXRlLGVxdWl2YWxlbnQsZw==</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
