@@ -26,12 +26,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559180006279">
-        <mark key="'" line="105" column="56" />
-        <mark key="[" line="243" column="40" />
-        <mark key="]" line="243" column="42" />
-        <mark key="." line="243" column="42" />
-        <mark key="^" line="243" column="42" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559182593375">
+        <mark key="'" line="92" column="56" />
+        <mark key="[" line="65" column="72" />
+        <mark key="]" line="65" column="72" />
+        <mark key="." line="65" column="72" />
+        <mark key="^" line="65" column="73" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
@@ -302,11 +302,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" timestamp="1559115968068">
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" timestamp="1559182511284">
+        <mark key="'" line="135" column="36" />
+        <mark key="[" line="131" column="36" />
+        <mark key="]" line="131" column="37" />
+        <mark key="^" line="131" column="37" />
+        <mark key="." line="131" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreDepartmentRequest.php" timestamp="1558317104111">
         <mark key="[" line="27" column="13" />
@@ -507,8 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1643" column="13" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
       <jump line="2117" column="23" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
       <jump line="2788" column="39" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
       <jump line="2789" column="40" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.lock" />
@@ -607,6 +606,8 @@
       <jump line="224" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
       <jump line="227" column="83" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
       <jump line="88" column="56" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
+      <jump line="124" column="65" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" />
+      <jump line="135" column="36" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4142,67 +4143,66 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>report_card</text>
+        <text>pre</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LS0tJzsK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUHJlcmVxdWlzaXRlcyBkaXNwbGF5LgogICAgICoKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldERpc3BsYXlJbmxpbmVQcmVyZXF1aXNpdGVzQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnByZXJlcXVpc2l0ZXMtPmlzRW1wdHkoKQogICAgICAgICAgICA/ICctLS0nCiAgICAgICAgICAgIDogaW1wbG9kZSgnLCAnLCAkdGhpcy0+cHJlcmVxdWlzaXRlcy0+cGx1Y2soJ3Nob3J0X25hbWVfdXJsJyktPnRvQXJyYXkoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwaHAKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkY29fcmVxcyA9IGltcGxvZGUoJywgJywgJGNvdXJzZS0+Y29yZXF1aXNpdGVzLT5wbHVjaygnc2hvcnRfbmFtZV91cmwnKS0+dG9BcnJheSgpKTsKICAgICAgICAkY291cnNlLT5jb3JlcXVpc2l0ZXMtPmlzTm90RW1wdHkoKSA/OiAkY29fcmVxcyA9ICctLS0nOwoKICAgICAgICAkZXF1aXYgPSBpbXBsb2RlKCcsICcsICRjb3Vyc2UtPmVxdWl2YWxlbnRzLT5wbHVjaygnc2hvcnRfbmFtZV91cmwnKS0+dG9BcnJheSgpKTsKICAgICAgICAkY291cnNlLT5lcXVpdmFsZW50cy0+aXNOb3RFbXB0eSgpID86ICRlcXVpdiA9ICctLS0nOwoKICAgICAgICAkZ3JhZGVfbGV2ZWxzID0gaW1wbG9kZSgnLCAnLCAkY291cnNlLT5ncmFkZUxldmVscy0+cGx1Y2soJ3Nob3J0X25hbWUnKS0+dG9BcnJheSgpKTsKICAgICAgICAkY291cnNlLT5ncmFkZUxldmVscy0+aXNOb3RFbXB0eSgpID86ICRncmFkZV9sZXZlbHMgPSAnLS0tJzsKICAgIEBlbmRwaHAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fZm9ybV9jbG9zZScpCiAgICA8IS0tIEVORCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgo=</text>
+      <register name="3" type="8">
+        <text>Pre</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdmFsdWUKICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByZV9yZXFzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5fZm9ybV9jbG9zZV9zbScpCiAgICA8IS0tIEVORCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="8">
-        <text>N/A</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJlX3JlcXMgPSAKICAgICAgICAkdGhpcy0+cHJlcmVxdWlzaXRlcy0+aXNOb3RFbXB0eSgpID86ICRwcmVfcmVxcyA9ICctLS0nOwoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>N/A</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="8">
-        <text>N/A</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>report_card</last-search>
+      <last-search>pre</last-search>
       <last-offset />
-      <last-pattern>report_card</last-pattern>
-      <last-replace>scheduling</last-replace>
-      <last-substitute>report_card</last-substitute>
+      <last-pattern>pre</last-pattern>
+      <last-replace>co</last-replace>
+      <last-substitute>pre</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>'true'</entry>
         <entry>true</entry>
         <entry>get</entry>
@@ -4213,7 +4213,6 @@
         <entry>Metadata</entry>
         <entry>Corequisite</entry>
         <entry>Course</entry>
-        <entry>course</entry>
         <entry>Prerequisite</entry>
         <entry>prerequisites</entry>
         <entry>VALIDATION</entry>
@@ -4222,11 +4221,10 @@
         <entry>Corequisites</entry>
         <entry>corequisite</entry>
         <entry>report_card</entry>
+        <entry>course</entry>
+        <entry>pre</entry>
       </history-search>
       <history-cmd>
-        <entry>redo</entry>
-        <entry>2</entry>
-        <entry>W</entry>
         <entry>%s,prerequisites,{{ $type }},g</entry>
         <entry>%s,prerequisites,\{\{ \$type \}\},g</entry>
         <entry>%s,prerequisite,\{\{ \$type \}\},g</entry>
@@ -4243,6 +4241,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLHJlcG9ydF9jYXJkLHNjaGVkdWxpbmcsZw==</entry>
+        <entry>s,course,this,g</entry>
+        <entry encoding="base64">JzwsJz5wcmUsY28sZw==</entry>
+        <entry encoding="base64">JzwsJz5zLHByZSxjbyxn</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
