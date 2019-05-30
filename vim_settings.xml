@@ -26,12 +26,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559182593375">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559182656880">
         <mark key="'" line="92" column="56" />
-        <mark key="[" line="65" column="72" />
-        <mark key="]" line="65" column="72" />
-        <mark key="." line="65" column="72" />
-        <mark key="^" line="65" column="73" />
+        <mark key="[" line="65" column="84" />
+        <mark key="]" line="65" column="90" />
+        <mark key="." line="65" column="90" />
+        <mark key="^" line="65" column="90" />
       </file>
       <file name="/a.dummy" timestamp="1558663922437">
         <mark key="[" line="0" column="0" />
@@ -4144,10 +4144,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Z3JhZGVfbGV2ZWxzIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Z3JhZGVfbGV2ZWxzIA==</text>
       </register>
       <register name="/" type="4">
         <text>pre</text>
