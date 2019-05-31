@@ -26,12 +26,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559268152512">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559283384904">
         <mark key="'" line="241" column="27" />
-        <mark key="[" line="290" column="52" />
-        <mark key="]" line="291" column="38" />
-        <mark key="." line="291" column="38" />
-        <mark key="^" line="291" column="38" />
+        <mark key="[" line="245" column="20" />
+        <mark key="]" line="294" column="38" />
+        <mark key="." line="294" column="38" />
+        <mark key="^" line="294" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559261728539">
         <mark key="[" line="167" column="7" />
