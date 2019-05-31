@@ -26,12 +26,12 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559261852262">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559268152512">
         <mark key="'" line="241" column="27" />
-        <mark key="[" line="298" column="34" />
-        <mark key="]" line="298" column="51" />
-        <mark key="." line="298" column="51" />
-        <mark key="^" line="298" column="51" />
+        <mark key="[" line="290" column="52" />
+        <mark key="]" line="291" column="38" />
+        <mark key="." line="291" column="38" />
+        <mark key="^" line="291" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559261728539">
         <mark key="[" line="167" column="7" />
@@ -309,11 +309,11 @@
         <mark key="^" line="158" column="17" />
         <mark key="." line="159" column="65" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_show_modals.blade.php" timestamp="1559261551303">
-        <mark key="[" line="51" column="119" />
-        <mark key="]" line="51" column="139" />
-        <mark key="." line="51" column="139" />
-        <mark key="^" line="51" column="139" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_show_modals.blade.php" timestamp="1559268017426">
+        <mark key="[" line="51" column="72" />
+        <mark key="]" line="51" column="80" />
+        <mark key="." line="51" column="80" />
+        <mark key="^" line="51" column="80" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreDepartmentRequest.php" timestamp="1558317104111">
         <mark key="[" line="27" column="13" />
@@ -4147,10 +4147,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCdzdWJtaXR0ZWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -4159,34 +4159,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCdzdWJtaXR0ZWQnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">cmVxdWVzdCgpLT5hbGwoKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCgnZW10cHknKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlLT5yZXF1aXJlZF9tYXRlcmlhbHMgPSAkdgo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">JGNvdXJzZS0+cmVxdWlyZWRf</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="8">
+        <text encoding="base64">cmVxdWVzdCgpLT5hbGwoKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY291cnNlLT5yZXF1aXJlZF9tYXRlcmlhbHMgPSAkdgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSBTVEFSVCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
