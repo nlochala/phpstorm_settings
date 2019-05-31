@@ -26,18 +26,18 @@
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559187874246">
-        <mark key="'" line="92" column="56" />
-        <mark key="[" line="251" column="96" />
-        <mark key="]" line="251" column="96" />
-        <mark key="." line="251" column="96" />
-        <mark key="^" line="251" column="96" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559261852262">
+        <mark key="'" line="241" column="27" />
+        <mark key="[" line="298" column="34" />
+        <mark key="]" line="298" column="51" />
+        <mark key="." line="298" column="51" />
+        <mark key="^" line="298" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559188208819">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" timestamp="1559261728539">
         <mark key="[" line="167" column="7" />
-        <mark key="]" line="168" column="31" />
-        <mark key="." line="168" column="31" />
-        <mark key="^" line="168" column="31" />
+        <mark key="]" line="168" column="42" />
+        <mark key="." line="168" column="42" />
+        <mark key="^" line="168" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeController.php" timestamp="1558324522449">
         <mark key="[" line="7" column="1" />
@@ -244,12 +244,12 @@
         <mark key="]" line="27" column="40" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1559186220806">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1559261577569">
         <mark key="'" line="260" column="0" />
-        <mark key="[" line="260" column="74" />
-        <mark key="]" line="260" column="83" />
-        <mark key="." line="260" column="83" />
-        <mark key="^" line="260" column="83" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
+        <mark key="^" line="261" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/SchoolsTableSeeder.php" timestamp="1558409111008">
         <mark key="[" line="22" column="0" />
@@ -308,6 +308,12 @@
         <mark key="]" line="159" column="65" />
         <mark key="^" line="158" column="17" />
         <mark key="." line="159" column="65" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_show_modals.blade.php" timestamp="1559261551303">
+        <mark key="[" line="51" column="119" />
+        <mark key="]" line="51" column="139" />
+        <mark key="." line="51" column="139" />
+        <mark key="^" line="51" column="139" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreDepartmentRequest.php" timestamp="1558317104111">
         <mark key="[" line="27" column="13" />
@@ -505,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="39" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" />
-      <jump line="166" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeLevelAjaxController.php" />
       <jump line="164" column="90" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScalePercentageAjaxController.php" />
       <jump line="161" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionAjaxController.php" />
       <jump line="48" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/PositionAjaxController.php" />
@@ -605,6 +609,8 @@
       <jump line="308" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" />
       <jump line="884" column="23" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" />
+      <jump line="107" column="34" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
+      <jump line="241" column="27" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4140,11 +4146,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>_url</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -4152,38 +4158,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+YmFjaygpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">fX0g</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
-        <text encoding="base64">ICAhIX0g</text>
+        <text encoding="base64">cmVxdWVzdCgpLT5hbGwoKQ==</text>
       </register>
-      <register name="3" type="8">
-        <text>['1', '2']</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkY291cnNlLT5yZXF1aXJlZF9tYXRlcmlhbHMgPSAkdgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PCEtLSBTVEFSVCBGT1JNLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+Cgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY291cnNlLT51cGRhdGUoJHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>?? '---'</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
