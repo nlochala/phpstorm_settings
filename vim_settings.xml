@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1559289018420">
-        <mark key="'" line="242" column="27" />
-        <mark key="[" line="73" column="12" />
-        <mark key="]" line="73" column="58" />
-        <mark key="." line="73" column="58" />
-        <mark key="^" line="73" column="58" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/RoomTypeController.php" timestamp="1558324522449">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="17" column="3" />
@@ -21,13 +14,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_requisites_datatables.blade.php" timestamp="1559024205275">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/passport_visa.blade.php" timestamp="1562118264004">
         <mark key="'" line="57" column="22" />
@@ -44,18 +30,17 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CoursePrerequisiteAjaxController.php" timestamp="1559019366223">
-        <mark key="'" line="73" column="80" />
-        <mark key="[" line="138" column="63" />
-        <mark key="]" line="138" column="71" />
-        <mark key="." line="138" column="71" />
-        <mark key="^" line="138" column="71" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" timestamp="1558683609558">
         <mark key="'" line="57" column="21" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/contact.blade.php" timestamp="1562133607774">
+        <mark key="[" line="7" column="74" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="81" />
+        <mark key="^" line="7" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_05_21_064622_create_course_types_table.php" timestamp="1558421417512">
         <mark key="[" line="17" column="45" />
@@ -87,10 +72,11 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" timestamp="1562133028025">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" timestamp="1562133564568">
+        <mark key="'" line="150" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseTranscriptType.php" timestamp="1558490896437">
@@ -117,13 +103,6 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_show_modals.blade.php" timestamp="1559288713499">
-        <mark key="'" line="50" column="75" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="76" column="75" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreDepartmentRequest.php" timestamp="1558317104111">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="23" />
@@ -135,13 +114,6 @@
         <mark key="]" line="27" column="23" />
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseCorequisiteAjaxController.php" timestamp="1559022908962">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/YearAjaxController.php" timestamp="1558413024466">
         <mark key="[" line="159" column="5" />
@@ -224,6 +196,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentEmailRequest.php" timestamp="1562133674898">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1558663658326">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -235,13 +213,6 @@
         <mark key="]" line="110" column="41" />
         <mark key="." line="110" column="41" />
         <mark key="^" line="110" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseEquivalentAjaxController.php" timestamp="1559091267337">
-        <mark key="'" line="86" column="25" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_horizontal_menu.blade.php" timestamp="1562118948995">
         <mark key="[" line="89" column="16" />
@@ -288,13 +259,6 @@
         <mark key="^" line="31" column="58" />
         <mark key="." line="31" column="58" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/employee_overview.blade.php" timestamp="1562118189595">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="34" />
-        <mark key="]" line="105" column="43" />
-        <mark key="^" line="105" column="43" />
-        <mark key="." line="105" column="43" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_input_dropdown_multiple.blade.php" timestamp="1559114976453">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="18" />
@@ -306,6 +270,12 @@
         <mark key="]" line="68" column="65" />
         <mark key="." line="68" column="65" />
         <mark key="^" line="68" column="65" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentPhoneRequest.php" timestamp="1562133764098">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_biographical.blade.php" timestamp="1562127102504">
         <mark key="[" line="0" column="30" />
@@ -348,26 +318,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Course.php" timestamp="1559187984319">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="159" column="65" />
-        <mark key="]" line="159" column="65" />
-        <mark key="^" line="158" column="17" />
-        <mark key="." line="159" column="65" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" timestamp="1562132951464">
         <mark key="'" line="111" column="0" />
         <mark key="[" line="6" column="74" />
         <mark key="]" line="6" column="81" />
         <mark key="^" line="6" column="81" />
         <mark key="." line="6" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/positions_details.blade.php" timestamp="1562118280504">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="30" />
-        <mark key="]" line="74" column="39" />
-        <mark key="^" line="74" column="39" />
-        <mark key="." line="74" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_forms/_form_close_sm.blade.php" timestamp="1559108241268">
         <mark key="[" line="1" column="61" />
@@ -381,12 +337,11 @@
         <mark key="." line="77" column="71" />
         <mark key="^" line="77" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/_prerequisites_datatables.blade.php" timestamp="1559004480469">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentAddressRequest.php" timestamp="1562133729489">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreRoomRequest.php" timestamp="1558330175981">
         <mark key="[" line="30" column="29" />
@@ -427,13 +382,6 @@
         <mark key="." line="118" column="54" />
         <mark key="^" line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" timestamp="1559005088597">
-        <mark key="'" line="110" column="40" />
-        <mark key="[" line="206" column="86" />
-        <mark key="]" line="206" column="91" />
-        <mark key="." line="206" column="91" />
-        <mark key="^" line="206" column="91" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" timestamp="1562127325130">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -455,8 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleController.php" />
-      <jump line="94" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleController.php" />
       <jump line="41" column="37" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="225" column="26" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
@@ -555,6 +501,8 @@
       <jump line="76" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" />
       <jump line="7" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" />
       <jump line="111" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" />
+      <jump line="33" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" />
+      <jump line="160" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4091,67 +4039,65 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">U3RvcmVFbXBsb3llZVBob25lUmVxdWVzdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">U3RvcmVFbXBsb3llZVBob25lUmVxdWVzdCA=</text>
       </register>
       <register name="/" type="4">
-        <text>month</text>
+        <text>employee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkYXRhLm5hbWVfaW5fY2hpbmVzZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSArPSAnICcrZGF0YS5uYW1lX2luX2NoaW5lc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>, 'created'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVxdWlyZSB1c2VycyB0byBoYXZlIGJlZW4gYXV0aGVudGljYXRlZCBiZWZvcmUgcmVhY2hpbmcgdGhpcyBwYWdlLgogICAgICoKICAgICAqIFVzZXJDb250cm9sbGVyIGNvbnN0cnVjdG9yLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgICR0aGlzLT5taWRkbGV3YXJlKCdhdXRoJyk7CiAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWVzWyd0aXRsZSddID0gUGVyc29uOjpnZXRUaXRsZSgkdmFsdWVzWyd0aXRsZSddKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIERpc3BsYXkgdGhlIGNvbnRhY3QgaW5mb3JtYXRpb24uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIEZhY3Rvcnl8VmlldwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY29udGFjdChTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICRwZXJzb24gPSAkc3R1ZGVudC0+cGVyc29uOwoKICAgICAgICAkcGhvbmVfbnVtYmVycyA9ICRzdHVkZW50LT5wZXJzb24tPnBob25lcy0+bG9hZCgKICAgICAgICAgICAgJ2NvdW50cnknLAogICAgICAgICAgICAncGhvbmVUeXBlJwogICAgICAgICk7CgogICAgICAgICRhZGRyZXNzZXMgPSAkc3R1ZGVudC0+cGVyc29uLT5hZGRyZXNzZXMtPmxvYWQoCiAgICAgICAgICAgICdjb3VudHJ5JywKICAgICAgICAgICAgJ2FkZHJlc3NUeXBlJwogICAgICAgICk7CgogICAgICAgICRwaG9uZV90eXBlX2Ryb3Bkb3duID0gUGhvbmVUeXBlOjpnZXREcm9wZG93bigpOwogICAgICAgICRjb3VudHJ5X2NvZGVfZHJvcGRvd24gPSBDb3VudHJ5OjpnZXRDb3VudHJ5Q29kZURyb3Bkb3duKCk7CiAgICAgICAgJGFkZHJlc3NfdHlwZV9kcm9wZG93biA9IEFkZHJlc3NUeXBlOjpnZXREcm9wZG93bigpOwogICAgICAgICRjb3VudHJ5X2Ryb3Bkb3duID0gQ291bnRyeTo6Z2V0RHJvcGRvd24oKTsKCiAgICAgICAgcmV0dXJuIHZpZXcoJ3N0dWRlbnQuY29udGFjdCcsIGNvbXBhY3QoCiAgICAgICAgICAgICdzdHVkZW50JywKICAgICAgICAgICAgJ3Bob25lX251bWJlcnMnLAogICAgICAgICAgICAnYWRkcmVzc2VzJywKICAgICAgICAgICAgJ3Bob25lX3R5cGVfZHJvcGRvd24nLAogICAgICAgICAgICAnY291bnRyeV9jb2RlX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ2NvdW50cnlfZHJvcGRvd24nLAogICAgICAgICAgICAnYWRkcmVzc190eXBlX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ3BlcnNvbicKICAgICAgICApKTsKICAgIH0KCiAgICAvKioKICAgICAqIFN0b3JlIHRoZSAiVXBkYXRlIEVtYWlsIEFkZHJlc3NlcyIgZm9ybS4KICAgICAqCiAgICAgKiBAcGFyYW0gU3R1ZGVudCAkc3R1ZGVudAogICAgICoKICAgICAqIEByZXR1cm4gUmVkaXJlY3RSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc3RvcmVFbWFpbChTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICRwZXJzb24gPSAkc3R1ZGVudC0+cGVyc29uOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pZCddID0gYXV0aCgpLT5pZCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pcCddID0gSGVscGVyczo6Z2V0VXNlcklwKCk7CiAgICAgICAgJHBlcnNvbi0+dXBkYXRlKCR2YWx1ZXMpCiAgICAgICAgICAgID8KICAgICAgICAgICAgSGVscGVyczo6Zmxhc2hBbGVydCgKICAgICAgICAgICAgICAgICdzdWNjZXNzJywKICAgICAgICAgICAgICAgICdUaGUgZW1haWwgYWRkcmVzc2VzIGhhdmUgYmVlbiBzdWNjZXNzZnVsbHkgc2F2ZWQvdXBkYXRlZC4nLAogICAgICAgICAgICAgICAgJ2ZhIGZhLWNoZWNrIG1yLTEnKQogICAgICAgICAgICA6CiAgICAgICAgICAgIEhlbHBlcnM6OmZsYXNoQWxlcnQoCiAgICAgICAgICAgICAgICAnZGFuZ2VyJywKICAgICAgICAgICAgICAgICdUaGUgZW1haWwgYWRkcmVzcyBjaGFuZ2VzIGRpZCBub3Qgc2F2ZSBjb3JyZWN0bHkuIFBsZWFzZSB0cnkgYWdhaW4uJywKICAgICAgICAgICAgICAgICdmYSBmYS1pbmZvLWNpcmNsZSBtci0xJyk7CgogICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBTdG9yZSB0aGUgIk5ldyBQaG9uZSBOdW1iZXIiIGZvcm0uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIFJlZGlyZWN0UmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlUGhvbmUoU3R1ZGVudCAkc3R1ZGVudCkKICAgIHsKICAgICAgICAkdmFsdWVzID0gcmVxdWVzdCgpLT5hbGwoKTsKICAgICAgICAkdmFsdWVzWyd1c2VyX2NyZWF0ZWRfaWQnXSA9IGF1dGgoKS0+aWQoKTsKICAgICAgICAkdmFsdWVzWyd1c2VyX2NyZWF0ZWRfaXAnXSA9IEhlbHBlcnM6OmdldFVzZXJJcCgpOwogICAgICAgICR2YWx1ZXNbJ3BlcnNvbl9pZCddID0gJHN0dWRlbnQtPnBlcnNvbi0+aWQ7CiAgICAgICAgJHZhbHVlc1snY291bnRyeV9pZCddID0gJHZhbHVlc1snY291bnRyeV9pZF9waG9uZSddOwogICAgICAgIC8qIEBub2luc3BlY3Rpb24gUGhwVW5kZWZpbmVkTWV0aG9kSW5zcGVjdGlvbiAqLwogICAgICAgIFBob25lOjpjcmVhdGUoJHZhbHVlcykKICAgICAgICAgICAgPwogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ3N1Y2Nlc3MnLAogICAgICAgICAgICAgICAgJ1RoZSBwaG9uZSBudW1iZXIgaGFzIGJlZW4gc3VjY2Vzc2Z1bGx5IHNhdmVkLicsCiAgICAgICAgICAgICAgICAnZmEgZmEtY2hlY2sgbXItMScpCiAgICAgICAgICAgIDoKICAgICAgICAgICAgSGVscGVyczo6Zmxhc2hBbGVydCgKICAgICAgICAgICAgICAgICdkYW5nZXInLAogICAgICAgICAgICAgICAgJ1RoZSBwaG9uZSBudW1iZXIgZGlkIG5vdCBzYXZlIGNvcnJlY3RseS4gUGxlYXNlIHRyeSBhZ2Fpbi4nLAogICAgICAgICAgICAgICAgJ2ZhIGZhLWluZm8tY2lyY2xlIG1yLTEnKTsKCiAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKTsKICAgIH0KCiAgICAvKioKICAgICAqIFN0b3JlIHRoZSAiTmV3IEFkZHJlc3MiIGZvcm0uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIFJlZGlyZWN0UmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlQWRkcmVzcyhTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pZCddID0gYXV0aCgpLT5pZCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pcCddID0gSGVscGVyczo6Z2V0VXNlcklwKCk7CiAgICAgICAgJHZhbHVlc1sncGVyc29uX2lkJ10gPSAkc3R1ZGVudC0+cGVyc29uLT5pZDsKICAgICAgICAvKiBAbm9pbnNwZWN0aW9uIFBocFVuZGVmaW5lZE1ldGhvZEluc3BlY3Rpb24gKi8KICAgICAgICBBZGRyZXNzOjpjcmVhdGUoJHZhbHVlcykKICAgICAgICAgICAgPwogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ3N1Y2Nlc3MnLAogICAgICAgICAgICAgICAgJ1RoZSBhZGRyZXNzIG51bWJlciBoYXMgYmVlbiBzdWNjZXNzZnVsbHkgc2F2ZWQuJywKICAgICAgICAgICAgICAgICdmYSBmYS1jaGVjayBtci0xJykKICAgICAgICAgICAgOgogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ2RhbmdlcicsCiAgICAgICAgICAgICAgICAnVGhlIGFkZHJlc3MgbnVtYmVyIGRpZCBub3Qgc2F2ZSBjb3JyZWN0bHkuIFBsZWFzZSB0cnkgYWdhaW4uJywKICAgICAgICAgICAgICAgICdmYSBmYS1pbmZvLWNpcmNsZSBtci0xJyk7CgogICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBVcGRhdGUgdGhlIGdpdmVuIGFkZHJlc3MuCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqIEBwYXJhbSBBZGRyZXNzICAkYWRkcmVzcwogICAgICoKICAgICAqIEByZXR1cm4gUmVkaXJlY3RSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlQWRkcmVzcyhTdHVkZW50ICRzdHVkZW50LCBBZGRyZXNzICRhZGRyZXNzKQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICRhZGRyZXNzLT51c2VyX3VwZGF0ZWRfaWQgPSBhdXRoKCktPmlkKCk7CiAgICAgICAgJGFkZHJlc3MtPnVzZXJfdXBkYXRlZF9pcCA9IEhlbHBlcnM6OmdldFVzZXJJcCgpOwogICAgICAgICRhZGRyZXNzLT5jb3VudHJ5X2lkID0gJHZhbHVlc1snY291bnRyeV9pZF8nLiRhZGRyZXNzLT5pZF07CiAgICAgICAgJGFkZHJlc3MtPmFkZHJlc3NfdHlwZV9pZCA9ICR2YWx1ZXNbJ2FkZHJlc3NfdHlwZV9pZF8nLiRhZGRyZXNzLT5pZF07CiAgICAgICAgJGFkZHJlc3MtPnVwZGF0ZSgkdmFsdWVzKTsKCiAgICAgICAgSGVscGVyczo6Zmxhc2goJGFkZHJlc3MtPnVwZGF0ZSgkdmFsdWVzKSwgJ2FkZHJlc3MnLCAndXBkYXRlZCcpOwoKICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+dG8oJy9zdHVkZW50LycuJHN0dWRlbnQtPnV1aWQuJy9jb250YWN0Jyk7CiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="8">
+      <register name="2" type="8">
         <text>, 'created'</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdmFsdWVzWyd0aXRsZSddID0gUGVyc29uOjpnZXRUaXRsZSgkdmFsdWVzWyd0aXRsZSddKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIERpc3BsYXkgdGhlIGNvbnRhY3QgaW5mb3JtYXRpb24uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIEZhY3Rvcnl8VmlldwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gY29udGFjdChTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICRwZXJzb24gPSAkc3R1ZGVudC0+cGVyc29uOwoKICAgICAgICAkcGhvbmVfbnVtYmVycyA9ICRzdHVkZW50LT5wZXJzb24tPnBob25lcy0+bG9hZCgKICAgICAgICAgICAgJ2NvdW50cnknLAogICAgICAgICAgICAncGhvbmVUeXBlJwogICAgICAgICk7CgogICAgICAgICRhZGRyZXNzZXMgPSAkc3R1ZGVudC0+cGVyc29uLT5hZGRyZXNzZXMtPmxvYWQoCiAgICAgICAgICAgICdjb3VudHJ5JywKICAgICAgICAgICAgJ2FkZHJlc3NUeXBlJwogICAgICAgICk7CgogICAgICAgICRwaG9uZV90eXBlX2Ryb3Bkb3duID0gUGhvbmVUeXBlOjpnZXREcm9wZG93bigpOwogICAgICAgICRjb3VudHJ5X2NvZGVfZHJvcGRvd24gPSBDb3VudHJ5OjpnZXRDb3VudHJ5Q29kZURyb3Bkb3duKCk7CiAgICAgICAgJGFkZHJlc3NfdHlwZV9kcm9wZG93biA9IEFkZHJlc3NUeXBlOjpnZXREcm9wZG93bigpOwogICAgICAgICRjb3VudHJ5X2Ryb3Bkb3duID0gQ291bnRyeTo6Z2V0RHJvcGRvd24oKTsKCiAgICAgICAgcmV0dXJuIHZpZXcoJ3N0dWRlbnQuY29udGFjdCcsIGNvbXBhY3QoCiAgICAgICAgICAgICdzdHVkZW50JywKICAgICAgICAgICAgJ3Bob25lX251bWJlcnMnLAogICAgICAgICAgICAnYWRkcmVzc2VzJywKICAgICAgICAgICAgJ3Bob25lX3R5cGVfZHJvcGRvd24nLAogICAgICAgICAgICAnY291bnRyeV9jb2RlX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ2NvdW50cnlfZHJvcGRvd24nLAogICAgICAgICAgICAnYWRkcmVzc190eXBlX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ3BlcnNvbicKICAgICAgICApKTsKICAgIH0KCiAgICAvKioKICAgICAqIFN0b3JlIHRoZSAiVXBkYXRlIEVtYWlsIEFkZHJlc3NlcyIgZm9ybS4KICAgICAqCiAgICAgKiBAcGFyYW0gU3R1ZGVudCAkc3R1ZGVudAogICAgICoKICAgICAqIEByZXR1cm4gUmVkaXJlY3RSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc3RvcmVFbWFpbChTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICRwZXJzb24gPSAkc3R1ZGVudC0+cGVyc29uOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pZCddID0gYXV0aCgpLT5pZCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pcCddID0gSGVscGVyczo6Z2V0VXNlcklwKCk7CiAgICAgICAgJHBlcnNvbi0+dXBkYXRlKCR2YWx1ZXMpCiAgICAgICAgICAgID8KICAgICAgICAgICAgSGVscGVyczo6Zmxhc2hBbGVydCgKICAgICAgICAgICAgICAgICdzdWNjZXNzJywKICAgICAgICAgICAgICAgICdUaGUgZW1haWwgYWRkcmVzc2VzIGhhdmUgYmVlbiBzdWNjZXNzZnVsbHkgc2F2ZWQvdXBkYXRlZC4nLAogICAgICAgICAgICAgICAgJ2ZhIGZhLWNoZWNrIG1yLTEnKQogICAgICAgICAgICA6CiAgICAgICAgICAgIEhlbHBlcnM6OmZsYXNoQWxlcnQoCiAgICAgICAgICAgICAgICAnZGFuZ2VyJywKICAgICAgICAgICAgICAgICdUaGUgZW1haWwgYWRkcmVzcyBjaGFuZ2VzIGRpZCBub3Qgc2F2ZSBjb3JyZWN0bHkuIFBsZWFzZSB0cnkgYWdhaW4uJywKICAgICAgICAgICAgICAgICdmYSBmYS1pbmZvLWNpcmNsZSBtci0xJyk7CgogICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBTdG9yZSB0aGUgIk5ldyBQaG9uZSBOdW1iZXIiIGZvcm0uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIFJlZGlyZWN0UmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlUGhvbmUoU3R1ZGVudCAkc3R1ZGVudCkKICAgIHsKICAgICAgICAkdmFsdWVzID0gcmVxdWVzdCgpLT5hbGwoKTsKICAgICAgICAkdmFsdWVzWyd1c2VyX2NyZWF0ZWRfaWQnXSA9IGF1dGgoKS0+aWQoKTsKICAgICAgICAkdmFsdWVzWyd1c2VyX2NyZWF0ZWRfaXAnXSA9IEhlbHBlcnM6OmdldFVzZXJJcCgpOwogICAgICAgICR2YWx1ZXNbJ3BlcnNvbl9pZCddID0gJHN0dWRlbnQtPnBlcnNvbi0+aWQ7CiAgICAgICAgJHZhbHVlc1snY291bnRyeV9pZCddID0gJHZhbHVlc1snY291bnRyeV9pZF9waG9uZSddOwogICAgICAgIC8qIEBub2luc3BlY3Rpb24gUGhwVW5kZWZpbmVkTWV0aG9kSW5zcGVjdGlvbiAqLwogICAgICAgIFBob25lOjpjcmVhdGUoJHZhbHVlcykKICAgICAgICAgICAgPwogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ3N1Y2Nlc3MnLAogICAgICAgICAgICAgICAgJ1RoZSBwaG9uZSBudW1iZXIgaGFzIGJlZW4gc3VjY2Vzc2Z1bGx5IHNhdmVkLicsCiAgICAgICAgICAgICAgICAnZmEgZmEtY2hlY2sgbXItMScpCiAgICAgICAgICAgIDoKICAgICAgICAgICAgSGVscGVyczo6Zmxhc2hBbGVydCgKICAgICAgICAgICAgICAgICdkYW5nZXInLAogICAgICAgICAgICAgICAgJ1RoZSBwaG9uZSBudW1iZXIgZGlkIG5vdCBzYXZlIGNvcnJlY3RseS4gUGxlYXNlIHRyeSBhZ2Fpbi4nLAogICAgICAgICAgICAgICAgJ2ZhIGZhLWluZm8tY2lyY2xlIG1yLTEnKTsKCiAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKTsKICAgIH0KCiAgICAvKioKICAgICAqIFN0b3JlIHRoZSAiTmV3IEFkZHJlc3MiIGZvcm0uCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqCiAgICAgKiBAcmV0dXJuIFJlZGlyZWN0UmVzcG9uc2UKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHN0b3JlQWRkcmVzcyhTdHVkZW50ICRzdHVkZW50KQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pZCddID0gYXV0aCgpLT5pZCgpOwogICAgICAgICR2YWx1ZXNbJ3VzZXJfY3JlYXRlZF9pcCddID0gSGVscGVyczo6Z2V0VXNlcklwKCk7CiAgICAgICAgJHZhbHVlc1sncGVyc29uX2lkJ10gPSAkc3R1ZGVudC0+cGVyc29uLT5pZDsKICAgICAgICAvKiBAbm9pbnNwZWN0aW9uIFBocFVuZGVmaW5lZE1ldGhvZEluc3BlY3Rpb24gKi8KICAgICAgICBBZGRyZXNzOjpjcmVhdGUoJHZhbHVlcykKICAgICAgICAgICAgPwogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ3N1Y2Nlc3MnLAogICAgICAgICAgICAgICAgJ1RoZSBhZGRyZXNzIG51bWJlciBoYXMgYmVlbiBzdWNjZXNzZnVsbHkgc2F2ZWQuJywKICAgICAgICAgICAgICAgICdmYSBmYS1jaGVjayBtci0xJykKICAgICAgICAgICAgOgogICAgICAgICAgICBIZWxwZXJzOjpmbGFzaEFsZXJ0KAogICAgICAgICAgICAgICAgJ2RhbmdlcicsCiAgICAgICAgICAgICAgICAnVGhlIGFkZHJlc3MgbnVtYmVyIGRpZCBub3Qgc2F2ZSBjb3JyZWN0bHkuIFBsZWFzZSB0cnkgYWdhaW4uJywKICAgICAgICAgICAgICAgICdmYSBmYS1pbmZvLWNpcmNsZSBtci0xJyk7CgogICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5iYWNrKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiBVcGRhdGUgdGhlIGdpdmVuIGFkZHJlc3MuCiAgICAgKgogICAgICogQHBhcmFtIFN0dWRlbnQgJHN0dWRlbnQKICAgICAqIEBwYXJhbSBBZGRyZXNzICAkYWRkcmVzcwogICAgICoKICAgICAqIEByZXR1cm4gUmVkaXJlY3RSZXNwb25zZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdXBkYXRlQWRkcmVzcyhTdHVkZW50ICRzdHVkZW50LCBBZGRyZXNzICRhZGRyZXNzKQogICAgewogICAgICAgICR2YWx1ZXMgPSByZXF1ZXN0KCktPmFsbCgpOwogICAgICAgICRhZGRyZXNzLT51c2VyX3VwZGF0ZWRfaWQgPSBhdXRoKCktPmlkKCk7CiAgICAgICAgJGFkZHJlc3MtPnVzZXJfdXBkYXRlZF9pcCA9IEhlbHBlcnM6OmdldFVzZXJJcCgpOwogICAgICAgICRhZGRyZXNzLT5jb3VudHJ5X2lkID0gJHZhbHVlc1snY291bnRyeV9pZF8nLiRhZGRyZXNzLT5pZF07CiAgICAgICAgJGFkZHJlc3MtPmFkZHJlc3NfdHlwZV9pZCA9ICR2YWx1ZXNbJ2FkZHJlc3NfdHlwZV9pZF8nLiRhZGRyZXNzLT5pZF07CiAgICAgICAgJGFkZHJlc3MtPnVwZGF0ZSgkdmFsdWVzKTsKCiAgICAgICAgSGVscGVyczo6Zmxhc2goJGFkZHJlc3MtPnVwZGF0ZSgkdmFsdWVzKSwgJ2FkZHJlc3MnLCAndXBkYXRlZCcpOwoKICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+dG8oJy9zdHVkZW50LycuJHN0dWRlbnQtPnV1aWQuJy9jb250YWN0Jyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>, 'created'</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkYXRhLmZhbWlseV9uYW1lKycsICcrZGF0YS5naXZlbl9uYW1lKycgKCcrZGF0YS5wcmVmZXJyZWRfbmFtZSsnKSc7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>+''</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gU3VtbWVybm90ZSBUZXh0IEVkaXRvci0tPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3stLSAgICAtLX19Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gU3VtbWVybm90ZSBUZXh0IEVkaXRvci0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>month</last-search>
+      <last-search>employee</last-search>
       <last-offset />
-      <last-pattern>month</last-pattern>
-      <last-replace>day</last-replace>
-      <last-substitute>month</last-substitute>
+      <last-pattern>employee</last-pattern>
+      <last-replace>student</last-replace>
+      <last-substitute>employee</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Course</entry>
-        <entry>Prerequisite</entry>
         <entry>prerequisites</entry>
         <entry>VALIDATION</entry>
         <entry>Prerequisites</entry>
@@ -4170,10 +4116,10 @@
         <entry>current_datetime</entry>
         <entry>dateString</entry>
         <entry>month</entry>
+        <entry>Employee</entry>
+        <entry>employee</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,VALIDATION,RELATIONSHIPCAMEL,g</entry>
-        <entry encoding="base64">JzwsJz5zLFByZXJlcXVpc2l0ZXMsQ29yZXF1aXNpdGVzLGc=</entry>
         <entry encoding="base64">JzwsJz5zLHByZXJlcXVpc2l0ZSxjb3JlcXVpc2l0ZSxn</entry>
         <entry encoding="base64">JzwsJz5zLENvcmVxdWlzaXRlcyxFcXVpdmFsZW50cyxn</entry>
         <entry encoding="base64">JzwsJz5zLGNvcmVxdWlzaXRlLGVxdWl2YWxlbnQsZw==</entry>
@@ -4191,6 +4137,8 @@
         <entry encoding="base64">JzwsJz5zLGN1cnJlbnRfZGF0ZXRpbWUsZGF0ZVN0cmluZyxn</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGVTdHJpbmcsZGF0ZSxn</entry>
         <entry encoding="base64">JzwsJz5zLG1vbnRoLGRheSxn</entry>
+        <entry>%s,Employee,Student,g</entry>
+        <entry>%s,employee,student,g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
