@@ -87,6 +87,12 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" timestamp="1562133028025">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseTranscriptType.php" timestamp="1558490896437">
         <mark key="[" line="55" column="6" />
         <mark key="]" line="65" column="4" />
@@ -310,7 +316,14 @@
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" timestamp="1559187416137">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1562117781238">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/contact.blade.php" timestamp="1562118169682">
+        <mark key="'" line="5" column="14" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1562132985281">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="262" column="0" />
         <mark key="]" line="262" column="0" />
@@ -342,11 +355,12 @@
         <mark key="^" line="158" column="17" />
         <mark key="." line="159" column="65" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" timestamp="1562127232547">
-        <mark key="[" line="38" column="47" />
-        <mark key="]" line="38" column="68" />
-        <mark key="^" line="38" column="68" />
-        <mark key="." line="38" column="68" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" timestamp="1562132951464">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="6" column="81" />
+        <mark key="^" line="6" column="81" />
+        <mark key="." line="6" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/positions_details.blade.php" timestamp="1562118280504">
         <mark key="'" line="0" column="0" />
@@ -441,8 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/grade_scale/scale_index.blade.php" />
-      <jump line="89" column="37" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleController.php" />
       <jump line="92" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleController.php" />
       <jump line="94" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GradeScaleController.php" />
       <jump line="41" column="37" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
@@ -541,6 +553,8 @@
       <jump line="51" column="9" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="62" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="76" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" />
+      <jump line="7" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" />
+      <jump line="111" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4076,11 +4090,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>, 'created'</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>month</text>
