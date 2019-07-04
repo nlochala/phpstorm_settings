@@ -133,12 +133,12 @@
         <mark key="]" line="250" column="141" />
         <mark key="." line="250" column="141" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1562205764923">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="261" column="11" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1562208034708">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="184" column="2" />
+        <mark key="]" line="184" column="7" />
+        <mark key="." line="184" column="7" />
+        <mark key="^" line="184" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/passport_visa.blade.php" timestamp="1562137598290">
         <mark key="[" line="29" column="18" />
@@ -333,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Year.php" />
-      <jump line="98" column="40" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/index.blade.php" />
       <jump line="227" column="5" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravelcollective/html/src/FormBuilder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Helpers/Helpers.php" />
       <jump line="19" column="15" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/PersonType.php" />
@@ -433,6 +431,8 @@
       <jump line="14" column="40" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentOfficialDocumentsController.php" />
       <jump line="100" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentOfficialDocumentsController.php" />
       <jump line="73" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentOfficialDocumentsController.php" />
+      <jump line="226" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3969,16 +3969,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Documents</text>
+        <text>STUDENT</text>
       </register>
       <register name="-" type="4">
-        <text>Documents</text>
+        <text>STUDENT</text>
       </register>
       <register name="/" type="4">
-        <text>employee</text>
+        <text>Student</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGluY2x1ZGUoJ2xheW91dHMuX2hvcml6b250YWxfbWVudV9pdGVtX3N0YXJ0JykKQGluY2x1ZGUoJ2xheW91dHMuX2hvcml6b250YWxfbWVudV9pdGVtJywgWwogICAgJ3VybCcgPT4gJ3N0dWRlbnQvJyAuICRzdHVkZW50LT51dWlkIC4gJy9vZmZpY2lhbF9kb2N1bWVudHMnLAogICAgJ2ljb24nID0+ICdmYSBmYS1wYXBlcmNsaXAnLAogICAgJ3RpdGxlJyA9PiAnT2ZmaWNpYWwgRG9jdW1lbnRzJywKICAgICdiYWRnZV9udW1iZXInID0+IG51bGwsCiAgICAnYmFkZ2VfY29sb3InID0+IG51bGwKXSkK</text>
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgU1RVREVOVAp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KKi8KLy9EaXJlY3RvcnkKUm91dGU6OmdldCgnc3R1ZGVudC9pbmRleCcsICdTdHVkZW50Q29udHJvbGxlckBpbmRleCcpOwpSb3V0ZTo6cG9zdCgnc3R1ZGVudC9pbmRleCcsICdTdHVkZW50Q29udHJvbGxlckBzdG9yZU5ld1N0dWRlbnQnKTsKUm91dGU6OmdldCgnYXBpL3N0dWRlbnQvYWpheHNob3dzdHVkZW50JywgJ1N0dWRlbnRBamF4Q29udHJvbGxlckBhamF4U2hvdycpOwoKLy9PdmVydmlldwpSb3V0ZTo6Z2V0KCdzdHVkZW50L3tzdHVkZW50fS9wcm9maWxlJywgJ1N0dWRlbnRQcm9maWxlQ29udHJvbGxlckBwcm9maWxlJyk7ClJvdXRlOjpwYXRjaCgnc3R1ZGVudC97c3R1ZGVudH0vcHJvZmlsZScsICdTdHVkZW50UHJvZmlsZUNvbnRyb2xsZXJAdXBkYXRlUHJvZmlsZScpOwpSb3V0ZTo6cG9zdCgnc3R1ZGVudC97c3R1ZGVudH0vcHJvZmlsZScsICdTdHVkZW50UHJvZmlsZUNvbnRyb2xsZXJAdXBkYXRlUHJvZmlsZScpOwoKLy9Db250YWN0IEluZm9ybWF0aW9uClJvdXRlOjpnZXQoJ3N0dWRlbnQve3N0dWRlbnR9L2NvbnRhY3QnLCAnU3R1ZGVudENvbnRhY3RDb250cm9sbGVyQGNvbnRhY3QnKTsKUm91dGU6OnBvc3QoJ3N0dWRlbnQve3N0dWRlbnR9L3Byb2ZpbGUvc3RvcmVfcGhvbmUnLCAnU3R1ZGVudENvbnRhY3RDb250cm9sbGVyQHN0b3JlUGhvbmUnKTsKUm91dGU6OnBvc3QoJ3N0dWRlbnQve3N0dWRlbnR9L3Byb2ZpbGUvc3RvcmVfYWRkcmVzcycsICdTdHVkZW50Q29udGFjdENvbnRyb2xsZXJAc3RvcmVBZGRyZXNzJyk7ClJvdXRlOjpwYXRjaCgnc3R1ZGVudC97c3R1ZGVudH0vcHJvZmlsZS9zdG9yZV9lbWFpbCcsICdTdHVkZW50Q29udGFjdENvbnRyb2xsZXJAc3RvcmVFbWFpbCcpOwpSb3V0ZTo6cGF0Y2goJ3N0dWRlbnQve3N0dWRlbnR9L2FkZHJlc3Mve2FkZHJlc3N9L3VwZGF0ZV9hZGRyZXNzJywgJ1N0dWRlbnRDb250YWN0Q29udHJvbGxlckB1cGRhdGVBZGRyZXNzJyk7CgovL1Bhc3Nwb3J0cyBhbmQgVmlzYXMKUm91dGU6OmdldCgnc3R1ZGVudC97c3R1ZGVudH0vcGFzc3BvcnRzX3Zpc2FzJywgJ1N0dWRlbnRQYXNzcG9ydFZpc2FDb250cm9sbGVyQHBhc3Nwb3J0VmlzYScpOwpSb3V0ZTo6Z2V0KCdzdHVkZW50L3tzdHVkZW50fS9jcmVhdGVfcGFzc3BvcnQnLCAnU3R1ZGVudFBhc3Nwb3J0VmlzYUNvbnRyb2xsZXJAY3JlYXRlUGFzc3BvcnQnKTsKUm91dGU6OnBvc3QoJ3N0dWRlbnQve3N0dWRlbnR9L2NyZWF0ZV9wYXNzcG9ydCcsICdTdHVkZW50UGFzc3BvcnRWaXNhQ29udHJvbGxlckBzdG9yZVBhc3Nwb3J0Jyk7ClJvdXRlOjpwb3N0KCdzdHVkZW50L3tzdHVkZW50fS9wYXNzcG9ydC97cGFzc3BvcnR9L2NyZWF0ZV92aXNhJywgJ1N0dWRlbnRQYXNzcG9ydFZpc2FDb250cm9sbGVyQHN0b3JlVmlzYScpOwpSb3V0ZTo6cGF0Y2goJ3N0dWRlbnQve3N0dWRlbnR9L3Zpc2Eve3Zpc2F9L3VwZGF0ZV92aXNhJywgJ1N0dWRlbnRQYXNzcG9ydFZpc2FDb250cm9sbGVyQHVwZGF0ZVZpc2EnKTsKUm91dGU6OnBhdGNoKCdzdHVkZW50L3tzdHVkZW50fS9wYXNzcG9ydC97cGFzc3BvcnR9L3VwZGF0ZV9wYXNzcG9ydCcsICdTdHVkZW50UGFzc3BvcnRWaXNhQ29udHJvbGxlckB1cGRhdGVQYXNzcG9ydCcpOwpSb3V0ZTo6Z2V0KCdzdHVkZW50L3tzdHVkZW50fS9wYXNzcG9ydC97cGFzc3BvcnR9L3VwZGF0ZV9wYXNzcG9ydCcsICdTdHVkZW50UGFzc3BvcnRWaXNhQ29udHJvbGxlckB1cGRhdGVQYXNzcG9ydEZvcm0nKTsKCi8vSUQgQ2FyZHMKUm91dGU6OmdldCgnc3R1ZGVudC97c3R1ZGVudH0vaWRfY2FyZCcsICdTdHVkZW50SWRDYXJkQ29udHJvbGxlckBpZENhcmQnKTsKUm91dGU6OmdldCgnc3R1ZGVudC97c3R1ZGVudH0vY3JlYXRlX2lkX2NhcmQnLCAnU3R1ZGVudElkQ2FyZENvbnRyb2xsZXJAY3JlYXRlRm9ybScpOwpSb3V0ZTo6cG9zdCgnc3R1ZGVudC97c3R1ZGVudH0vY3JlYXRlX2lkX2NhcmQnLCAnU3R1ZGVudElkQ2FyZENvbnRyb2xsZXJAc3RvcmUnKTsKUm91dGU6OmdldCgnc3R1ZGVudC97c3R1ZGVudH0vaWRfY2FyZC97aWRfY2FyZH0vdXBkYXRlX2lkX2NhcmQnLCAnU3R1ZGVudElkQ2FyZENvbnRyb2xsZXJAZWRpdEZvcm0nKTsKUm91dGU6OnBhdGNoKCdzdHVkZW50L3tzdHVkZW50fS9pZF9jYXJkL3tpZF9jYXJkfS91cGRhdGVfaWRfY2FyZCcsICdTdHVkZW50SWRDYXJkQ29udHJvbGxlckB1cGRhdGUnKTsKCi8vT2ZmaWNpYWwgRG9jdW1lbnRzClJvdXRlOjpnZXQoJ3N0dWRlbnQve3N0dWRlbnR9L29mZmljaWFsX2RvY3VtZW50cycsICdTdHVkZW50T2ZmaWNpYWxEb2N1bWVudHNDb250cm9sbGVyQG9mZmljaWFsRG9jdW1lbnRzJyk7ClJvdXRlOjpwb3N0KCdzdHVkZW50L3tzdHVkZW50fS9vZmZpY2lhbF9kb2N1bWVudHMnLCAnU3R1ZGVudE9mZmljaWFsRG9jdW1lbnRzQ29udHJvbGxlckBzdG9yZScpOwpSb3V0ZTo6cG9zdCgnc3R1ZGVudC97c3R1ZGVudH0vb2ZmaWNpYWxfZG9jdW1lbnRzJywgJ1N0dWRlbnRPZmZpY2lhbERvY3VtZW50c0NvbnRyb2xsZXJAc3RvcmUnKTsKUm91dGU6OmdldCgnc3R1ZGVudC97c3R1ZGVudH0vb2ZmaWNpYWxfZG9jdW1lbnRzL3tkb2N1bWVudH0vZGVsZXRlJywgJ1N0dWRlbnRPZmZpY2lhbERvY3VtZW50c0NvbnRyb2xsZXJAZGVsZXRlJyk7CgovL0ZhbWlseQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogUmVxdWlyZSB1c2VycyB0byBoYXZlIGJlZW4gYXV0aGVudGljYXRlZCBiZWZvcmUgcmVhY2hpbmcgdGhpcyBwYWdlLgogICAgICoKICAgICAqIFVzZXJDb250cm9sbGVyIGNvbnN0cnVjdG9yLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgICR0aGlzLT5taWRkbGV3YXJlKCdhdXRoJyk7CiAgICB9Cg==</text>
@@ -4018,18 +4018,16 @@
       </register>
     </registers>
     <search>
-      <last-search>employee</last-search>
+      <last-search>Student</last-search>
       <last-offset />
-      <last-pattern>employee</last-pattern>
-      <last-replace>student</last-replace>
-      <last-substitute>employee</last-substitute>
+      <last-pattern>Student</last-pattern>
+      <last-replace>Parent</last-replace>
+      <last-substitute>Student</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prerequisites</entry>
-        <entry>VALIDATION</entry>
         <entry>Prerequisites</entry>
         <entry>prerequisite</entry>
         <entry>Corequisites</entry>
@@ -4048,10 +4046,10 @@
         <entry>month</entry>
         <entry>Employee</entry>
         <entry>employee</entry>
+        <entry>student</entry>
+        <entry>Student</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLHByZXJlcXVpc2l0ZSxjb3JlcXVpc2l0ZSxn</entry>
-        <entry encoding="base64">JzwsJz5zLENvcmVxdWlzaXRlcyxFcXVpdmFsZW50cyxn</entry>
         <entry encoding="base64">JzwsJz5zLGNvcmVxdWlzaXRlLGVxdWl2YWxlbnQsZw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -4069,6 +4067,8 @@
         <entry encoding="base64">JzwsJz5zLG1vbnRoLGRheSxn</entry>
         <entry>%s,Employee,Student,g</entry>
         <entry>%s,employee,student,g</entry>
+        <entry encoding="base64">JzwsJz5zLHN0dWRlbnQscGFyZW50LGc=</entry>
+        <entry encoding="base64">JzwsJz5zLFN0dWRlbnQsUGFyZW50LGc=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
