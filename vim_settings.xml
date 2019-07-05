@@ -70,6 +70,12 @@
         <mark key="." line="362" column="31" />
         <mark key="^" line="362" column="31" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/UpdateGuardianPassportRequest.php" timestamp="1562288344771">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentPhoneRequest.php" timestamp="1562133764098">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="30" />
@@ -180,6 +186,12 @@
         <mark key="[" line="177" column="0" />
         <mark key="]" line="180" column="103" />
         <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/UpdateGuardianIdCardRequest.php" timestamp="1562288324817">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentIdCardRequest.php" timestamp="1562202634794">
         <mark key="[" line="6" column="6" />
@@ -3863,11 +3875,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VXBkYXRlU3R1ZGVudFBhc3Nwb3J0UmVxdWVzdCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5pZDs=</text>
+        <text encoding="base64">VXBkYXRlU3R1ZGVudFBhc3Nwb3J0UmVxdWVzdCA=</text>
       </register>
       <register name="/" type="4">
         <text>Course</text>
@@ -3909,7 +3921,7 @@
         <text encoding="base64">ICAgICAgICAkZHJvcGRvd24gPSBbXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3945,7 +3957,6 @@
         <entry>Course</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,profile._horizontal_menu,employee._horizontal_menu,g</entry>
         <entry>%s,profile\._horizontal_menu,employee\._horizontal_menu,g</entry>
         <entry>%s,person\.\_horizontal\_menu,employee\.\_horizontal\_menu,g</entry>
         <entry>%s,person\._horizontal_menu,employee\._horizontal_menu,g</entry>
@@ -3965,6 +3976,7 @@
         <entry>%s,Course,Guardian,g</entry>
         <entry>w2</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
