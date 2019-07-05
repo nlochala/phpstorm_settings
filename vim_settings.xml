@@ -126,6 +126,18 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreGuardianRequest.php" timestamp="1562296841739">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentRequest.php" timestamp="1562296828964">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="56" column="5" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/UpdateStudentIdCardRequest.php" timestamp="1562202658146">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="32" />
@@ -173,7 +185,7 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562221942636">
+      <file name="/Dummy.txt" timestamp="1562296853481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_07_04_055404_create_guardians_table.php" timestamp="1562220682212">
@@ -3876,51 +3888,51 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'second_type_dropdown',</text>
+        <text>given_name</text>
       </register>
       <register name="-" type="4">
-        <text>'second_type_dropdown',</text>
+        <text>given_name</text>
       </register>
       <register name="/" type="4">
         <text>secondary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2VtcGxveWVlX2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dpdmVuX25hbWUnID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnLmZpcnN0X3R5cGVfZHJvcGRvd24nKS5zZWxlY3QyKCk7CiAgICAgICAgICAgICQoJy5zZWNvbmRfdHlwZV9kcm9wZG93bicpLnNlbGVjdDIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvYicgPT4gJ3JlcXVpcmVkJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>employee
-employee</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfc3RhdHVzX2lkJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAnZ3JhZGVfbGV2ZWxfaWQnID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>second
-second</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lIGlmIHRoZSB1c2VyIGlzIGF1dGhvcml6ZWQgdG8gbWFrZSB0aGlzIHJlcXVlc3QuCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBhdXRob3JpemUoKQogICAgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0aGUgdmFsaWRhdGlvbiBydWxlcyB0aGF0IGFwcGx5IHRvIHRoZSByZXF1ZXN0LgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJ1bGVzKCkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAvLwogICAgICAgIF07CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycgPT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnY2xhc3MnID0+IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lIGlmIHRoZSB1c2VyIGlzIGF1dGhvcml6ZWQgdG8gbWFrZSB0aGlzIHJlcXVlc3QuCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBhdXRob3JpemUoKQogICAgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0aGUgdmFsaWRhdGlvbiBydWxlcyB0aGF0IGFwcGx5IHRvIHRoZSByZXF1ZXN0LgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHJ1bGVzKCkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAvLwogICAgICAgIF07CiAgICB9Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text>, 'Preferred Name'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmZpcnN0X3R5cGVfZHJvcGRvd24nKS5zZWxlY3QyKCk7CiAgICAgICAgICAgICQoJy5zZWNvbmRfdHlwZV9kcm9wZG93bicpLnNlbGVjdDIoKTsK</text>
       </register>
       <register name="7" type="8">
-        <text>N/A</text>
+        <text>employee
+employee</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="8">
-        <text encoding="base64">PHN0cm9uZz4=</text>
+        <text>second
+second</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ZGF0YS5lbWFpbF9zZWNvbmRhcnkgIT09IG51bGwgfHwg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
