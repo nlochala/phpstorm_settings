@@ -113,12 +113,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" timestamp="1562293085878">
-        <mark key="'" line="172" column="28" />
-        <mark key="[" line="108" column="19" />
-        <mark key="]" line="108" column="23" />
-        <mark key="." line="108" column="23" />
-        <mark key="^" line="108" column="23" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" timestamp="1562296968252">
+        <mark key="'" line="173" column="28" />
+        <mark key="[" line="124" column="94" />
+        <mark key="]" line="124" column="101" />
+        <mark key="." line="124" column="101" />
+        <mark key="^" line="124" column="101" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/passport_visa.blade.php" timestamp="1562137598290">
         <mark key="[" line="29" column="18" />
@@ -126,11 +126,11 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreGuardianRequest.php" timestamp="1562296841739">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreGuardianRequest.php" timestamp="1562296995013">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentRequest.php" timestamp="1562296828964">
         <mark key="[" line="8" column="0" />
@@ -3888,16 +3888,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>given_name</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>given_name</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>secondary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dpdmVuX25hbWUnID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJyA9PiAncmVxdWlyZWQnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2RvYicgPT4gJ3JlcXVpcmVkJywK</text>
