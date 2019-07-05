@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianAjaxController.php" timestamp="1562223306818">
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="28" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="52" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianAjaxController.php" timestamp="1562290803655">
+        <mark key="[" line="29" column="70" />
+        <mark key="]" line="29" column="92" />
+        <mark key="." line="29" column="92" />
+        <mark key="^" line="29" column="92" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreStudentProfileRequest.php" timestamp="1562119125140">
         <mark key="[" line="6" column="11" />
@@ -113,12 +113,12 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" timestamp="1562224521224">
-        <mark key="'" line="92" column="62" />
-        <mark key="[" line="127" column="16" />
-        <mark key="]" line="127" column="26" />
-        <mark key="^" line="127" column="26" />
-        <mark key="." line="127" column="26" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" timestamp="1562293085878">
+        <mark key="'" line="172" column="28" />
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="108" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/passport_visa.blade.php" timestamp="1562137598290">
         <mark key="[" line="29" column="18" />
@@ -199,7 +199,7 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/index.blade.php" timestamp="1562126727607">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/index.blade.php" timestamp="1562292646178">
         <mark key="[" line="118" column="54" />
         <mark key="]" line="118" column="54" />
         <mark key="." line="118" column="54" />
@@ -240,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="86" column="68" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="122" column="14" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/audits.blade.php" />
@@ -340,6 +338,8 @@
       <jump line="77" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" />
       <jump line="182" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" />
       <jump line="80" column="62" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" />
+      <jump line="161" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" />
+      <jump line="164" column="28" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/index.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3876,69 +3876,67 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">VXBkYXRlU3R1ZGVudFBhc3Nwb3J0UmVxdWVzdCA=</text>
+        <text>'second_type_dropdown',</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VXBkYXRlU3R1ZGVudFBhc3Nwb3J0UmVxdWVzdCA=</text>
+        <text>'second_type_dropdown',</text>
       </register>
       <register name="/" type="4">
-        <text>Course</text>
+        <text>secondary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2VtcGxveWVlX2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmZpcnN0X3R5cGVfZHJvcGRvd24nKS5zZWxlY3QyKCk7CiAgICAgICAgICAgICQoJy5zZWNvbmRfdHlwZV9kcm9wZG93bicpLnNlbGVjdDIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Owo=</text>
+      <register name="2" type="8">
+        <text>employee
+employee</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="8">
+        <text>second
+second</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWVzWydnZW5kZXInXSA9IFBlcnNvbjo6Z2V0R2VuZGVyKCR2YWx1ZXNbJ2dlbmRlciddKTsKICAgICAgICAkdmFsdWVzWyd0aXRsZSddID0gUGVyc29uOjpnZXRUaXRsZSgkdmFsdWVzWyd0aXRsZSddKTsKICAgICAgICAkcGVyc29uID0gUGVyc29uOjpjcmVhdGUoJHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2d1YXJkaWFuX3R5cGVfaWQnKS5zZWxlY3QyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY2xhc3MnID0+IG51bGwsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGd1YXJkaWFuID0gR3VhcmRpYW46OmNyZWF0ZQo=</text>
+      <register name="6" type="8">
+        <text>, 'Preferred Name'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJHZhbHVlc1snZW1wbG95ZWVfaWQnXSkpIHsKICAgICAgICB9Cg==</text>
+      <register name="7" type="8">
+        <text>N/A</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHZhbHVlcyA9IEhlbHBlcnM6OmRiQWRkQXVkaXQocmVxdWVzdCgpLT5hbGwoKSk7Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">PHN0cm9uZz4=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZHJvcGRvd24gPSBbXTsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">ZGF0YS5lbWFpbF9zZWNvbmRhcnkgIT09IG51bGwgfHwg</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Course</last-search>
+      <last-search>secondary</last-search>
       <last-offset />
-      <last-pattern>Course</last-pattern>
-      <last-replace>Guardian</last-replace>
-      <last-substitute>Course</last-substitute>
+      <last-pattern>secondary</last-pattern>
+      <last-replace>school</last-replace>
+      <last-substitute>secondary</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>course</entry>
-        <entry>pre</entry>
-        <entry>\?:</entry>
-        <entry>select</entry>
         <entry>profile._horizontal_menu</entry>
         <entry>profile\._horizontal_menu</entry>
         <entry>person\.\_horizontal\_menu</entry>
@@ -3955,12 +3953,12 @@
         <entry>Student</entry>
         <entry>status</entry>
         <entry>Course</entry>
+        <entry>Primary</entry>
+        <entry>primary</entry>
+        <entry>Secondary</entry>
+        <entry>secondary</entry>
       </history-search>
       <history-cmd>
-        <entry>%s,profile\._horizontal_menu,employee\._horizontal_menu,g</entry>
-        <entry>%s,person\.\_horizontal\_menu,employee\.\_horizontal\_menu,g</entry>
-        <entry>%s,person\._horizontal_menu,employee\._horizontal_menu,g</entry>
-        <entry encoding="base64">JzwsJz5zLGN1cnJlbnRfZGF0ZXRpbWUsZGF0ZVN0cmluZyxn</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGVTdHJpbmcsZGF0ZSxn</entry>
         <entry encoding="base64">JzwsJz5zLG1vbnRoLGRheSxn</entry>
         <entry>%s,Employee,Student,g</entry>
@@ -3975,8 +3973,12 @@
         <entry encoding="base64">JzwsJz5zLHN0YXR1cyx0eXBlLGc=</entry>
         <entry>%s,Course,Guardian,g</entry>
         <entry>w2</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLFByaW1hcnksU2Vjb25kYXJ5LGc=</entry>
+        <entry encoding="base64">JzwsJz5zLHByaW1hcnksc2Vjb25kYXJ5LGc=</entry>
+        <entry encoding="base64">JzwsJz5zLFNlY29uZGFyeSxTY2hvb2wsZw==</entry>
+        <entry encoding="base64">JzwsJz5zLHNlY29uZGFyeSxzY2hvb2wsZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
