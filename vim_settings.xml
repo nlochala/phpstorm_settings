@@ -168,11 +168,11 @@
         <mark key="." line="32" column="15" />
         <mark key="^" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/StudentFactory.php" timestamp="1562635531207">
-        <mark key="[" line="4" column="89" />
-        <mark key="]" line="4" column="89" />
-        <mark key="." line="4" column="89" />
-        <mark key="^" line="4" column="89" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/StudentFactory.php" timestamp="1562636838272">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/CoursesFakerTableSeeder.php" timestamp="1562559517574" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/UpdateStudentIdCardRequest.php" timestamp="1562202658146">
@@ -3959,10 +3959,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>guardian</text>
