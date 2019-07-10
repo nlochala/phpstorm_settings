@@ -27,10 +27,10 @@
         <mark key="." line="16" column="94" />
         <mark key="^" line="16" column="94" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1562745910416">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1562752257393">
         <mark key="'" line="242" column="27" />
-        <mark key="[" line="73" column="12" />
-        <mark key="]" line="73" column="58" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="85" column="17" />
         <mark key="." line="73" column="58" />
         <mark key="^" line="73" column="58" />
       </file>
@@ -90,6 +90,12 @@
         <mark key="]" line="362" column="31" />
         <mark key="." line="362" column="31" />
         <mark key="^" line="362" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/files.csv" timestamp="1562751278125">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianFamilyController.php" timestamp="1562732212611">
         <mark key="'" line="53" column="8" />
@@ -185,11 +191,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_info_panel.blade.php" timestamp="1562748683259">
-        <mark key="[" line="14" column="111" />
-        <mark key="]" line="14" column="148" />
-        <mark key="." line="14" column="148" />
-        <mark key="^" line="14" column="148" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_info_panel.blade.php" timestamp="1562752800057">
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="22" column="84" />
+        <mark key="." line="22" column="84" />
+        <mark key="^" line="22" column="84" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianAjaxController.php" timestamp="1562290803655">
         <mark key="[" line="29" column="70" />
@@ -197,11 +203,11 @@
         <mark key="." line="29" column="92" />
         <mark key="^" line="29" column="92" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1562748944191">
-        <mark key="[" line="168" column="27" />
-        <mark key="]" line="169" column="11" />
-        <mark key="." line="169" column="11" />
-        <mark key="^" line="169" column="11" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1562752453075">
+        <mark key="[" line="180" column="93" />
+        <mark key="]" line="180" column="107" />
+        <mark key="." line="180" column="107" />
+        <mark key="^" line="180" column="107" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseEquivalentAjaxController.php" timestamp="1559091267337">
         <mark key="'" line="86" column="25" />
@@ -374,6 +380,11 @@
         <mark key="]" line="23" column="32" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/FilesTableSeeder.php" timestamp="1562751374884">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1562737410451">
         <mark key="[" line="6" column="18" />
@@ -4130,67 +4141,66 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ID8/ICctLScg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1hZ2VfZGF0YSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>student</text>
+        <text encoding="base64">XDwxMjdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgZHVzaz0icHJvZmlsZS1pbWFnZSIgY2xhc3M9ImltZy1mbHVpZCBvcHRpb25zLWl0ZW0gcm91bmRlZCBib3JkZXIgYm9yZGVyLTJ4IGJvcmRlci1kYXJrIiBzcmM9Int7ICRpbWFnZV9kYXRhIH19IiBhbHQ9IiI+Cg==</text>
+      <register name="0" type="8">
+        <text encoding="base64">ID8/ICctLScg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">LT5yZW5kZXJJbWFnZSgp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHAuc2YK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ZHVzaz0iYnRuLW1vZGFsLWJsb2NrLWF1ZGl0IiA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1oZXJvLXN1Y2Nlc3MiPkVkaXQ8L2J1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAuZgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmF0dHJpYnV0ZXMK</text>
+      <register name="5" type="8">
+        <text encoding="base64">PC9kaXY+</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICEhfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpZiAoISBlbXB0eSgkc3R1ZGVudC0+cGVyc29uLT5uYW1lX2luX2NoaW5lc2UpKQogICAgICAgIDxzdHJvbmc+5Lit5paH5ZCN5a2XOiB7eyAkc3R1ZGVudC0+cGVyc29uLT5uYW1lX2luX2NoaW5lc2UgfX08L3N0cm9uZz4KICAgIEBlbmRpZgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICh7eyAkc3R1ZGVudC0+cGVyc29uLT5uYW1lX2luX2NoaW5lc2V9fSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGltYWdlID0gJHRoaXMtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHRyPgogICAgPHRkPjxzdHJvbmc+TmFtZTo8L3N0cm9uZz4ge3sgJGNvdXJzZS0+bmFtZSB9fTwvdGQ+CiAgICA8dGQ+PHN0cm9uZz5QcmVyZXF1aXNpdGVzOjwvc3Ryb25nPiB7ISEgJGNvdXJzZS0+ZGlzcGxheV9pbmxpbmVfcHJlcmVxdWlzaXRlcyAhIX08L3RkPgo8L3RyPgo8dHI+CiAgICA8dGQ+PHN0cm9uZz5HcmFkZSBMZXZlbHM6PC9zdHJvbmc+IHt7ICRjb3Vyc2UtPmRpc3BsYXlfaW5saW5lX2dyYWRlX2xldmVscyB9fTwvdGQ+CiAgICA8dGQ+PHN0cm9uZz5Db3JlcXVpc2l0ZXM6PC9zdHJvbmc+IHshISAkY291cnNlLT5kaXNwbGF5X2lubGluZV9jb3JlcXVpc2l0ZXMgISF9PC90ZD4KPC90cj4KPHRyPgogICAgPHRkPjxzdHJvbmc+TWF4IENsYXNzIFNpemU6PC9zdHJvbmc+IHt7ICRjb3Vyc2UtPm1heF9jbGFzc19zaXplIH19PC90ZD4KICAgIDx0ZD48c3Ryb25nPkVxdWl2YWxlbnQgQ291cnNlczo8L3N0cm9uZz4geyEhICRjb3Vyc2UtPmRpc3BsYXlfaW5saW5lX2VxdWl2YWxlbnRzICEhfTwvdGQ+CjwvdHI+Cjx0cj4KICAgIDx0ZD48c3Ryb25nPkRlc2NyaXB0aW9uOjwvc3Ryb25nPiB7eyAkY291cnNlLT5kZXNjcmlwdGlvbiA/PyAnTi9BJyB9fTwvdGQ+CiAgICA8dGQ+PHN0cm9uZz5EZXBhcnRtZW50OiB7eyRjb3Vyc2UtPmRlcGFydG1lbnQtPm5hbWV9fTwvc3Ryb25nPjwvdGQ+CjwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGltYWdlLT5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>student</last-search>
+      <last-search encoding="base64">XDwxMjdcPg==</last-search>
       <last-offset />
-      <last-pattern>student</last-pattern>
+      <last-pattern encoding="base64">XDwxMjdcPg==</last-pattern>
       <last-replace>guardian</last-replace>
       <last-substitute>student</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Parent</entry>
         <entry>PARENT</entry>
         <entry>parent</entry>
         <entry>status</entry>
@@ -4210,6 +4220,7 @@
         <entry>Guardian</entry>
         <entry>Student</entry>
         <entry>student</entry>
+        <entry encoding="base64">XDwxMjdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s,Course,Guardian,g</entry>
