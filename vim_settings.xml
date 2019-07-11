@@ -59,7 +59,7 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePositionController.php" timestamp="1562815573789">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePositionController.php" timestamp="1562816679008">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -90,11 +90,11 @@
         <mark key="^" line="59" column="57" />
         <mark key="." line="59" column="57" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1562816039796">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1562816741069">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/DatabaseFaker.php" timestamp="1562646906653">
         <mark key="[" line="15" column="42" />
@@ -4018,8 +4018,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>students</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdHlwZXMgPSBQb3NpdGlvblR5cGU6OmdldERyb3Bkb3duKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>students</text>
@@ -4031,38 +4031,38 @@
         <text encoding="base64">Ly9EaXJlY3RvcnkKUm91dGU6OmdldCgnZ3VhcmRpYW4vaW5kZXgnLCAnR3VhcmRpYW5Db250cm9sbGVyQGluZGV4Jyk7ClJvdXRlOjpwb3N0KCdndWFyZGlhbi9pbmRleCcsICdHdWFyZGlhbkNvbnRyb2xsZXJAc3RvcmVOZXdHdWFyZGlhbicpOwpSb3V0ZTo6Z2V0KCdhcGkvZ3VhcmRpYW4vYWpheHNob3dndWFyZGlhbicsICdHdWFyZGlhbkFqYXhDb250cm9sbGVyQGFqYXhTaG93Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfc3RhdHVzX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ2dyYWRlX2xldmVsX2Ryb3Bkb3duJwo=</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZXMgPSBQb3NpdGlvblR5cGU6OmdldERyb3Bkb3duKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICRncmFkZV9sZXZlbF9kcm9wZG93biA9IEdyYWRlTGV2ZWw6OmdldERyb3Bkb3duKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcG9zaXRpb25zID0gUG9zaXRpb246OmFsbCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICRzdHVkZW50X3N0YXR1c19kcm9wZG93biA9IFN0dWRlbnRTdGF0dXM6OmdldERyb3Bkb3duKCk7CiAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkZW1wbG95ZWUtPmxvYWQoWydwb3NpdGlvbnMnLCAncG9zaXRpb25zLnR5cGUnLCAncG9zaXRpb25zLnNjaG9vbCddKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxTdHVkZW50U3RhdHVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfc3RhdHVzX2Ryb3Bkb3duJywKICAgICAgICAgICAgJ2dyYWRlX2xldmVsX2Ryb3Bkb3duJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHBwXFN0dWRlbnRTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICRncmFkZV9sZXZlbF9kcm9wZG93biA9IEdyYWRlTGV2ZWw6OmdldERyb3Bkb3duKCk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>App\Person;
-use A</text>
+        <text encoding="base64">ICAgICRzdHVkZW50X3N0YXR1c19kcm9wZG93biA9IFN0dWRlbnRTdGF0dXM6OmdldERyb3Bkb3duKCk7CiAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxTdHVkZW50U3RhdHVzOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbXBsb3llZTsKdXNlIEFwcFxFbXBsb3llZVN0YXR1czsK</text>
+        <text encoding="base64">dXNlIHBwXFN0dWRlbnRTdGF0dXM7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVxdWlyZSB1c2VycyB0byBoYXZlIGJlZW4gYXV0aGVudGljYXRlZCBiZWZvcmUgcmVhY2hpbmcgdGhpcyBwYWdlLgogICAgICoKICAgICAqIFVzZXJDb250cm9sbGVyIGNvbnN0cnVjdG9yLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgewogICAgICAgICR0aGlzLT5taWRkbGV3YXJlKCdhdXRoJyk7CiAgICB9Cgo=</text>
+      <register name="9" type="4">
+        <text>App\Person;
+use A</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
