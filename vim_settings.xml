@@ -64,6 +64,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/UserFactory.php" timestamp="1562900686870">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="140" column="35" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/official_documents.blade.php" timestamp="1562205801517">
         <mark key="[" line="5" column="74" />
         <mark key="]" line="5" column="81" />
@@ -378,6 +384,12 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/metrogistics/laravel-azure-ad-oauth/src/AzureOauthProvider.php" timestamp="1562899945443">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="96" column="58" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" timestamp="1562819401545">
         <mark key="[" line="39" column="9" />
@@ -4046,50 +4058,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>status_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcGVyc29uLT5naXZlbl9uYW1lID86Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>status_id</text>
+        <text encoding="base64">Z2l2ZW5fbmFtZSA=</text>
       </register>
       <register name="/" type="4">
         <text>student</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWVzWydnZW5kZXInXSA9IFBlcnNvbjo6Z2V0R2VuZGVyKCR2YWx1ZXNbJ2dlbmRlciddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBlcnNvbi0+Z2l2ZW5fbmFtZSA9ICR1c2VyLT5naXZlbl9uYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uLT5naXZlbl9uYW1lID86Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxTdHVkZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxQb3NpdGlvblR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uLT5zYXZlKCk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxQb3NpdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAkcGVyc29uLT5wZXJzb25fdHlwZV9pZCA9IFBlcnNvblR5cGU6OndoZXJlKCduYW1lJywnRW1wbG95ZWUnKS0+Zmlyc3QoKS0+aWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxHcmFkZUxldmVsOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxQZXJzb25UeXBlOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>N/A</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>N/A</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>N/A</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text>N/A</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEFwcFxTdHVkZW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
