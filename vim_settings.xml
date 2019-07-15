@@ -22,12 +22,12 @@
         <mark key="^" line="29" column="92" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/dusk/src/DuskServiceProvider.php" timestamp="1563169632829" />
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/_info_panel.blade.php" timestamp="1562809499820">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/_info_panel.blade.php" timestamp="1563176706022">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="28" column="86" />
+        <mark key="[" line="10" column="83" />
+        <mark key="]" line="10" column="83" />
+        <mark key="." line="10" column="83" />
+        <mark key="^" line="10" column="87" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/StudentStatusesTableSeeder.php" timestamp="1562221101821">
         <mark key="[" line="16" column="90" />
@@ -4071,8 +4071,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>to</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ID8/ICcn</text>
       </register>
       <register name="-" type="4">
         <text>to</text>
@@ -4086,38 +4086,38 @@
 //
 //</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoKCktPnVzZXIoKSA/OiByZWRpcmVjdCgpLT50bygnJyk7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ID8/ICcn</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoKCktPmxvZwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRoKCktPnVzZXIoKSA/OiByZWRpcmVjdCgpLT50bygnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZXh0cmEiOiB7CiAgICAibGFyYXZlbCI6IHsKICAgICAgImRvbnQtZGlzY292ZXIiOiBbXQogICAgfQogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBhdXRoKCktPmxvZwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAiZXh0cmEiOiB7CiAgICAibGFyYXZlbCI6IHsKICAgICAgImRvbnQtZGlzY292ZXIiOiBbXQogICAgfQogIH0sCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gcG9ydGFsX2RldmVsb3BtZW50LnBlcnNvbnMgKGlkLCB1dWlkLCB0aXRsZSwgZmFtaWx5X25hbWUsIGdpdmVuX25hbWUsIHByZWZlcnJlZF9uYW1lLCBuYW1lX2luX2NoaW5lc2UsIGdlbmRlciwgZG9iLCBlbWFpbF9zY2hvb2wsIGVtYWlsX3ByaW1hcnksIGVtYWlsX3NlY29uZGFyeSwgaW1hZ2VfZmlsZV9pZCwgd2Vic2l0ZSwgcGVyc29uX3R5cGVfaWQsIGxhbmd1YWdlX3ByaW1hcnlfaWQsIGxhbmd1YWdlX3NlY29uZGFyeV9pZCwgbGFuZ3VhZ2VfdGVydGlhcnlfaWQsIGNvdW50cnlfb2ZfYmlydGhfaWQsIGV0aG5pY2l0eV9pZCwgY3JlYXRlZF9hdCwgdXBkYXRlZF9hdCwgdXNlcl9jcmVhdGVkX2lkLCB1c2VyX2NyZWF0ZWRfaXAsIHVzZXJfdXBkYXRlZF9pcCwgdXNlcl91cGRhdGVkX2lkLCBpc19wcm90ZWN0ZWQsIGRlbGV0ZWRfYXQpIFZBTFVFUyAoMSwgJzMxMTY2NDQ0LTE5ZTQtNDRkZC1hODgxLWMxOTZjOTUzYjExYScsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICdubG9jaGFsYUBUTENJbnRlcm5hdGlvbmFsU2Nob29sLm9ubWljcm9zb2Z0LmNvbScsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIDMsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICcyMDE5LTA3LTA5IDA0OjA5OjAwJywgJzIwMTktMDctMDkgMDQ6MDk6MDAnLCAxLCAnMTI3LjAuMC4xJywgbnVsbCwgbnVsbCwgMCwgbnVsbCk7Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">LT5nZXQoKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGF0YTogImNsYXNzaWZpY2F0aW9uLm5hbWUifSwK</text>
-      </register>
-      <register name="7" type="8">
-        <text>data.employee_status_id</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoZGF0YS5lbXBsb3llZV9zdGF0dXNfaWQpOwo=</text>
+      <register name="8" type="8">
+        <text>data.employee_status_id</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoZGF0YS5lbXBsb3llZV9zdGF0dXNfaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
