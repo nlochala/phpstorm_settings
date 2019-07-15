@@ -399,11 +399,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_sidebar.blade.php" timestamp="1562221798585">
-        <mark key="[" line="77" column="25" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="77" column="32" />
-        <mark key="^" line="77" column="32" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_sidebar.blade.php" timestamp="1563173878011">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="9" />
+        <mark key="." line="102" column="1" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeIdCardController.php" timestamp="1562815410700">
         <mark key="[" line="16" column="0" />
@@ -4065,17 +4065,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZXh0cmEiOiB7CiAgICAibGFyYXZlbCI6IHsKICAgICAgImRvbnQtZGlzY292ZXIiOiBbXQogICAgfQogIH0sCg==</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmljaGFyZCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>lochala</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0X2RhdGUnID0+ICdyZXF1aXJlZCcsCg==</text>
+      <register name="0" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAiZXh0cmEiOiB7CiAgICAibGFyYXZlbCI6IHsKICAgICAgImRvbnQtZGlzY292ZXIiOiBbXQogICAgfQogIH0sCg==</text>
