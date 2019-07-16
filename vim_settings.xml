@@ -29,11 +29,11 @@
         <mark key="." line="10" column="83" />
         <mark key="^" line="10" column="87" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Notifications/TestNotification.php" timestamp="1563244815970">
-        <mark key="[" line="68" column="19" />
-        <mark key="]" line="68" column="38" />
-        <mark key="^" line="68" column="38" />
-        <mark key="." line="68" column="38" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Notifications/TestNotification.php" timestamp="1563246802467">
+        <mark key="[" line="67" column="20" />
+        <mark key="]" line="67" column="28" />
+        <mark key="^" line="67" column="28" />
+        <mark key="." line="67" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/StudentStatusesTableSeeder.php" timestamp="1562221101821">
         <mark key="[" line="16" column="90" />
@@ -41,12 +41,12 @@
         <mark key="." line="16" column="94" />
         <mark key="^" line="16" column="94" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563241611651">
-        <mark key="'" line="181" column="31" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="18" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563247945947">
+        <mark key="'" line="191" column="31" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1562752257393">
         <mark key="'" line="242" column="27" />
@@ -121,6 +121,12 @@
         <mark key="^" line="362" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_user_dropdown.blade.php" timestamp="1563238643972" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Console/Kernel.php" timestamp="1563247361251">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="56" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/files.csv" timestamp="1562751278125">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="29" />
@@ -245,6 +251,12 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/scout.php" timestamp="1563247592369">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header.blade.php" timestamp="1563238881820" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianProfileController.php" timestamp="1562300618762">
         <mark key="[" line="93" column="0" />
@@ -275,10 +287,11 @@
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/HorizonServiceProvider.php" timestamp="1563242844341">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/HorizonServiceProvider.php" timestamp="1563247170091">
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="80" />
+        <mark key="." line="21" column="80" />
+        <mark key="^" line="21" column="80" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/FamilyFactory.php" timestamp="1562641596220">
         <mark key="[" line="4" column="0" />
@@ -323,11 +336,11 @@
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_notifications.blade.php" timestamp="1563238685613">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563244574723">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="89" />
-        <mark key="." line="40" column="89" />
-        <mark key="^" line="40" column="89" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563248258915">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
+        <mark key="^" line="45" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1562813187619">
         <mark key="[" line="0" column="0" />
@@ -4058,49 +4071,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>be3179c016ae3a9c4738ed38aadbe2bf</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>be3179c016ae3a9c4738ed38aadbe2bf</text>
       </register>
       <register name="/" type="4">
         <text>dusk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgncGVyc29uJywgJ1BlcnNvbkNvbnRyb2xsZXJAaW5kZXgnKTsK</text>
+        <text encoding="base64">QUxHT0xJQV9BUFBfSUQ9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2F0ZTo6ZGVmaW5lKCd2aWV3VGVsZXNjb3BlJywgZnVuY3Rpb24gKCR1c2VyKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluX2FycmF5KCR1c2VyLT5lbWFpbCwgWwogICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgXSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRlbnRyeS0+Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">IHx8ICR0aGlzLT5hcHAtPmk=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>'#channel'</text>
+      </register>
+      <register name="5" type="8">
+        <text>'slack-webhook-url'</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7IAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2F0ZTo6ZGVmaW5lKCd2aWV3VGVsZXNjb3BlJywgZnVuY3Rpb24gKCR1c2VyKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibGFyYXZlbC9kdXNrIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluX2FycmF5KCR1c2VyLT5lbWFpbCwgWwogICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyb3F1aWUvbGFyYXZlbC1kdXNrLXNlbGVjdDIiOiAiXjEuMSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRlbnRyeS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
