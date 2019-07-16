@@ -258,7 +258,7 @@
         <mark key="." line="68" column="51" />
         <mark key="^" line="68" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/TelescopeServiceProvider.php" timestamp="1563238493452">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/TelescopeServiceProvider.php" timestamp="1563242825013">
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
@@ -268,6 +268,11 @@
         <mark key="]" line="2" column="49" />
         <mark key="." line="2" column="49" />
         <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Providers/HorizonServiceProvider.php" timestamp="1563242844341">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/factories/FamilyFactory.php" timestamp="1562641596220">
         <mark key="[" line="4" column="0" />
@@ -4046,8 +4051,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7IAo=</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -4059,37 +4064,37 @@
         <text encoding="base64">Um91dGU6OmdldCgncGVyc29uJywgJ1BlcnNvbkNvbnRyb2xsZXJAaW5kZXgnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRlbnRyeS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IHx8ICR0aGlzLT5hcHAtPmk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgR2F0ZTo6ZGVmaW5lKCd2aWV3VGVsZXNjb3BlJywgZnVuY3Rpb24gKCR1c2VyKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluX2FycmF5KCR1c2VyLT5lbWFpbCwgWwogICAgICAgICAgICAgICAgLy8KICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICRlbnRyeS0+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibGFyYXZlbC9kdXNrIgo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">IHx8ICR0aGlzLT5hcHAtPmk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJyb3F1aWUvbGFyYXZlbC1kdXNrLXNlbGVjdDIiOiAiXjEuMSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCEgJGltYWdlKSB7CiAgICAgICAgICAgICRpbWFnZSA9IEZpbGU6OndoZXJlKCduYW1lJywgJ3Byb2ZpbGUtJy5zdHJ0b2xvd2VyKCR0aGlzLT5nZW5kZXIpKS0+Zmlyc3QoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAibGFyYXZlbC9kdXNrIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyb3F1aWUvbGFyYXZlbC1kdXNrLXNlbGVjdDIiOiAiXjEuMSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
