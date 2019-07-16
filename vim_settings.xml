@@ -29,6 +29,12 @@
         <mark key="." line="10" column="83" />
         <mark key="^" line="10" column="87" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Notifications/TestNotification.php" timestamp="1563244815970">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="38" />
+        <mark key="^" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/StudentStatusesTableSeeder.php" timestamp="1562221101821">
         <mark key="[" line="16" column="90" />
         <mark key="]" line="16" column="94" />
@@ -317,11 +323,11 @@
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_notifications.blade.php" timestamp="1563238685613">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563168911701">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563244574723">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="89" />
+        <mark key="." line="40" column="89" />
+        <mark key="^" line="40" column="89" />
       </file>
       <file name="/Dummy.txt" timestamp="1562813187619">
         <mark key="[" line="0" column="0" />
@@ -416,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="9" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="62" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="76" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" />
       <jump line="7" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/profile.blade.php" />
@@ -516,6 +521,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_notifications.blade.php" />
       <jump line="38" column="24" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_side_overlay.blade.php" />
       <jump line="179" column="31" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
+      <jump line="39" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Notifications/TestNotification.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4051,11 +4057,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7IAo=</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>dusk</text>
