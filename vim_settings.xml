@@ -35,12 +35,12 @@
         <mark key="." line="16" column="94" />
         <mark key="^" line="16" column="94" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563178867878">
-        <mark key="'" line="199" column="29" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="181" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563241611651">
+        <mark key="'" line="181" column="31" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/show.blade.php" timestamp="1562752257393">
         <mark key="'" line="242" column="27" />
@@ -411,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/profile.blade.php" />
       <jump line="51" column="9" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="62" column="7" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_js.blade.php" />
       <jump line="76" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentController.php" />
@@ -511,6 +510,7 @@
       <jump line="30" column="45" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/composer.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_notifications.blade.php" />
       <jump line="38" column="24" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_side_overlay.blade.php" />
+      <jump line="179" column="31" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
