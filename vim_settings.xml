@@ -47,11 +47,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="107" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1563272335956">
-        <mark key="[" line="103" column="39" />
-        <mark key="]" line="103" column="53" />
-        <mark key="." line="103" column="53" />
-        <mark key="^" line="103" column="53" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeProfileController.php" timestamp="1563273725292">
+        <mark key="[" line="63" column="5" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/OAuthController.php" timestamp="1563271078076">
         <mark key="[" line="30" column="32" />
@@ -4160,7 +4157,6 @@ employee</text>
         <entry>font</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLGRhdGEsZGF0YV9ndWFyZGlhbixn</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGFfZ3VhcmRpYW4sZGF0YVxbXCRpXF0sZw==</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGFfZ3VhcmRpYW4sZGF0YVxbXGlcXSxn</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGEsZGF0YVxbXGlcXSxn</entry>
@@ -4180,6 +4176,7 @@ employee</text>
         <entry encoding="base64">JzwsJz5zLHN0dWRlbnRzLGd1YXJkaWFucyxn</entry>
         <entry>redo</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
