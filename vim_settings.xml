@@ -336,7 +336,7 @@
         <mark key="]" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_search.blade.php" timestamp="1563258622350">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_search.blade.php" timestamp="1563262726532">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="10" column="38" />
         <mark key="." line="10" column="38" />
@@ -387,12 +387,12 @@
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" timestamp="1563260028955">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" timestamp="1563263730668">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="114" column="31" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_overview_form.blade.php" timestamp="1562818247639">
         <mark key="'" line="79" column="26" />
@@ -518,8 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentContactController.php" />
-      <jump line="43" column="79" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_phone.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_address.blade.php" />
       <jump line="35" column="36" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/contact.blade.php" />
       <jump line="250" column="20" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/contact.blade.php" />
@@ -618,6 +616,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
       <jump line="12" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
       <jump line="49" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
+      <jump line="19" column="17" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
+      <jump line="121" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4154,49 +4154,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">LmFsZ29saWEtYXV0b2NvbXBsZXRlIHsKICAgIHBvc2l0aW9uOiBzdGF0aWM7Cn0K</text>
+        <text encoding="base64">ICAgIC8qY29sb3I6ICMzMzM7Ki8K</text>
       </register>
       <register name="-" type="4">
-        <text>relative</text>
+        <text>lightseagreen</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHNvdXJjZTogYXV0b2NvbXBsZXRlLnNvdXJjZXMuaGl0cyhndWFyZGlhbnMsIHsgaGl0c1BlclBhZ2U6IDYgfSksCiAgICAgICAgICAgIGRpc3BsYXlLZXk6ICdkaXNwbGF5X25hbWUnLAogICAgICAgICAgICB0ZW1wbGF0ZXM6IHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJzxkaXYgY2xhc3M9ImFhLXN1Z2dlc3Rpb25zLWNhdGVnb3J5Ij5HVUFSRElBTlM8L2Rpdj4nLAogICAgICAgICAgICAgICAgc3VnZ2VzdGlvbih7X2hpZ2hsaWdodFJlc3VsdH0pIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYDxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC5kaXNwbGF5X25hbWUudmFsdWV9PC9zcGFuPmA7CiAgICAgICAgICAgICAgICAgICAgLy8gcmV0dXJuIGA8c3Bhbj4ke19oaWdobGlnaHRSZXN1bHQuZGlzcGxheV9uYW1lLnZhbHVlfTwvc3Bhbj48c3Bhbj4ke19oaWdobGlnaHRSZXN1bHQudGVhbS52YWx1ZX08L3NwYW4+YDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMzMzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmFsZ29saWEtYXV0b2NvbXBsZXRlIHsKICAgIHBvc2l0aW9uOiBzdGF0aWM7Cn0K</text>
+        <text encoding="base64">ICAgIC8qY29sb3I6ICMzMzM7Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">c3R5bGU9IndpZHRoOiAxMDAlIiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qYm9yZGVyOiAycHggc29saWQgI2U0ZTRlNDsqLwo=</text>
       </register>
-      <register name="3" type="8">
-        <text>page-header-search-input</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qcG9zaXRpb246IGFic29sdXRlOyovCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>page-header-search-input</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiTW9udHNlcnJhdCIsIHNhbnMtc2VyaWY7Cg==</text>
+        <text encoding="base64">Ci8qLmFsZ29saWEtYXV0b2NvbXBsZXRlIC5hYS1oaW50IHsqLwovKiAgICBjb2xvcjogIzk5OTsqLwovKn0qLwovKi5hbGdvbGlhLWF1dG9jb21wbGV0ZSAuYWEtZHJvcGRvd24tbWVudSB7Ki8KLyogICAgd2lkdGg6IDEwMCU7Ki8KLyogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsqLwovKiAgICBib3JkZXI6IDFweCBzb2xpZCAjOTk5OyovCi8qICAgIGJvcmRlci10b3A6IG5vbmU7Ki8KLyp9Ki8KLyouYWxnb2xpYS1hdXRvY29tcGxldGUgLmFhLWRyb3Bkb3duLW1lbnUgLmFhLXN1Z2dlc3Rpb24geyovCi8qICAgIGN1cnNvcjogcG9pbnRlcjsqLwovKiAgICBwYWRkaW5nOiA1cHggNHB4OyovCi8qfSovCi8qLmFsZ29saWEtYXV0b2NvbXBsZXRlIC5hYS1kcm9wZG93bi1tZW51IC5hYS1zdWdnZXN0aW9uLmFhLWN1cnNvciB7Ki8KLyogICAgYmFja2dyb3VuZC1jb2xvcjogI0IyRDdGRjsqLwovKn0qLwovKi5hbGdvbGlhLWF1dG9jb21wbGV0ZSAuYWEtZHJvcGRvd24tbWVudSAuYWEtc3VnZ2VzdGlvbiBlbSB7Ki8KLyogICAgZm9udC13ZWlnaHQ6IGJvbGQ7Ki8KLyogICAgZm9udC1zdHlsZTogbm9ybWFsOyovCi8qfSovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAiTW9udHNlcnJhdCIsIHNhbnMtc2VyaWY7Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbi1zdHlsZTogZG91YmxlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU1vbnRzZXJyYXQ6NDAwLDcwMCc7Cg==</text>
+        <text encoding="base64">LmFsZ29saWEtYXV0b2NvbXBsZXRlIHsKICAgIGRpc3BsYXk6IGlubGluZSAhaW1wb3J0YW50Owp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>aa-search-input</text>
+      <register name="8" type="2">
+        <text encoding="base64">LmFsZ29saWEtYXV0b2NvbXBsZXRlIHsKICAgIHdpZHRoOiAxMDAlOwp9Ci5hbGdvbGlhLWF1dG9jb21wbGV0ZSAuYWEtaW5wdXQsIC5hbGdvbGlhLWF1dG9jb21wbGV0ZSAuYWEtaGludCB7CiAgICB3aWR0aDogMTAwJTsKfQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>page-header-search-input</text>
+      <register name="9" type="2">
+        <text encoding="base64">LmFsZ29saWEtYXV0b2NvbXBsZXRlIHsKICAgIHBvc2l0aW9uOiBzdGF0aWM7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
