@@ -101,6 +101,9 @@
         <mark key="]" line="72" column="36" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_info_panel.blade.php" timestamp="1563348891241">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_academic_overview_form.blade.php" timestamp="1562735195341">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="25" />
@@ -466,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentPassportVisaController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_display_passport.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_create_form_visa.blade.php" />
       <jump line="44" column="61" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_display_passport.blade.php" />
@@ -566,6 +568,7 @@
       <jump line="42" column="21" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" />
       <jump line="26" column="38" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_info_panel.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4108,7 +4111,7 @@
         <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
-        <text>QUE</text>
+        <text>guardian</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm5vdGlmeShuZXcgU2VhcmNoYWJsZUV4Y2VwdGlvbk5vdGlmaWNhdGlvbigkZXhjZXB0aW9uLCAkdGhpcywgJ0VtcGxveWVlJykpOwo=</text>
@@ -4151,11 +4154,11 @@
       </register>
     </registers>
     <search>
-      <last-search>QUE</last-search>
+      <last-search>guardian</last-search>
       <last-offset />
-      <last-pattern>QUE</last-pattern>
-      <last-replace>guardians</last-replace>
-      <last-substitute>students</last-substitute>
+      <last-pattern>guardian</last-pattern>
+      <last-replace>employee</last-replace>
+      <last-substitute>guardian</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -4172,7 +4175,6 @@
         <entry encoding="base64">XDwxMjdcPg==</entry>
         <entry>secondary</entry>
         <entry>Student</entry>
-        <entry>guardian</entry>
         <entry>Guardian</entry>
         <entry>student</entry>
         <entry>employee</entry>
@@ -4181,9 +4183,9 @@
         <entry>students</entry>
         <entry>font</entry>
         <entry>QUE</entry>
+        <entry>guardian</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLGRhdGFfZ3VhcmRpYW4sZGF0YVxbXGlcXSxn</entry>
         <entry encoding="base64">JzwsJz5zLGRhdGEsZGF0YVxbXGlcXSxn</entry>
         <entry encoding="base64">JzwsJz5zLFxdXC4sXF1cLnBlcnNvblwuLGc=</entry>
         <entry>%s,Student,Guardian</entry>
@@ -4202,6 +4204,7 @@
         <entry>redo</entry>
         <entry>W</entry>
         <entry>w2</entry>
+        <entry>%s,guardian,employee,g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
