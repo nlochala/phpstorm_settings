@@ -15,6 +15,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/vendor/laravel/dusk/src/DuskServiceProvider.php" timestamp="1563169632829" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/_info_panel.blade.php" timestamp="1563176706022">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="10" column="83" />
@@ -106,6 +107,8 @@
         <mark key="^" line="28" column="25" />
         <mark key="." line="28" column="25" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header.blade.php" timestamp="1563238881820" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/api.php" timestamp="1563346925100" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/layouts/_header_search.blade.php" timestamp="1563268312797">
         <mark key="[" line="9" column="118" />
         <mark key="]" line="9" column="118" />
