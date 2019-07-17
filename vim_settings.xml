@@ -84,11 +84,12 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1563272965995">
-        <mark key="'" line="69" column="12" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="36" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1563350295700">
+        <mark key="'" line="8" column="12" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/DatabaseFaker.php" timestamp="1562646906653">
         <mark key="[" line="15" column="42" />
@@ -4104,11 +4105,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXFNlYXJjaGFibGVFeGNlcHRpb25Ob3RpZmljYXRpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text>show</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>guardian</text>
