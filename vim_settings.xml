@@ -157,12 +157,11 @@
         <mark key="^" line="15" column="92" />
         <mark key="." line="15" column="92" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" timestamp="1563268920843">
-        <mark key="'" line="196" column="5" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" timestamp="1563327087562">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/GuardianType.php" timestamp="1562222020541">
         <mark key="[" line="58" column="6" />
@@ -320,11 +319,11 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563256929115">
-        <mark key="[" line="45" column="47" />
-        <mark key="]" line="46" column="53" />
-        <mark key="." line="46" column="53" />
-        <mark key="^" line="46" column="53" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563326870797">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1562813187619">
         <mark key="[" line="0" column="0" />
@@ -438,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="20" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/contact.blade.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentPassportVisaController.php" />
       <jump line="264" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentPassportVisaController.php" />
       <jump line="136" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentPassportVisaController.php" />
@@ -538,6 +536,7 @@
       <jump line="121" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/public/js/plugins/algolia/searchbar.css" />
       <jump line="35" column="63" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Student.php" />
       <jump line="244" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Student.php" />
+      <jump line="42" column="21" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4074,10 +4073,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3VhcmRpYW4tPnNlYXJjaGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>font</text>
@@ -4086,39 +4085,37 @@
         <text encoding="base64">JGVtcGxveWVlLT5wZXJzb24tPmd1YXJkaWFu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3VhcmRpYW4tPnNlYXJjaGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1wbG95ZWUtPnNlYXJjaGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hlcmUnKTsK</text>
       </register>
-      <register name="3" type="8">
-        <text>guardian
-guardian</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ2hlcmUnKTsK</text>
       </register>
       <register name="4" type="8">
-        <text>employee
-employee</text>
+        <text>Exception $exception</text>
       </register>
-      <register name="5" type="8">
-        <text>javascript:void(0)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVtcGxveWVlID0gJHVzZXItPnBlcnNvbi0+ZW1wbG95ZWU7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT50bygiZW1wbG95ZWUvJGVtcGxveWVlLT51dWlkL3Byb2ZpbGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dHJhaXRTZWFyY2hhYmxlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gYDxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC5kaXNwbGF5X25hbWUudmFsdWV9PC9zcGFuPjxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC50ZWFtLnZhbHVlfTwvc3Bhbj5gOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gYDxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC5kaXNwbGF5X25hbWUudmFsdWV9PC9zcGFuPjxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC50ZWFtLnZhbHVlfTwvc3Bhbj5gOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZXR1cm4gYDxzcGFuPiR7X2hpZ2hsaWdodFJlc3VsdC5kaXNwbGF5X25hbWUudmFsdWV9PC9zcGFuPmA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZWFyY2hhYmxlOjpzZWFyY2hhYmxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4175,8 +4172,8 @@ employee</text>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLHN0dWRlbnRzLGd1YXJkaWFucyxn</entry>
         <entry>redo</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
