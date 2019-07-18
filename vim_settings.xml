@@ -48,17 +48,24 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_position_information.blade.php" timestamp="1563422577599">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="21" column="84" />
+        <mark key="]" line="21" column="95" />
+        <mark key="." line="21" column="95" />
+        <mark key="^" line="21" column="95" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePositionController.php" timestamp="1562816679008">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1563351397695">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeController.php" timestamp="1563422966791">
         <mark key="'" line="8" column="12" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="40" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="33" column="40" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/GuardianController.php" timestamp="1563273019700">
         <mark key="[" line="72" column="0" />
@@ -111,16 +118,22 @@
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Position.php" timestamp="1563422133983">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeeIdCardController.php" timestamp="1562815410700">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" timestamp="1563342081152">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Employee.php" timestamp="1563422449047">
+        <mark key="[" line="156" column="25" />
+        <mark key="]" line="156" column="25" />
+        <mark key="." line="156" column="25" />
+        <mark key="^" line="156" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_info_panel.blade.php" timestamp="1563353863158">
         <mark key="[" line="10" column="0" />
@@ -128,12 +141,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563252159868">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Person.php" timestamp="1563421722322">
         <mark key="'" line="196" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="107" column="54" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/StudentFakerTableSeeder.php" timestamp="1562640433378">
         <mark key="[" line="19" column="0" />
@@ -176,12 +188,12 @@
         <mark key="^" line="36" column="42" />
         <mark key="." line="36" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" timestamp="1563342075744">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Guardian.php" timestamp="1563422456215">
         <mark key="'" line="42" column="21" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="13" column="18" />
+        <mark key="[" line="104" column="25" />
+        <mark key="]" line="104" column="25" />
+        <mark key="." line="104" column="25" />
+        <mark key="^" line="104" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_position_information.blade.php" timestamp="1563420117213">
         <mark key="[" line="0" column="0" />
@@ -205,11 +217,12 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/dashboard.blade.php" timestamp="1563419572025">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-        <mark key="^" line="53" column="3" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/dashboard.blade.php" timestamp="1563420974468">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="52" column="44" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/position_table.blade.php" timestamp="1563419698273" />
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/scout-students-index.php" timestamp="1563252853828">
@@ -223,12 +236,12 @@
         <mark key="." line="43" column="19" />
         <mark key="^" line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Student.php" timestamp="1563268933731">
-        <mark key="'" line="247" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="50" />
-        <mark key="." line="26" column="46" />
-        <mark key="^" line="26" column="46" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Student.php" timestamp="1563422463101">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="108" column="25" />
+        <mark key="]" line="108" column="25" />
+        <mark key="." line="108" column="25" />
+        <mark key="^" line="108" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/scout-employees-index.php" timestamp="1563252785516">
         <mark key="[" line="75" column="0" />
@@ -279,11 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="95" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_display_passport.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_edit_form_visa.blade.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/EmployeePassportVisaController.php" />
-      <jump line="12" column="57" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentIdCardController.php" />
-      <jump line="143" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentIdCardController.php" />
       <jump line="124" column="4" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentIdCardController.php" />
       <jump line="50" column="41" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_display_id_card.blade.php" />
       <jump line="14" column="40" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/StudentOfficialDocumentsController.php" />
@@ -379,6 +387,11 @@
       <jump line="22" column="101" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_info_panel.blade.php" />
       <jump line="18" column="17" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/person/_profile_image.blade.php" />
       <jump line="34" column="30" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_info_panel_large.blade.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/dashboard.blade.php" />
+      <jump line="13" column="16" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_position_information.blade.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/employee/_position_information.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Position.php" />
+      <jump line="167" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Position.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3915,49 +3928,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcnNvbicsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Contact</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>guardian</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0ZD48c3Ryb25nPkVtcGxveWVlIFN0YXR1czo8L3N0cm9uZz4ge3sgJGVtcGxveWVlLT5zdGF0dXMtPm5hbWV9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjxhIGhyZWY9Ii9wb3NpdGlvbi97eyAkcG9zaXRpb24tPnV1aWQgfX0iPnt7ICRwb3NpdGlvbi0+bmFtZSB9fTwvYT48L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcnNvbicsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tTmV3IFBhbmVsIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPnt7ICRwb3NpdGlvbi0+c3VwZXJ2aXNvci0+bmFtZSB9fTwvdGQ+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">QGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19zdGFydF9wYW5lbCcsIFsndGl0bGUnID0+ICdFbXBsb3llZSBQb3NpdGlvbnMnLCAnd2l0aF9ibG9jaycgPT4gZmFsc2VdKQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3stLSBTVEFSVCBCTE9DSyBPUFRJT05TIHBhbmVsLmJsb2NrIC0tfX0K</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGluY2x1ZGUoJ2xheW91dHMuX3BhbmVsc19zdGFydF9jb250ZW50JykK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGVkQnkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGluY2x1ZGUoJ190YWJsZXMubmV3LXRhYmxlJyxbJ3N0eWxlJyA9PiAnd2lkdGg6IDEwMCUnICwnaWQnID0+ICdwb3NpdGlvbl90YWJsZScsICd0YWJsZV9oZWFkJyA9PiBbCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQmVsb25nc1RvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J1RpdGxlJywK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J1Bvc2l0aW9uIFR5cGUnLAo=</text>
+        <text encoding="base64">ICAgICAqICBUaGlzIHBvc2l0aW9uIHdhcyB1cGRhdGVkIGJ5IGEgdXNlci4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
