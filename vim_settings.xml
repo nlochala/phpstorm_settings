@@ -610,11 +610,11 @@
         <mark key="^" line="22" column="35" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563342231328">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/.env" timestamp="1563513888911">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="54" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
         <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/user/_ad_information.blade.php" timestamp="1563425035539">
