@@ -118,12 +118,12 @@
         <mark key="." line="5" column="81" />
         <mark key="^" line="5" column="81" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1563502204786">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" timestamp="1563503182054">
         <mark key="'" line="360" column="82" />
-        <mark key="[" line="405" column="11" />
-        <mark key="]" line="418" column="67" />
-        <mark key="." line="418" column="67" />
-        <mark key="^" line="418" column="67" />
+        <mark key="[" line="390" column="52" />
+        <mark key="]" line="390" column="53" />
+        <mark key="." line="390" column="53" />
+        <mark key="^" line="390" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/seeds/data/files.csv" timestamp="1562751278125">
         <mark key="[" line="7" column="29" />
@@ -233,6 +233,12 @@
         <mark key="]" line="90" column="26" />
         <mark key="^" line="90" column="26" />
         <mark key="." line="90" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2019_07_19_013607_create_class_statuses_table.php" timestamp="1563503085986">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/config/scout-students.php" timestamp="1563269822891">
         <mark key="[" line="22" column="9" />
@@ -4333,8 +4339,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>start_date</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>start_date</text>
@@ -4346,37 +4352,37 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRlVGltZSgnc3RhcnRfZGF0ZScpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdkZXNjcmlwdGlvbicpLT5udWxsYWJsZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2NvdXJzZV9pZCcpLT5udWxsYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdkZXNjcmlwdGlvbicpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2NvdXJzZV9pZCcpLT5udWxsYWJsZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">Pz8gJy0tJyA=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">Z3JhZGVMZXZlbC0+bmFtZSA/PyAnLS0n</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJiYWRnZSBiYWRnZS1wcmltYXJ5Ij48aSBjbGFzcz0iIj48L2k+IFR5cGU6IHt7ICRzdHVkZW50LT5zdGF0dXMtPm5hbWUgPz8gJy0tJ319PC9zcGFuPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="8">
-        <text>hero-</text>
+        <text encoding="base64">Z3JhZGVMZXZlbC0+bmFtZSA/PyAnLS0n</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZQo=</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJiYWRnZSBiYWRnZS1wcmltYXJ5Ij48aSBjbGFzcz0iIj48L2k+IFR5cGU6IHt7ICRzdHVkZW50LT5zdGF0dXMtPm5hbWUgPz8gJy0tJ319PC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
