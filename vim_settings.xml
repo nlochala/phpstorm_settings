@@ -379,12 +379,12 @@
         <mark key="." line="80" column="56" />
         <mark key="^" line="80" column="56" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1563598353593">
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/routes/web.php" timestamp="1563602381933">
         <mark key="'" line="387" column="0" />
-        <mark key="[" line="392" column="26" />
-        <mark key="]" line="392" column="32" />
-        <mark key="^" line="392" column="32" />
-        <mark key="." line="392" column="32" />
+        <mark key="[" line="393" column="28" />
+        <mark key="]" line="393" column="40" />
+        <mark key="^" line="393" column="40" />
+        <mark key="." line="393" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Requests/StoreGuardianRequest.php" timestamp="1562300915899">
         <mark key="[" line="30" column="0" />
@@ -4272,10 +4272,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>profile</text>
+        <text>edit</text>
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text>edit</text>
       </register>
       <register name="/" type="4">
         <text>employee</text>
