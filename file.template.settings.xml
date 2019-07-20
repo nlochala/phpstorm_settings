@@ -2,6 +2,7 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Blade - Empty༏ext༏.blade.php" reformat="true" live-template-enabled="true" />
+      <template name="Blade - Horizontal Menu༏ext༏.blade.php" reformat="true" live-template-enabled="true" />
       <template name="Blade - Template༏ext༏.blade.php" reformat="true" live-template-enabled="true" />
       <template name="Dusk Test༏ext༏.Test.php" reformat="true" live-template-enabled="true" />
       <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
