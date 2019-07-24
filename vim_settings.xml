@@ -165,12 +165,12 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseClass.php" timestamp="1563617449430">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="144" column="3" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseClass.php" timestamp="1563964368893">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="141" column="42" />
+        <mark key="]" line="142" column="40" />
+        <mark key="." line="142" column="40" />
+        <mark key="^" line="142" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Year.php" timestamp="1563528828778">
         <mark key="'" line="178" column="0" />
@@ -729,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="74" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/_info_panel_large.blade.php" />
       <jump line="34" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/guardian/_info_panel_large.blade.php" />
       <jump line="23" column="29" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/student/_horizontal_menu.blade.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/database/migrations/2030_03_07_043407_foreign_keys.php" />
@@ -829,6 +828,7 @@
       <jump line="20" column="31" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/resources/views/course/update.blade.php" />
       <jump line="275" column="8" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
       <jump line="289" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/Http/Controllers/CourseController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Dropbox/TLC/php-projects/portal/app/CourseClass.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4364,11 +4364,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIGFzZGYK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -4377,37 +4377,37 @@
         <text encoding="base64">ICAgICAgICAgICAgJCgiI2NvdXJzZV90eXBlX2lkIikuc2VsZWN0Mih7IHBsYWNlaG9sZGVyOiAiQ2hvb3NlIE9uZS4uLiIgfSk7CiAgICAgICAgICAgICQoIiNncmFkZV9zY2FsZV9pZCIpLnNlbGVjdDIoeyBwbGFjZWhvbGRlcjogIkNob29zZSBPbmUuLi4iIH0pOwogICAgICAgICAgICAkKCIjZGVwYXJ0bWVudF9pZCIpLnNlbGVjdDIoeyBwbGFjZWhvbGRlcjogIkNob29zZSBPbmUuLi4iIH0pOwogICAgICAgICAgICAkKCIjY291cnNlX3RyYW5zY3JpcHRfdHlwZV9pZCIpLnNlbGVjdDIoeyBwbGFjZWhvbGRlcjogIkNob29zZSBPbmUuLi4iIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIGFzZGYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiI3llYXJfaWQiKS5zZWxlY3QyKHsgcGxhY2Vob2xkZXI6ICJDaG9vc2UgT25lLi4uIiB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGdyYWRlcyApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2dyYWRlX2xldmVscycpLnZhbChbe3sgaW1wbG9kZSgnLCcsICRjb3Vyc2UtPmdyYWRlTGV2ZWxzLT5wbHVjaygnaWQnKS0+dG9BcnJheSgpKSB9fV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JhZGVzIGluc3RhbmNlb2YgQ29sbGVjdGlvbgogICAgICAgICAgICA/ICRncmFkZXMtPnRvQXJyYXkoKQogICAgICAgICAgICA6IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">JGdyYWRlcyA9IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkeWVhcnMgPSBZZWFyOjpnZXREcm9wZG93bigpOwo=</text>
+      <register name="5" type="8">
+        <text>, '=', ''</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkeWVhcnMgPSBZZWFyOjpnZXREcm9wZG93bigpOwo=</text>
+        <text encoding="base64">ICAgICAqIGFzZGYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlKCdsYXlvdXRzLl9mb3Jtcy5faW5wdXRfZHJvcGRvd24nLFsKICAgICAgICAnbmFtZScgPT4gJ3llYXJfaWQnLAogICAgICAgICdsYWJlbCcgPT4gJ1NjaG9vbCBZZWFyJywKICAgICAgICAnYXJyYXknID0+ICR5ZWFycywKICAgICAgICAnY2xhc3MnID0+IG51bGwsCiAgICAgICAgJ3NlbGVjdGVkJyA9PiBlbnYoJ1NDSE9PTF9ZRUFSX0lEJyksCiAgICAgICAgJ3JlcXVpcmVkJyA9PiB0cnVlCiAgICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgiI3llYXJfaWQiKS5zZWxlY3QyKHsgcGxhY2Vob2xkZXI6ICJDaG9vc2UgT25lLi4uIiB9KTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tTmV3IHllYXJfaWQgcmFkaW8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2dyYWRlX2xldmVscycpLnZhbChbe3sgaW1wbG9kZSgnLCcsICRjb3Vyc2UtPmdyYWRlTGV2ZWxzLT5wbHVjaygnaWQnKS0+dG9BcnJheSgpKSB9fV0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0+CiAgICA8IS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4446,7 +4446,6 @@
         <entry>update</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLENvdXJzZSxDbGFzcyxn</entry>
         <entry encoding="base64">JzwsJz5zLGNsYXNzZXNOYW1lLGNsYXNzTmFtZSxn</entry>
         <entry>redo</entry>
         <entry encoding="base64">JzwsJz5zLHByaW1hcnksc2Vjb25kYXJ5LGc=</entry>
@@ -4459,12 +4458,13 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zLGVtcGxveWVlLGNsYXNzLGc=</entry>
         <entry encoding="base64">JzwsJz5zLHN0YXR1c19pZCxzdHVkZW50X3N0YXR1c19pZCxn</entry>
-        <entry>2</entry>
         <entry>%s,students,students_pivot,g</entry>
         <entry encoding="base64">JzwsJz5zLDEsMixn</entry>
         <entry encoding="base64">JzwsJz5zLDIsMyxn</entry>
         <entry>%s,Sudents,Students,g</entry>
         <entry>%s,'currentFuture',,g</entry>
+        <entry>2</entry>
+        <entry>2w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
